@@ -1,0 +1,7 @@
+0	78	
+82	803	
+807	1317	Policy_prescription_and_evaluation
+1321	1616	
+1620	1817	
+1821	2319	External_regulation_and_reputation	Capacity_and_resources
+2323	3096	

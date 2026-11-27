@@ -1,0 +1,15 @@
+0	73	Political
+76	322	Quality_of_life	Security_and_defense
+324	387	Security_and_defense
+389	688	Economic	Quality_of_life	Crime_and_punishment
+690	887	Policy_prescription_and_evaluation
+889	959	Political
+961	1168	Crime_and_punishment
+1170	1447	Political
+1449	1808	Political
+1810	2021	Legality_Constitutionality_and_jurisprudence
+2023	2246	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+2248	2430	Security_and_defense
+2432	2611	Legality_Constitutionality_and_jurisprudence
+2613	2695	Capacity_and_resources
+2697	2812	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation

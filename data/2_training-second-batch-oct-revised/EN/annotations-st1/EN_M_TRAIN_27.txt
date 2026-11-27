@@ -1,0 +1,8 @@
+0	67	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality
+71	563	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation	Fairness_and_equality
+567	1142	Policy_prescription_and_evaluation
+1146	1535	
+1539	2289	Health_and_safety
+2293	2698	Health_and_safety	Quality_of_life	Political
+2702	2999	Legality_Constitutionality_and_jurisprudence
+3003	3532	Fairness_and_equality

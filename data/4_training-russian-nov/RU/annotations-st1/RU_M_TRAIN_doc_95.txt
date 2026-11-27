@@ -1,0 +1,6 @@
+0	81	Economic	Political
+84	338	Policy_prescription_and_evaluation	Economic	External_regulation_and_reputation	Political	Security_and_defense
+340	613	Policy_prescription_and_evaluation	Economic	Capacity_and_resources	Political
+615	951	Political
+953	1363	Political	Security_and_defense
+1365	1729	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation	Security_and_defense

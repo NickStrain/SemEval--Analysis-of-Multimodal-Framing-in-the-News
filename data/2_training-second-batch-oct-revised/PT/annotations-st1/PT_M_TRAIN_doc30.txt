@@ -1,0 +1,24 @@
+0	89	Policy_prescription_and_evaluation	Crime_and_punishment
+92	341	Policy_prescription_and_evaluation	Crime_and_punishment
+343	647	Legality_Constitutionality_and_jurisprudence	Quality_of_life	Political	Crime_and_punishment
+649	808	Crime_and_punishment
+810	1127	Policy_prescription_and_evaluation	Crime_and_punishment
+1129	1341	
+1343	1581	
+1583	1935	Public_opinion
+1937	2170	Crime_and_punishment
+2172	2309	
+2311	2515	
+2517	2809	Security_and_defense	Crime_and_punishment
+2811	2950	Legality_Constitutionality_and_jurisprudence
+2952	3039	
+3041	3246	Capacity_and_resources	Crime_and_punishment
+3248	3554	Capacity_and_resources
+3556	3818	Security_and_defense	Crime_and_punishment
+3820	4130	Security_and_defense	Crime_and_punishment
+4132	4331	Health_and_safety	Crime_and_punishment
+4333	4547	Crime_and_punishment
+4549	4856	Public_opinion	Crime_and_punishment
+4858	5016	Policy_prescription_and_evaluation	Political
+5018	5306	Security_and_defense	Public_opinion
+5308	5530	Public_opinion	Crime_and_punishment

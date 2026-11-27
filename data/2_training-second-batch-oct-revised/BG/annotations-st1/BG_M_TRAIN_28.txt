@@ -1,0 +1,5 @@
+0	74	
+78	555	
+559	1300	External_regulation_and_reputation
+1304	1808	External_regulation_and_reputation
+1812	2195	Crime_and_punishment

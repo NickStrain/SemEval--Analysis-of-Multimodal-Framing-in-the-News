@@ -1,0 +1,7 @@
+0	54	
+58	478	Public_opinion	Fairness_and_equality
+482	935	Policy_prescription_and_evaluation	Capacity_and_resources	Political
+939	1383	Political	Security_and_defense
+1387	1706	Capacity_and_resources	Political
+1710	1972	Morality	Political
+1976	2340	Political	Public_opinion

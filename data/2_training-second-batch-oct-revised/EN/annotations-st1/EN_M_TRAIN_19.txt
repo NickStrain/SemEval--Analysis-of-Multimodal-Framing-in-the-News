@@ -1,0 +1,8 @@
+0	68	
+72	444	Security_and_defense	Crime_and_punishment
+448	1044	Morality
+1048	1420	Security_and_defense
+1424	2131	Quality_of_life
+2135	2643	
+2647	3021	Crime_and_punishment
+3025	3477	Quality_of_life

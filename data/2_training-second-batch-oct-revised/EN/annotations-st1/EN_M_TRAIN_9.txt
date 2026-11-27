@@ -1,0 +1,22 @@
+0	93	Political
+97	221	External_regulation_and_reputation
+225	554	
+558	986	External_regulation_and_reputation
+990	1328	Health_and_safety
+1332	1582	Health_and_safety	Capacity_and_resources
+1586	2003	Security_and_defense
+2007	2459	
+2463	2672	
+2676	2993	Crime_and_punishment
+2997	3347	
+3351	3471	Morality
+3475	3753	
+3757	3896	Morality
+3900	4214	
+4218	4452	Health_and_safety
+4456	4864	Health_and_safety
+4868	5314	
+5318	5539	Political
+5543	5926	
+5930	6318	Health_and_safety
+6322	6577	

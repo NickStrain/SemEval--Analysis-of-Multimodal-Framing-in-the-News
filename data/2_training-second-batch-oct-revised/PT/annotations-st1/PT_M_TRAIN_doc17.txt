@@ -1,0 +1,13 @@
+0	69	Policy_prescription_and_evaluation	Political
+72	208	Public_opinion	Crime_and_punishment
+210	550	Crime_and_punishment
+552	918	Policy_prescription_and_evaluation	Political
+920	1254	Policy_prescription_and_evaluation	Political
+1256	1456	Policy_prescription_and_evaluation	Political
+1458	1779	Policy_prescription_and_evaluation	Political	Security_and_defense	Crime_and_punishment
+1781	2081	Legality_Constitutionality_and_jurisprudence	Morality	Quality_of_life	Political
+2083	2403	Policy_prescription_and_evaluation	Political
+2405	2754	Political	Public_opinion
+2756	2993	Policy_prescription_and_evaluation	Political
+2995	3309	Policy_prescription_and_evaluation	Political
+3311	3657	Political	Crime_and_punishment

@@ -1,0 +1,8 @@
+0	47	Public_opinion
+51	627	Morality	Political	Public_opinion
+631	889	Public_opinion	Crime_and_punishment
+893	1482	Fairness_and_equality
+1486	1717	Public_opinion
+1721	2004	
+2008	2428	Economic	Capacity_and_resources	Political
+2432	2807	Economic	Public_opinion

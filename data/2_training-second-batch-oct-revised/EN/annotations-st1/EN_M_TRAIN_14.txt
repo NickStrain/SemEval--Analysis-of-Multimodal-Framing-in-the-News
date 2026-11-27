@@ -1,0 +1,5 @@
+0	92	Legality_Constitutionality_and_jurisprudence
+96	452	Security_and_defense
+456	780	
+784	1120	
+1124	1544	Legality_Constitutionality_and_jurisprudence	Morality

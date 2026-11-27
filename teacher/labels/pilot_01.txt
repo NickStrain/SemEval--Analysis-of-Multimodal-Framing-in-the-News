@@ -1,0 +1,65 @@
+EN_M_TRAIN_3#0|SEC:0.8|0.1|Headline: killings continue despite ceasefire
+EN_M_TRAIN_3#1|SEC:0.7 MOR:0.3|0.2|Emotive claim of continuing carnage despite ceasefire
+EN_M_TRAIN_3#2|SEC:0.7 HEA:0.4|0.1|Civil defence death and injury toll
+EN_M_TRAIN_3#3|SEC:0.7|0.2|Fatalities by area
+EN_M_TRAIN_3#4|SEC:0.8|0.1|Bombardment continues before ceasefire takes effect
+EN_M_TRAIN_3#5|SEC:0.7 QOL:0.3|0.1|Airstrike kills family in home
+EN_M_TRAIN_3#6|SEC:0.7|0.1|Airstrikes on tent and drone strike deaths
+EN_M_TRAIN_3#7|SEC:0.7 QOL:0.3|0.1|Airstrikes kill people in house and displaced tent
+EN_M_TRAIN_3#8|SEC:0.7 HEA:0.4|0.1|Cumulative war death and injury toll
+EN_M_TRAIN_3#9|QOL:0.6 CAP:0.5|0.2|Subheading: ruins, long recovery, displacement
+EN_M_TRAIN_3#10|ECO:0.5 CAP:0.5 EXT:0.3|0.2|Donors assess destruction and reconstruction
+EN_M_TRAIN_3#11|SEC:0.5 CAP:0.4|0.2|Scale of rubble compared with other wars
+EN_M_TRAIN_3#12|ECO:0.8 CAP:0.4|0.1|Cost of debris clearance and reconstruction
+EN_M_TRAIN_3#13|SEC:0.4|0.5|Short subheading
+EN_M_TRAIN_3#14|QOL:0.7 CAP:0.6 HEA:0.4|0.1|Infrastructure, hospitals, homes destroyed; population displaced
+EN_M_TRAIN_3#15|CAP:0.6 HEA:0.4 QOL:0.4|0.1|Water infrastructure destroyed
+EN_M_TRAIN_3#16|HEA:0.6 CAP:0.4|0.1|Debris contains ordnance, hazardous substances, remains
+EN_M_TRAIN_3#17||0.8|Short subheading without framing
+EN_M_TRAIN_3#18|CAP:0.5 SEC:0.4|0.2|Satellite analysis of building damage
+EN_M_TRAIN_3#19|HEA:0.6 CAP:0.5|0.1|Clearing challenges: ordnance, asbestos, bodies
+EN_M_TRAIN_3#20|HEA:0.9|0.1|WHO warns of hazardous dust and water contamination
+EN_M_TRAIN_3#21|SEC:0.4 CAP:0.3|0.5|Where destruction is concentrated
+EN_M_TRAIN_3#22|CAP:0.5 SEC:0.4|0.3|Share of buildings damaged by area
+EN_M_TRAIN_32#0|CUL:0.4 EXT:0.3|0.5|Ceremonial sports meeting headline
+EN_M_TRAIN_32#1|CUL:0.4 EXT:0.4|0.4|Royal receives federation president at championship
+EN_M_TRAIN_32#2|CUL:0.5 ECO:0.3 EXT:0.4 CAP:0.3|0.2|Strategic vision to make emirate a global sports hub
+EN_M_TRAIN_32#3|CUL:0.5 EXT:0.4|0.3|Praise for federation and hosting success
+EN_M_TRAIN_32#4|CUL:0.4 MOR:0.4 EXT:0.3|0.3|Gratitude; humanitarian support and noble values of sport
+EN_M_TRAIN_46#0||0.9|Date line only
+EN_M_TRAIN_46#1|EXT:0.8 POL:0.6 SEC:0.4|0.1|Parliament urges suspending EU-Rwanda minerals deal over conflict
+EN_M_TRAIN_46#2|SEC:0.7 LEG:0.5 EXT:0.5 POLIT:0.4|0.1|Resolution condemns occupation, war crimes and killings
+EN_M_TRAIN_46#3|EXT:0.8 POL:0.6 ECO:0.4|0.1|Calls to halt aid and suspend memorandum
+EN_M_TRAIN_46#4|ECO:0.7 EXT:0.6 CAP:0.5 POL:0.4|0.1|Agreement secures critical raw materials for funding
+EN_M_TRAIN_46#5|EXT:0.6 CRI:0.4 ECO:0.4|0.1|Controversy over illicit mineral trade and DRC objection
+EN_M_TRAIN_46#6|EXT:0.7 POL:0.5 HEA:0.3 LEG:0.3|0.1|Commission keeps deal, demands humanitarian protections
+EN_M_TRAIN_46#7|POL:0.6 ECO:0.5 EXT:0.5 CAP:0.3|0.1|Aid budget accelerated; suspension called self-defeating
+EN_M_TRAIN_5#0|POL:0.6 ECO:0.5 POLIT:0.5|0.1|University accepts administration demands to restore funding
+EN_M_TRAIN_5#1|POL:0.6 ECO:0.5 POLIT:0.4|0.1|Grants cancelled; demands on masks, discipline, admissions
+EN_M_TRAIN_5#2|ECO:0.6 POL:0.5 POLIT:0.5|0.1|Concession to restore $400 million funding
+EN_M_TRAIN_5#3|ECO:0.5 FAI:0.4 CAP:0.4 POLIT:0.4|0.1|Funding cut over harassment of Jewish students ends research
+EN_M_TRAIN_5#4|POL:0.6 ECO:0.4|0.1|Nine demands to restore funds
+EN_M_TRAIN_5#5|POLIT:0.5 POL:0.4|0.3|Administration largely got what it asked
+EN_M_TRAIN_5#6|POL:0.8 SEC:0.3|0.1|Mask ban, arresting security officers, departmental oversight
+EN_M_TRAIN_5#7|POL:0.7 FAI:0.4|0.1|Neutrality policy and admissions review
+EN_M_TRAIN_5#8|POL:0.4|0.4|President justifies response for continuity
+EN_M_TRAIN_5#9|CUL:0.4|0.5|Statement on debate and community values
+EN_M_TRAIN_5#10|POLIT:0.6 POL:0.5|0.2|Unprecedented federal leverage over universities
+EN_M_TRAIN_5#11|PUB:0.6 POLIT:0.4|0.2|Student group condemns deal
+EN_M_TRAIN_5#12|PUB:0.5 MOR:0.5 POLIT:0.5|0.1|Group accuses university of complicity and selling out
+EN_M_TRAIN_5#13|POLIT:0.6 PUB:0.4 LEG:0.3|0.1|Faculty warn against authoritarian interference
+EN_M_TRAIN_5#14|CUL:0.5 QOL:0.3 LEG:0.3|0.2|Academic freedom and scholarship at stake
+EN_M_TRAIN_5#15|POLIT:0.5 PUB:0.5|0.2|University as epicentre of protests
+EN_M_TRAIN_5#16|SEC:0.5 PUB:0.5 EXT:0.3|0.2|War background and divestment protests
+EN_M_TRAIN_5#17|PUB:0.6 CRI:0.4 FAI:0.3|0.1|Encampment, occupation, arrests, contested slogans
+EN_M_TRAIN_5#18|FAI:0.5 SEC:0.4 PUB:0.4 CRI:0.3|0.1|Jewish students divided; some report assaults
+EN_M_TRAIN_5#19|PUB:0.6|0.2|Arrested student says challenges unite students
+EN_M_TRAIN_5#20|PUB:0.5 LEG:0.4 POLIT:0.3|0.2|Free speech and democracy broaden student involvement
+EN_M_TRAIN_5#21|POL:0.5 FAI:0.4 LEG:0.4|0.1|Justice Department task force on antisemitic harassment
+EN_M_TRAIN_5#22|CRI:0.5 LEG:0.5 POL:0.4|0.1|Immigration arrests of protesters; visa revoked
+EN_M_TRAIN_5#23|POLIT:0.5 CRI:0.3|0.2|Hope that deal stops immigration targeting
+EN_M_TRAIN_5#24|POLIT:0.5 FAI:0.3|0.2|Worry students used as pressure tactic
+EN_M_TRAIN_5#25|LEG:0.6 PUB:0.5|0.1|Arrests prompt protests and free speech concerns
+EN_M_TRAIN_5#26|LEG:0.4 PUB:0.3|0.4|Journalism school describes chilling effect
+EN_M_TRAIN_5#27|LEG:0.6 POLIT:0.5 CUL:0.3|0.1|Deportation and libel used to silence critics
+EN_M_TRAIN_5#28||0.8|Logistics about spring break

@@ -1,0 +1,6 @@
+0	74	Security_and_defense	Crime_and_punishment
+77	147	Security_and_defense	Crime_and_punishment
+150	344	Security_and_defense	Crime_and_punishment
+346	729	
+731	1073	Economic	Security_and_defense	Crime_and_punishment
+1075	1148	Crime_and_punishment

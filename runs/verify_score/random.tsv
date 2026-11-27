@@ -1,0 +1,907 @@
+EN_M_TRAIN_1.txt	0	76	Health_and_safety
+EN_M_TRAIN_1.txt	80	410
+EN_M_TRAIN_1.txt	414	941	Capacity_and_resources	Security_and_defense
+EN_M_TRAIN_1.txt	945	1046	Crime_and_punishment	Quality_of_life	Public_opinion
+EN_M_TRAIN_1.txt	1050	1410	Economic	Morality	Crime_and_punishment	Cultural_identity
+EN_M_TRAIN_1.txt	1414	1795	Capacity_and_resources	External_regulation_and_reputation
+EN_M_TRAIN_1.txt	1799	2093	Fairness_and_equality
+EN_M_TRAIN_1.txt	2097	2291
+EN_M_TRAIN_1.txt	2295	2571	Policy_prescription_and_evaluation	Crime_and_punishment	Quality_of_life
+EN_M_TRAIN_1.txt	2575	2960	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	Health_and_safety
+EN_M_TRAIN_1.txt	2964	3263	Capacity_and_resources	Health_and_safety
+EN_M_TRAIN_1.txt	3267	3555	Morality
+EN_M_TRAIN_1.txt	3559	3697	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+EN_M_TRAIN_10.txt	0	72	Capacity_and_resources	Legality_Constitutionality_and_jurisprudence	Cultural_identity	Public_opinion
+EN_M_TRAIN_10.txt	76	344	Fairness_and_equality
+EN_M_TRAIN_10.txt	348	578	Economic	Crime_and_punishment	Security_and_defense
+EN_M_TRAIN_10.txt	582	803	Economic	Policy_prescription_and_evaluation	Security_and_defense
+EN_M_TRAIN_10.txt	807	1076	Economic
+EN_M_TRAIN_10.txt	1080	1139	Fairness_and_equality	Quality_of_life
+EN_M_TRAIN_10.txt	1143	1376
+EN_M_TRAIN_10.txt	1380	1625
+EN_M_TRAIN_10.txt	1629	1753	Morality
+EN_M_TRAIN_10.txt	1757	1995	Economic	Security_and_defense	Political
+EN_M_TRAIN_10.txt	1999	2328
+EN_M_TRAIN_10.txt	2332	2576	Health_and_safety
+EN_M_TRAIN_10.txt	2580	2726	Economic	Fairness_and_equality
+EN_M_TRAIN_10.txt	2730	3015	Capacity_and_resources	Political
+EN_M_TRAIN_10.txt	3019	3389	Cultural_identity
+EN_M_TRAIN_10.txt	3393	3652
+EN_M_TRAIN_10.txt	3656	3906	Health_and_safety
+EN_M_TRAIN_10.txt	3910	4054	Economic	Policy_prescription_and_evaluation	Cultural_identity	Public_opinion
+EN_M_TRAIN_10.txt	4058	4273
+EN_M_TRAIN_10.txt	4277	4495	Economic
+EN_M_TRAIN_10.txt	4499	4608
+EN_M_TRAIN_10.txt	4612	4817
+EN_M_TRAIN_10.txt	4821	4853	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+EN_M_TRAIN_11.txt	0	68	Health_and_safety
+EN_M_TRAIN_11.txt	72	384
+EN_M_TRAIN_11.txt	388	556	Fairness_and_equality
+EN_M_TRAIN_11.txt	560	1196	Cultural_identity
+EN_M_TRAIN_11.txt	1200	1618	Political
+EN_M_TRAIN_11.txt	1622	1993	Political
+EN_M_TRAIN_11.txt	1997	2698
+EN_M_TRAIN_11.txt	2702	3198	Cultural_identity
+EN_M_TRAIN_11.txt	3202	3525
+EN_M_TRAIN_11.txt	3529	3773
+EN_M_TRAIN_13.txt	0	67	Policy_prescription_and_evaluation	External_regulation_and_reputation
+EN_M_TRAIN_13.txt	71	426	Security_and_defense	Cultural_identity
+EN_M_TRAIN_13.txt	430	912	Policy_prescription_and_evaluation
+EN_M_TRAIN_13.txt	916	1133	Economic	Capacity_and_resources	Crime_and_punishment
+EN_M_TRAIN_13.txt	1137	2113
+EN_M_TRAIN_13.txt	2117	2388
+EN_M_TRAIN_13.txt	2392	2869	Crime_and_punishment
+EN_M_TRAIN_13.txt	2873	3092	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Public_opinion
+EN_M_TRAIN_13.txt	3096	3789
+EN_M_TRAIN_14.txt	0	92
+EN_M_TRAIN_14.txt	96	452	Security_and_defense
+EN_M_TRAIN_14.txt	456	780
+EN_M_TRAIN_14.txt	784	1120
+EN_M_TRAIN_14.txt	1124	1544	Crime_and_punishment	Public_opinion
+EN_M_TRAIN_15.txt	0	52	Legality_Constitutionality_and_jurisprudence	Health_and_safety	Public_opinion
+EN_M_TRAIN_15.txt	56	742	Quality_of_life	Public_opinion
+EN_M_TRAIN_15.txt	746	1124	Quality_of_life	Cultural_identity	External_regulation_and_reputation
+EN_M_TRAIN_15.txt	1128	1385
+EN_M_TRAIN_15.txt	1389	1935	Economic	Policy_prescription_and_evaluation	Cultural_identity
+EN_M_TRAIN_15.txt	1939	2294	Policy_prescription_and_evaluation	Public_opinion
+EN_M_TRAIN_16.txt	0	69	Capacity_and_resources
+EN_M_TRAIN_16.txt	73	346	Morality	Policy_prescription_and_evaluation
+EN_M_TRAIN_16.txt	350	611	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_16.txt	615	987
+EN_M_TRAIN_16.txt	991	1386	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+EN_M_TRAIN_17.txt	0	77	Capacity_and_resources	Morality	Security_and_defense
+EN_M_TRAIN_17.txt	81	635	Quality_of_life
+EN_M_TRAIN_17.txt	639	1000	Capacity_and_resources	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_17.txt	1004	1504	Cultural_identity
+EN_M_TRAIN_18.txt	0	62	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_18.txt	66	587	Crime_and_punishment	Quality_of_life
+EN_M_TRAIN_18.txt	591	926	Capacity_and_resources
+EN_M_TRAIN_18.txt	930	1264	Morality
+EN_M_TRAIN_18.txt	1268	1654
+EN_M_TRAIN_2.txt	0	63	Security_and_defense	External_regulation_and_reputation
+EN_M_TRAIN_2.txt	67	196	Fairness_and_equality	Policy_prescription_and_evaluation
+EN_M_TRAIN_2.txt	200	413	Economic	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_2.txt	417	542	Morality	Crime_and_punishment
+EN_M_TRAIN_2.txt	546	877	Morality	Security_and_defense
+EN_M_TRAIN_2.txt	881	1244
+EN_M_TRAIN_2.txt	1248	1287	Fairness_and_equality	Crime_and_punishment	Quality_of_life
+EN_M_TRAIN_2.txt	1291	1662	Economic	Morality	Crime_and_punishment	Public_opinion
+EN_M_TRAIN_2.txt	1666	2019	Morality	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+EN_M_TRAIN_2.txt	2023	2300	Security_and_defense
+EN_M_TRAIN_2.txt	2304	2657	External_regulation_and_reputation
+EN_M_TRAIN_20.txt	0	86	Capacity_and_resources	Fairness_and_equality	Crime_and_punishment	Public_opinion
+EN_M_TRAIN_20.txt	90	819	Economic	External_regulation_and_reputation
+EN_M_TRAIN_20.txt	823	1105	Political
+EN_M_TRAIN_20.txt	1109	1509	Quality_of_life
+EN_M_TRAIN_21.txt	0	69	Political
+EN_M_TRAIN_21.txt	73	632	Quality_of_life
+EN_M_TRAIN_21.txt	636	915	Fairness_and_equality
+EN_M_TRAIN_21.txt	919	1310	Economic	Legality_Constitutionality_and_jurisprudence	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_21.txt	1314	2086	Security_and_defense
+EN_M_TRAIN_21.txt	2090	2869	Health_and_safety
+EN_M_TRAIN_21.txt	2873	3090	Policy_prescription_and_evaluation	Health_and_safety	Public_opinion
+EN_M_TRAIN_21.txt	3094	3489	Health_and_safety	Political
+EN_M_TRAIN_22.txt	0	36
+EN_M_TRAIN_22.txt	40	495	Economic	Public_opinion	External_regulation_and_reputation
+EN_M_TRAIN_22.txt	499	1050	Morality	Policy_prescription_and_evaluation	Quality_of_life
+EN_M_TRAIN_22.txt	1054	1502
+EN_M_TRAIN_22.txt	1506	1951
+EN_M_TRAIN_22.txt	1955	2455	Crime_and_punishment	External_regulation_and_reputation
+EN_M_TRAIN_22.txt	2459	2872	Fairness_and_equality
+EN_M_TRAIN_23.txt	0	58	Economic	Policy_prescription_and_evaluation	Crime_and_punishment
+EN_M_TRAIN_23.txt	62	365	Capacity_and_resources	Policy_prescription_and_evaluation	Quality_of_life
+EN_M_TRAIN_23.txt	369	829	Health_and_safety	Public_opinion
+EN_M_TRAIN_23.txt	833	1157
+EN_M_TRAIN_23.txt	1161	1534	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_23.txt	1538	1845	Fairness_and_equality	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_23.txt	1849	2568
+EN_M_TRAIN_23.txt	2572	3110	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	External_regulation_and_reputation
+EN_M_TRAIN_23.txt	3114	3955	Health_and_safety
+EN_M_TRAIN_23.txt	3959	4607	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_23.txt	4611	5114	Capacity_and_resources
+EN_M_TRAIN_23.txt	5118	5454	Security_and_defense
+EN_M_TRAIN_23.txt	5458	5962
+EN_M_TRAIN_24.txt	0	78	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_24.txt	82	467	Cultural_identity
+EN_M_TRAIN_24.txt	471	793	Quality_of_life
+EN_M_TRAIN_24.txt	797	1145	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+EN_M_TRAIN_24.txt	1149	1444	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+EN_M_TRAIN_24.txt	1448	1715	Cultural_identity
+EN_M_TRAIN_25.txt	0	41	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_25.txt	45	542	Cultural_identity
+EN_M_TRAIN_25.txt	546	1205
+EN_M_TRAIN_25.txt	1209	2547	Crime_and_punishment	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_25.txt	2551	3286	Fairness_and_equality	Health_and_safety
+EN_M_TRAIN_25.txt	3290	4160
+EN_M_TRAIN_25.txt	4164	4850	Security_and_defense
+EN_M_TRAIN_25.txt	4854	5347
+EN_M_TRAIN_25.txt	5351	5923	Policy_prescription_and_evaluation	Cultural_identity
+EN_M_TRAIN_25.txt	5927	6107	Security_and_defense
+EN_M_TRAIN_25.txt	6111	6457	External_regulation_and_reputation
+EN_M_TRAIN_26.txt	0	60	Security_and_defense
+EN_M_TRAIN_26.txt	64	521	Health_and_safety
+EN_M_TRAIN_26.txt	525	811	Quality_of_life	Cultural_identity
+EN_M_TRAIN_26.txt	815	990	Capacity_and_resources	Quality_of_life
+EN_M_TRAIN_26.txt	994	1399	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment	Security_and_defense
+EN_M_TRAIN_26.txt	1403	1790
+EN_M_TRAIN_26.txt	1794	1987	Crime_and_punishment
+EN_M_TRAIN_29.txt	0	71
+EN_M_TRAIN_29.txt	75	459	External_regulation_and_reputation
+EN_M_TRAIN_29.txt	463	946
+EN_M_TRAIN_29.txt	950	1152	Security_and_defense	Political
+EN_M_TRAIN_29.txt	1156	1418	Morality	Health_and_safety
+EN_M_TRAIN_29.txt	1422	1697	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_29.txt	1701	2219	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_29.txt	2223	2650	Cultural_identity
+EN_M_TRAIN_29.txt	2654	3201	Quality_of_life
+EN_M_TRAIN_3.txt	0	62
+EN_M_TRAIN_3.txt	66	213	Morality	Public_opinion
+EN_M_TRAIN_3.txt	217	446	Fairness_and_equality	External_regulation_and_reputation
+EN_M_TRAIN_3.txt	450	643
+EN_M_TRAIN_3.txt	647	817	Cultural_identity	Public_opinion
+EN_M_TRAIN_3.txt	821	1013	Capacity_and_resources	Public_opinion
+EN_M_TRAIN_3.txt	1017	1245	Fairness_and_equality	Crime_and_punishment
+EN_M_TRAIN_3.txt	1249	1520	Security_and_defense	Quality_of_life
+EN_M_TRAIN_3.txt	1524	1860	Cultural_identity
+EN_M_TRAIN_3.txt	1864	1932	Fairness_and_equality	Security_and_defense
+EN_M_TRAIN_3.txt	1936	2156
+EN_M_TRAIN_3.txt	2160	2480	Cultural_identity
+EN_M_TRAIN_3.txt	2484	2621	Fairness_and_equality
+EN_M_TRAIN_3.txt	2625	2664	Public_opinion
+EN_M_TRAIN_3.txt	2668	3136	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Quality_of_life
+EN_M_TRAIN_3.txt	3140	3285	Capacity_and_resources
+EN_M_TRAIN_3.txt	3289	3691	Security_and_defense	Political
+EN_M_TRAIN_3.txt	3695	3711	Political
+EN_M_TRAIN_3.txt	3715	3972	Economic	Capacity_and_resources	Cultural_identity
+EN_M_TRAIN_3.txt	3976	4330
+EN_M_TRAIN_3.txt	4334	4605	Fairness_and_equality	Policy_prescription_and_evaluation
+EN_M_TRAIN_3.txt	4609	4719	Economic	Morality
+EN_M_TRAIN_3.txt	4723	4927	Economic	External_regulation_and_reputation
+EN_M_TRAIN_30.txt	0	41	Public_opinion
+EN_M_TRAIN_30.txt	45	531	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+EN_M_TRAIN_30.txt	535	743	Capacity_and_resources
+EN_M_TRAIN_30.txt	747	1009	Capacity_and_resources
+EN_M_TRAIN_30.txt	1013	1384	Morality	Quality_of_life	Public_opinion
+EN_M_TRAIN_30.txt	1388	2057	Political
+EN_M_TRAIN_30.txt	2061	2367	Morality
+EN_M_TRAIN_30.txt	2371	2658	Economic
+EN_M_TRAIN_30.txt	2662	3024	Fairness_and_equality	Crime_and_punishment
+EN_M_TRAIN_31.txt	0	69	Policy_prescription_and_evaluation
+EN_M_TRAIN_31.txt	73	512	Crime_and_punishment	Political
+EN_M_TRAIN_31.txt	516	852	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment	External_regulation_and_reputation
+EN_M_TRAIN_31.txt	856	1177	Policy_prescription_and_evaluation
+EN_M_TRAIN_31.txt	1181	1468	Capacity_and_resources	Fairness_and_equality	Political
+EN_M_TRAIN_31.txt	1472	1733	Crime_and_punishment
+EN_M_TRAIN_31.txt	1737	1989	Economic	Crime_and_punishment	Health_and_safety
+EN_M_TRAIN_31.txt	1993	2297	Economic
+EN_M_TRAIN_31.txt	2301	2408	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_31.txt	2412	2694	Political
+EN_M_TRAIN_31.txt	2698	2881	Public_opinion
+EN_M_TRAIN_31.txt	2885	3315	Economic	Political
+EN_M_TRAIN_31.txt	3319	3795	Policy_prescription_and_evaluation	Public_opinion
+EN_M_TRAIN_31.txt	3799	4068	Public_opinion	External_regulation_and_reputation
+EN_M_TRAIN_31.txt	4072	4455	External_regulation_and_reputation
+EN_M_TRAIN_31.txt	4459	4785
+EN_M_TRAIN_32.txt	0	67
+EN_M_TRAIN_32.txt	71	571	Economic	Fairness_and_equality	Political
+EN_M_TRAIN_32.txt	575	1241	Legality_Constitutionality_and_jurisprudence	Cultural_identity
+EN_M_TRAIN_32.txt	1245	1596
+EN_M_TRAIN_32.txt	1600	2124	External_regulation_and_reputation
+EN_M_TRAIN_33.txt	0	55	Economic	Morality	Security_and_defense
+EN_M_TRAIN_33.txt	59	510	Political
+EN_M_TRAIN_33.txt	514	1015	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_33.txt	1019	1449	Capacity_and_resources
+EN_M_TRAIN_33.txt	1453	1828	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_33.txt	1832	1970	Health_and_safety
+EN_M_TRAIN_33.txt	1974	2300	Political
+EN_M_TRAIN_33.txt	2304	2590	Capacity_and_resources
+EN_M_TRAIN_33.txt	2594	2894	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_34.txt	0	62
+EN_M_TRAIN_34.txt	66	342	Policy_prescription_and_evaluation	Public_opinion
+EN_M_TRAIN_34.txt	346	637	Security_and_defense
+EN_M_TRAIN_34.txt	641	887
+EN_M_TRAIN_34.txt	891	1081	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_34.txt	1085	1702	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_35.txt	0	56	Policy_prescription_and_evaluation
+EN_M_TRAIN_35.txt	60	691	Policy_prescription_and_evaluation
+EN_M_TRAIN_35.txt	695	989	External_regulation_and_reputation
+EN_M_TRAIN_35.txt	993	1304	Policy_prescription_and_evaluation	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_35.txt	1308	1830	Policy_prescription_and_evaluation	Cultural_identity
+EN_M_TRAIN_35.txt	1834	2178	Morality	Fairness_and_equality
+EN_M_TRAIN_35.txt	2182	2406
+EN_M_TRAIN_35.txt	2410	3292	Public_opinion
+EN_M_TRAIN_36.txt	0	84	Fairness_and_equality	Quality_of_life
+EN_M_TRAIN_36.txt	88	850	Policy_prescription_and_evaluation
+EN_M_TRAIN_36.txt	854	1478	Economic
+EN_M_TRAIN_36.txt	1482	2186	Morality
+EN_M_TRAIN_36.txt	2190	2662	Security_and_defense	Health_and_safety
+EN_M_TRAIN_36.txt	2666	3065	Security_and_defense
+EN_M_TRAIN_36.txt	3069	3506
+EN_M_TRAIN_36.txt	3510	4070
+EN_M_TRAIN_36.txt	4074	4400	Economic	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+EN_M_TRAIN_36.txt	4404	4768
+EN_M_TRAIN_36.txt	4772	5381	Economic	Morality	Quality_of_life
+EN_M_TRAIN_36.txt	5385	5836	Policy_prescription_and_evaluation	Security_and_defense
+EN_M_TRAIN_36.txt	5840	6132	Policy_prescription_and_evaluation
+EN_M_TRAIN_36.txt	6136	6512	Fairness_and_equality
+EN_M_TRAIN_36.txt	6516	6627	Crime_and_punishment	Health_and_safety	Quality_of_life	Political
+EN_M_TRAIN_37.txt	0	46	Policy_prescription_and_evaluation
+EN_M_TRAIN_37.txt	50	928	Cultural_identity	Public_opinion
+EN_M_TRAIN_37.txt	932	1149	Policy_prescription_and_evaluation	Security_and_defense	Quality_of_life	Public_opinion	External_regulation_and_reputation
+EN_M_TRAIN_37.txt	1153	1515	Crime_and_punishment	Health_and_safety
+EN_M_TRAIN_37.txt	1519	1853	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment	Political
+EN_M_TRAIN_37.txt	1857	2183	Morality	Quality_of_life	Political
+EN_M_TRAIN_37.txt	2187	2501	Economic	Fairness_and_equality	Health_and_safety
+EN_M_TRAIN_37.txt	2505	2885
+EN_M_TRAIN_38.txt	0	98	Capacity_and_resources	Morality	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_38.txt	102	1163	Legality_Constitutionality_and_jurisprudence	Quality_of_life	Cultural_identity
+EN_M_TRAIN_38.txt	1167	1891	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_38.txt	1895	2465
+EN_M_TRAIN_38.txt	2469	3192	Public_opinion
+EN_M_TRAIN_38.txt	3196	4097	Morality	Fairness_and_equality
+EN_M_TRAIN_39.txt	0	48
+EN_M_TRAIN_39.txt	52	414
+EN_M_TRAIN_39.txt	418	784	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_39.txt	788	1165
+EN_M_TRAIN_39.txt	1169	1508	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+EN_M_TRAIN_39.txt	1512	1851	Public_opinion
+EN_M_TRAIN_39.txt	1855	2142	Capacity_and_resources	Morality	Cultural_identity
+EN_M_TRAIN_39.txt	2146	2317	Capacity_and_resources
+EN_M_TRAIN_40.txt	0	51
+EN_M_TRAIN_40.txt	55	419
+EN_M_TRAIN_40.txt	423	713	External_regulation_and_reputation
+EN_M_TRAIN_40.txt	717	1104	Economic	Political
+EN_M_TRAIN_40.txt	1108	1485
+EN_M_TRAIN_40.txt	1489	1752
+EN_M_TRAIN_40.txt	1756	2046	Economic
+EN_M_TRAIN_40.txt	2050	2437	Public_opinion
+EN_M_TRAIN_41.txt	0	42	Morality
+EN_M_TRAIN_41.txt	46	526	Economic	External_regulation_and_reputation
+EN_M_TRAIN_41.txt	530	1270	Economic	Morality	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_41.txt	1274	1630	Health_and_safety
+EN_M_TRAIN_42.txt	0	80	Capacity_and_resources	Political
+EN_M_TRAIN_42.txt	84	604	Crime_and_punishment
+EN_M_TRAIN_42.txt	608	867
+EN_M_TRAIN_42.txt	871	1238	Capacity_and_resources	Crime_and_punishment
+EN_M_TRAIN_42.txt	1242	1711	Fairness_and_equality	Security_and_defense	Quality_of_life	Cultural_identity
+EN_M_TRAIN_43.txt	0	76	Capacity_and_resources
+EN_M_TRAIN_43.txt	80	705
+EN_M_TRAIN_43.txt	709	802	Morality	Legality_Constitutionality_and_jurisprudence	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_43.txt	806	1239	External_regulation_and_reputation
+EN_M_TRAIN_43.txt	1243	1955
+EN_M_TRAIN_43.txt	1959	2362	Security_and_defense
+EN_M_TRAIN_43.txt	2366	2572	Morality	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_44.txt	0	28	Legality_Constitutionality_and_jurisprudence	Health_and_safety	Political
+EN_M_TRAIN_44.txt	32	512	Economic	Morality
+EN_M_TRAIN_44.txt	516	1134	Fairness_and_equality
+EN_M_TRAIN_44.txt	1138	2290
+EN_M_TRAIN_44.txt	2294	2689
+EN_M_TRAIN_44.txt	2693	3413	Political
+EN_M_TRAIN_44.txt	3417	4185	Quality_of_life	Political
+EN_M_TRAIN_44.txt	4189	5229	Economic	Policy_prescription_and_evaluation
+EN_M_TRAIN_44.txt	5233	5845	Crime_and_punishment
+EN_M_TRAIN_44.txt	5849	6387
+EN_M_TRAIN_44.txt	6391	7010	Crime_and_punishment
+EN_M_TRAIN_44.txt	7014	7840	Economic	Legality_Constitutionality_and_jurisprudence	Political
+EN_M_TRAIN_44.txt	7844	8342
+EN_M_TRAIN_44.txt	8346	8873
+EN_M_TRAIN_45.txt	0	35	Public_opinion
+EN_M_TRAIN_45.txt	39	471	Quality_of_life
+EN_M_TRAIN_45.txt	475	727	Capacity_and_resources	Crime_and_punishment	External_regulation_and_reputation
+EN_M_TRAIN_45.txt	731	1023	Morality	Cultural_identity
+EN_M_TRAIN_45.txt	1027	1292	Capacity_and_resources
+EN_M_TRAIN_45.txt	1296	1571	Crime_and_punishment	Cultural_identity
+EN_M_TRAIN_45.txt	1575	1984
+EN_M_TRAIN_45.txt	1988	2516	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_45.txt	2520	2839	Fairness_and_equality	Quality_of_life
+EN_M_TRAIN_46.txt	0	16	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+EN_M_TRAIN_46.txt	20	695
+EN_M_TRAIN_46.txt	699	1212
+EN_M_TRAIN_46.txt	1216	1909	Economic	Fairness_and_equality
+EN_M_TRAIN_46.txt	1913	2522	Crime_and_punishment	Cultural_identity	Public_opinion	Political
+EN_M_TRAIN_46.txt	2526	3031	Policy_prescription_and_evaluation	Public_opinion	External_regulation_and_reputation
+EN_M_TRAIN_46.txt	3035	3689	Morality	Policy_prescription_and_evaluation	Public_opinion	External_regulation_and_reputation
+EN_M_TRAIN_46.txt	3693	4499	Security_and_defense
+EN_M_TRAIN_47.txt	0	75
+EN_M_TRAIN_47.txt	79	724
+EN_M_TRAIN_47.txt	728	962	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Cultural_identity	Political
+EN_M_TRAIN_47.txt	966	1268
+EN_M_TRAIN_47.txt	1272	1515	Public_opinion
+EN_M_TRAIN_47.txt	1519	1920	Cultural_identity	External_regulation_and_reputation
+EN_M_TRAIN_47.txt	1924	2241	Cultural_identity
+EN_M_TRAIN_47.txt	2245	2497
+EN_M_TRAIN_47.txt	2501	2845	Capacity_and_resources	Crime_and_punishment	Quality_of_life
+EN_M_TRAIN_47.txt	2849	3083	Policy_prescription_and_evaluation	Health_and_safety
+EN_M_TRAIN_47.txt	3087	3275
+EN_M_TRAIN_47.txt	3279	3448	Capacity_and_resources
+EN_M_TRAIN_47.txt	3452	3600	Security_and_defense
+EN_M_TRAIN_47.txt	3604	3715	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_47.txt	3719	3909	Fairness_and_equality	Quality_of_life	Cultural_identity	External_regulation_and_reputation
+EN_M_TRAIN_47.txt	3913	4268	Crime_and_punishment	Security_and_defense
+EN_M_TRAIN_47.txt	4272	4518
+EN_M_TRAIN_47.txt	4522	4748	Capacity_and_resources	Morality
+EN_M_TRAIN_47.txt	4752	5018	Economic	Fairness_and_equality	Public_opinion
+EN_M_TRAIN_48.txt	0	93
+EN_M_TRAIN_48.txt	97	789	Capacity_and_resources
+EN_M_TRAIN_48.txt	793	999	Capacity_and_resources	Cultural_identity
+EN_M_TRAIN_48.txt	1003	1496	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_48.txt	1500	2321
+EN_M_TRAIN_48.txt	2325	2562
+EN_M_TRAIN_48.txt	2566	2924
+EN_M_TRAIN_48.txt	2928	3516	Policy_prescription_and_evaluation	Crime_and_punishment	Political
+EN_M_TRAIN_48.txt	3520	3870
+EN_M_TRAIN_48.txt	3874	4127	Political
+EN_M_TRAIN_48.txt	4131	4449	Cultural_identity
+EN_M_TRAIN_48.txt	4453	4753	Capacity_and_resources
+EN_M_TRAIN_48.txt	4757	5312	Fairness_and_equality
+EN_M_TRAIN_48.txt	5316	5502	Capacity_and_resources
+EN_M_TRAIN_49.txt	0	49
+EN_M_TRAIN_49.txt	53	419	Quality_of_life
+EN_M_TRAIN_49.txt	423	647	Morality	Quality_of_life
+EN_M_TRAIN_49.txt	651	1017	Economic
+EN_M_TRAIN_49.txt	1021	1152	Capacity_and_resources
+EN_M_TRAIN_5.txt	0	81	Capacity_and_resources
+EN_M_TRAIN_5.txt	85	250	Health_and_safety	Cultural_identity
+EN_M_TRAIN_5.txt	254	555	Crime_and_punishment
+EN_M_TRAIN_5.txt	559	878	Policy_prescription_and_evaluation
+EN_M_TRAIN_5.txt	882	1054	Health_and_safety	Political	External_regulation_and_reputation
+EN_M_TRAIN_5.txt	1058	1217
+EN_M_TRAIN_5.txt	1221	1529	Public_opinion
+EN_M_TRAIN_5.txt	1533	1858
+EN_M_TRAIN_5.txt	1862	2023	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+EN_M_TRAIN_5.txt	2027	2361	Capacity_and_resources	Fairness_and_equality	Cultural_identity	External_regulation_and_reputation
+EN_M_TRAIN_5.txt	2365	2583	Economic
+EN_M_TRAIN_5.txt	2587	2777	Capacity_and_resources
+EN_M_TRAIN_5.txt	2781	3229	Security_and_defense	Cultural_identity
+EN_M_TRAIN_5.txt	3233	3538	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_5.txt	3542	3936	Quality_of_life
+EN_M_TRAIN_5.txt	3940	4157	Capacity_and_resources	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+EN_M_TRAIN_5.txt	4161	4502	Economic	Fairness_and_equality
+EN_M_TRAIN_5.txt	4506	4877	Public_opinion	Political
+EN_M_TRAIN_5.txt	4881	5087	Capacity_and_resources	Quality_of_life	Public_opinion	Political
+EN_M_TRAIN_5.txt	5091	5311	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+EN_M_TRAIN_5.txt	5315	5663	Capacity_and_resources
+EN_M_TRAIN_5.txt	5667	5856	Morality	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment	Health_and_safety
+EN_M_TRAIN_5.txt	5860	6161	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_5.txt	6165	6352	Economic	Fairness_and_equality
+EN_M_TRAIN_5.txt	6356	6551	Policy_prescription_and_evaluation	Security_and_defense	Public_opinion
+EN_M_TRAIN_5.txt	6555	6689	Crime_and_punishment
+EN_M_TRAIN_5.txt	6693	6807
+EN_M_TRAIN_5.txt	6811	7244	Political
+EN_M_TRAIN_5.txt	7248	7329	Public_opinion	Political
+EN_M_TRAIN_50.txt	0	82	Fairness_and_equality
+EN_M_TRAIN_50.txt	86	209	Quality_of_life
+EN_M_TRAIN_50.txt	213	931	Capacity_and_resources
+EN_M_TRAIN_50.txt	935	1529	Capacity_and_resources
+EN_M_TRAIN_50.txt	1533	2026	Quality_of_life
+EN_M_TRAIN_50.txt	2030	2417	Policy_prescription_and_evaluation	Cultural_identity
+EN_M_TRAIN_50.txt	2421	2719	Fairness_and_equality
+EN_M_TRAIN_50.txt	2723	2955	Morality
+EN_M_TRAIN_50.txt	2959	3663	Quality_of_life
+EN_M_TRAIN_50.txt	3667	3895
+EN_M_TRAIN_50.txt	3899	4509
+EN_M_TRAIN_50.txt	4513	4824	Crime_and_punishment	Political
+EN_M_TRAIN_50.txt	4828	5001	Health_and_safety
+EN_M_TRAIN_50.txt	5005	5363	Quality_of_life
+EN_M_TRAIN_50.txt	5367	5637	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_50.txt	5641	6021	External_regulation_and_reputation
+EN_M_TRAIN_50.txt	6025	6407	Capacity_and_resources	Morality	Crime_and_punishment	Cultural_identity
+EN_M_TRAIN_50.txt	6411	6828
+EN_M_TRAIN_52.txt	0	51	Policy_prescription_and_evaluation
+EN_M_TRAIN_52.txt	55	630	Fairness_and_equality
+EN_M_TRAIN_52.txt	634	1073	External_regulation_and_reputation
+EN_M_TRAIN_52.txt	1077	1403	Economic	Quality_of_life
+EN_M_TRAIN_52.txt	1407	1592	Economic
+EN_M_TRAIN_52.txt	1596	1975	Morality	Quality_of_life
+EN_M_TRAIN_52.txt	1979	2406
+EN_M_TRAIN_52.txt	2410	2615	Economic	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+EN_M_TRAIN_52.txt	2619	2941	Legality_Constitutionality_and_jurisprudence	Quality_of_life
+EN_M_TRAIN_52.txt	2945	3152	Morality	Public_opinion
+EN_M_TRAIN_52.txt	3156	3386	Cultural_identity
+EN_M_TRAIN_52.txt	3390	3760
+EN_M_TRAIN_52.txt	3764	4298
+EN_M_TRAIN_52.txt	4302	4882	Policy_prescription_and_evaluation	Public_opinion
+EN_M_TRAIN_54.txt	0	52	Public_opinion
+EN_M_TRAIN_54.txt	56	652	Political
+EN_M_TRAIN_54.txt	656	1141	Economic	Political	External_regulation_and_reputation
+EN_M_TRAIN_54.txt	1145	1465	Capacity_and_resources
+EN_M_TRAIN_54.txt	1469	1673	Morality	Cultural_identity
+EN_M_TRAIN_54.txt	1677	2027
+EN_M_TRAIN_54.txt	2031	2316	Capacity_and_resources	Public_opinion	Political
+EN_M_TRAIN_54.txt	2320	2485	Public_opinion
+EN_M_TRAIN_55.txt	0	51	Economic	Morality
+EN_M_TRAIN_55.txt	55	441	Morality	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_55.txt	445	968	Fairness_and_equality	Crime_and_punishment	Security_and_defense	Health_and_safety	Public_opinion
+EN_M_TRAIN_55.txt	972	1257	Economic	Fairness_and_equality	Cultural_identity
+EN_M_TRAIN_55.txt	1261	1702	Political
+EN_M_TRAIN_55.txt	1706	2405	Cultural_identity
+EN_M_TRAIN_56.txt	0	94	Morality	Fairness_and_equality	Quality_of_life	Political
+EN_M_TRAIN_56.txt	98	708
+EN_M_TRAIN_56.txt	712	1107	Economic	Capacity_and_resources
+EN_M_TRAIN_56.txt	1111	1513	Capacity_and_resources
+EN_M_TRAIN_56.txt	1517	1998	Economic	Political
+EN_M_TRAIN_56.txt	2002	2384	Capacity_and_resources	Fairness_and_equality	Quality_of_life	Public_opinion	Political
+EN_M_TRAIN_57.txt	0	41	Crime_and_punishment
+EN_M_TRAIN_57.txt	45	516	Capacity_and_resources	Morality	External_regulation_and_reputation
+EN_M_TRAIN_57.txt	520	759	Policy_prescription_and_evaluation
+EN_M_TRAIN_57.txt	763	1156	Crime_and_punishment
+EN_M_TRAIN_57.txt	1160	1511	Policy_prescription_and_evaluation	Health_and_safety
+EN_M_TRAIN_57.txt	1515	2072
+EN_M_TRAIN_58.txt	0	69	Economic	Capacity_and_resources	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	External_regulation_and_reputation
+EN_M_TRAIN_58.txt	73	323	Capacity_and_resources	Quality_of_life
+EN_M_TRAIN_58.txt	327	863	Fairness_and_equality	External_regulation_and_reputation
+EN_M_TRAIN_58.txt	867	1076	Morality	Policy_prescription_and_evaluation	External_regulation_and_reputation
+EN_M_TRAIN_58.txt	1080	1639	Security_and_defense
+EN_M_TRAIN_58.txt	1643	2060	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Cultural_identity
+EN_M_TRAIN_58.txt	2064	2338	Fairness_and_equality
+EN_M_TRAIN_58.txt	2342	2972	Capacity_and_resources	Morality
+EN_M_TRAIN_58.txt	2976	3515	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation
+EN_M_TRAIN_58.txt	3519	3884	Health_and_safety
+EN_M_TRAIN_58.txt	3888	4382	Cultural_identity
+EN_M_TRAIN_58.txt	4386	4804
+EN_M_TRAIN_58.txt	4808	5254	Public_opinion
+EN_M_TRAIN_58.txt	5258	5698
+EN_M_TRAIN_58.txt	5702	5892	Fairness_and_equality	Political
+EN_M_TRAIN_58.txt	5896	6159	Economic
+EN_M_TRAIN_58.txt	6163	6373	Health_and_safety
+EN_M_TRAIN_58.txt	6377	6993
+EN_M_TRAIN_6.txt	0	71	Morality	Health_and_safety
+EN_M_TRAIN_6.txt	75	241	Morality	Quality_of_life
+EN_M_TRAIN_6.txt	245	522	Fairness_and_equality	Policy_prescription_and_evaluation
+EN_M_TRAIN_6.txt	526	684	Cultural_identity
+EN_M_TRAIN_6.txt	688	952	Security_and_defense	Quality_of_life
+EN_M_TRAIN_6.txt	956	989
+EN_M_TRAIN_6.txt	993	1125
+EN_M_TRAIN_6.txt	1129	1464
+EN_M_TRAIN_6.txt	1468	1541
+EN_M_TRAIN_6.txt	1545	1746	Economic	Capacity_and_resources	External_regulation_and_reputation
+EN_M_TRAIN_6.txt	1750	1790	Capacity_and_resources	Security_and_defense
+EN_M_TRAIN_6.txt	1794	2265
+EN_M_TRAIN_6.txt	2269	2484	Capacity_and_resources
+EN_M_TRAIN_6.txt	2488	2713
+EN_M_TRAIN_6.txt	2717	3220	Economic	Political
+EN_M_TRAIN_60.txt	0	72	Health_and_safety
+EN_M_TRAIN_60.txt	76	563	Capacity_and_resources	Policy_prescription_and_evaluation
+EN_M_TRAIN_60.txt	567	954	Capacity_and_resources	Policy_prescription_and_evaluation
+EN_M_TRAIN_60.txt	958	1204	Fairness_and_equality	Crime_and_punishment	Health_and_safety
+EN_M_TRAIN_60.txt	1208	1647
+EN_M_TRAIN_61.txt	0	54	Political
+EN_M_TRAIN_61.txt	58	489	Crime_and_punishment	Quality_of_life
+EN_M_TRAIN_61.txt	493	787	Capacity_and_resources	Security_and_defense
+EN_M_TRAIN_61.txt	791	1043	Capacity_and_resources	Morality	Public_opinion	Political
+EN_M_TRAIN_61.txt	1047	1138	Morality	Crime_and_punishment	Security_and_defense
+EN_M_TRAIN_61.txt	1142	1378	Capacity_and_resources
+EN_M_TRAIN_61.txt	1382	1682	Crime_and_punishment	Health_and_safety	Public_opinion	Political
+EN_M_TRAIN_61.txt	1686	2084	Crime_and_punishment	Security_and_defense
+EN_M_TRAIN_61.txt	2088	2629	External_regulation_and_reputation
+EN_M_TRAIN_62.txt	0	62
+EN_M_TRAIN_62.txt	66	553	Economic
+EN_M_TRAIN_62.txt	557	1053
+EN_M_TRAIN_62.txt	1057	1445	Fairness_and_equality
+EN_M_TRAIN_62.txt	1449	2109	Morality	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+EN_M_TRAIN_62.txt	2113	2507	Economic	Capacity_and_resources
+EN_M_TRAIN_62.txt	2511	3136	Crime_and_punishment	Security_and_defense	Public_opinion
+EN_M_TRAIN_63.txt	0	71
+EN_M_TRAIN_63.txt	75	639
+EN_M_TRAIN_63.txt	643	960	Economic	Capacity_and_resources
+EN_M_TRAIN_63.txt	964	1248
+EN_M_TRAIN_63.txt	1252	1634	Political
+EN_M_TRAIN_63.txt	1638	2218	Security_and_defense	Quality_of_life
+EN_M_TRAIN_63.txt	2222	2544
+EN_M_TRAIN_63.txt	2548	3139	Public_opinion
+EN_M_TRAIN_65.txt	0	69	Public_opinion
+EN_M_TRAIN_65.txt	73	558	Crime_and_punishment
+EN_M_TRAIN_65.txt	562	900	Fairness_and_equality
+EN_M_TRAIN_65.txt	904	1240	Policy_prescription_and_evaluation	Security_and_defense	Health_and_safety	Cultural_identity	Public_opinion
+EN_M_TRAIN_65.txt	1244	1488	Morality	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_65.txt	1492	1858	Crime_and_punishment	Cultural_identity
+EN_M_TRAIN_65.txt	1862	2099	Capacity_and_resources
+EN_M_TRAIN_65.txt	2103	2610
+EN_M_TRAIN_65.txt	2614	2966	Morality
+EN_M_TRAIN_65.txt	2970	3162	Morality	Political
+EN_M_TRAIN_65.txt	3166	3752	Political
+EN_M_TRAIN_65.txt	3756	4108	Public_opinion
+EN_M_TRAIN_65.txt	4112	4487	Policy_prescription_and_evaluation
+EN_M_TRAIN_65.txt	4491	4837	Economic	Public_opinion
+EN_M_TRAIN_65.txt	4841	5018	Economic
+EN_M_TRAIN_66.txt	0	50	Security_and_defense
+EN_M_TRAIN_66.txt	54	919	Economic
+EN_M_TRAIN_66.txt	923	1281	Political
+EN_M_TRAIN_66.txt	1285	1551	Security_and_defense
+EN_M_TRAIN_66.txt	1555	1897	Policy_prescription_and_evaluation
+EN_M_TRAIN_66.txt	1901	2349	Capacity_and_resources	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_66.txt	2353	2834	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_66.txt	2838	3115
+EN_M_TRAIN_66.txt	3119	3559
+EN_M_TRAIN_66.txt	3563	3934	Crime_and_punishment
+EN_M_TRAIN_66.txt	3938	4276	Crime_and_punishment	Cultural_identity
+EN_M_TRAIN_66.txt	4280	4369
+EN_M_TRAIN_67.txt	0	43	Security_and_defense	Cultural_identity
+EN_M_TRAIN_67.txt	47	512	Capacity_and_resources	Morality	Security_and_defense	Health_and_safety	Public_opinion
+EN_M_TRAIN_67.txt	516	918
+EN_M_TRAIN_67.txt	922	1256
+EN_M_TRAIN_67.txt	1260	1601	Public_opinion
+EN_M_TRAIN_67.txt	1605	2026	Political
+EN_M_TRAIN_67.txt	2030	2371	Security_and_defense	Public_opinion
+EN_M_TRAIN_68.txt	0	101	Cultural_identity
+EN_M_TRAIN_68.txt	105	555	Public_opinion
+EN_M_TRAIN_68.txt	559	1022	Health_and_safety	Quality_of_life
+EN_M_TRAIN_68.txt	1026	1275
+EN_M_TRAIN_68.txt	1279	1573
+EN_M_TRAIN_68.txt	1577	2053	Economic
+EN_M_TRAIN_68.txt	2057	2590
+EN_M_TRAIN_7.txt	0	44	Morality	Crime_and_punishment
+EN_M_TRAIN_7.txt	48	439	Capacity_and_resources
+EN_M_TRAIN_7.txt	443	740
+EN_M_TRAIN_7.txt	744	806	Capacity_and_resources	Fairness_and_equality
+EN_M_TRAIN_7.txt	810	1040	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Cultural_identity	Public_opinion	External_regulation_and_reputation
+EN_M_TRAIN_7.txt	1044	1404	Health_and_safety	Public_opinion
+EN_M_TRAIN_7.txt	1408	1546	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment	Political
+EN_M_TRAIN_7.txt	1550	1695	Morality	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Cultural_identity	Public_opinion
+EN_M_TRAIN_7.txt	1699	1926	Economic
+EN_M_TRAIN_7.txt	1930	2385	Public_opinion
+EN_M_TRAIN_7.txt	2389	2938
+EN_M_TRAIN_7.txt	2942	3206	Cultural_identity	Public_opinion	External_regulation_and_reputation
+EN_M_TRAIN_7.txt	3210	3624	Quality_of_life
+EN_M_TRAIN_7.txt	3628	3839	Policy_prescription_and_evaluation	Crime_and_punishment
+EN_M_TRAIN_7.txt	3843	4093
+EN_M_TRAIN_7.txt	4097	4309	Health_and_safety
+EN_M_TRAIN_7.txt	4313	4350	Health_and_safety
+EN_M_TRAIN_7.txt	4354	4505	Economic
+EN_M_TRAIN_7.txt	4509	4831	Morality
+EN_M_TRAIN_7.txt	4835	5100
+EN_M_TRAIN_7.txt	5104	5364	Economic	Security_and_defense
+EN_M_TRAIN_7.txt	5368	5486	Economic	Health_and_safety	Cultural_identity
+EN_M_TRAIN_7.txt	5490	5530	Capacity_and_resources	External_regulation_and_reputation
+EN_M_TRAIN_7.txt	5534	5807	Cultural_identity
+EN_M_TRAIN_7.txt	5811	6035	Capacity_and_resources	Health_and_safety	Quality_of_life
+EN_M_TRAIN_7.txt	6039	6085	Economic	Health_and_safety
+EN_M_TRAIN_7.txt	6089	6448	Economic	Public_opinion
+EN_M_TRAIN_7.txt	6452	6585	Policy_prescription_and_evaluation
+EN_M_TRAIN_7.txt	6589	6793	Cultural_identity
+EN_M_TRAIN_70.txt	0	52
+EN_M_TRAIN_70.txt	56	462	Economic	Security_and_defense
+EN_M_TRAIN_70.txt	466	924	Policy_prescription_and_evaluation	Crime_and_punishment
+EN_M_TRAIN_70.txt	928	1221
+EN_M_TRAIN_70.txt	1225	1621
+EN_M_TRAIN_70.txt	1625	2093	Morality
+EN_M_TRAIN_71.txt	0	47	Quality_of_life
+EN_M_TRAIN_71.txt	51	627
+EN_M_TRAIN_71.txt	631	889	Economic	Crime_and_punishment	Public_opinion
+EN_M_TRAIN_71.txt	893	1482	Health_and_safety	Public_opinion	External_regulation_and_reputation
+EN_M_TRAIN_71.txt	1486	1717	Security_and_defense	Public_opinion
+EN_M_TRAIN_71.txt	1721	2004	Policy_prescription_and_evaluation	Crime_and_punishment
+EN_M_TRAIN_71.txt	2008	2428	Morality	Crime_and_punishment
+EN_M_TRAIN_71.txt	2432	2807	Public_opinion
+EN_M_TRAIN_72.txt	0	52	Policy_prescription_and_evaluation
+EN_M_TRAIN_72.txt	56	864	Security_and_defense
+EN_M_TRAIN_72.txt	868	1084	Economic	Capacity_and_resources	Policy_prescription_and_evaluation
+EN_M_TRAIN_72.txt	1088	1450	Economic
+EN_M_TRAIN_72.txt	1454	1788	Crime_and_punishment
+EN_M_TRAIN_72.txt	1792	2118	Public_opinion
+EN_M_TRAIN_72.txt	2122	2436
+EN_M_TRAIN_72.txt	2440	2820
+EN_M_TRAIN_73.txt	0	68	Policy_prescription_and_evaluation
+EN_M_TRAIN_73.txt	72	657	Economic
+EN_M_TRAIN_73.txt	661	892	Capacity_and_resources	Morality	Crime_and_punishment	Public_opinion
+EN_M_TRAIN_73.txt	896	1146	Crime_and_punishment	Cultural_identity
+EN_M_TRAIN_73.txt	1150	1603
+EN_M_TRAIN_73.txt	1607	1977	Capacity_and_resources	External_regulation_and_reputation
+EN_M_TRAIN_73.txt	1981	2459	Economic	Political	External_regulation_and_reputation
+EN_M_TRAIN_73.txt	2463	2747	Public_opinion
+EN_M_TRAIN_74.txt	0	70	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+EN_M_TRAIN_74.txt	74	733	Fairness_and_equality	Cultural_identity	Political
+EN_M_TRAIN_74.txt	737	1298	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_74.txt	1302	1753	Health_and_safety
+EN_M_TRAIN_74.txt	1757	2430	Economic	Cultural_identity
+EN_M_TRAIN_74.txt	2434	2521	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_74.txt	2525	2787	Fairness_and_equality
+EN_M_TRAIN_74.txt	2791	3176	Capacity_and_resources	Public_opinion
+EN_M_TRAIN_74.txt	3180	3681	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_74.txt	3685	4193
+EN_M_TRAIN_74.txt	4197	4389
+EN_M_TRAIN_75.txt	0	53
+EN_M_TRAIN_75.txt	57	931	Morality	Health_and_safety	External_regulation_and_reputation
+EN_M_TRAIN_75.txt	935	1255
+EN_M_TRAIN_75.txt	1259	1753	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+EN_M_TRAIN_75.txt	1757	2322	Fairness_and_equality
+EN_M_TRAIN_75.txt	2326	2723	Security_and_defense	Quality_of_life
+EN_M_TRAIN_75.txt	2727	2972
+EN_M_TRAIN_76.txt	0	57	Capacity_and_resources	Policy_prescription_and_evaluation	Crime_and_punishment	Cultural_identity
+EN_M_TRAIN_76.txt	61	956	Economic
+EN_M_TRAIN_76.txt	960	1579	Crime_and_punishment	Security_and_defense	Public_opinion	External_regulation_and_reputation
+EN_M_TRAIN_76.txt	1583	2016	Fairness_and_equality	External_regulation_and_reputation
+EN_M_TRAIN_76.txt	2020	2615	Economic	Public_opinion
+EN_M_TRAIN_76.txt	2619	2974	Fairness_and_equality	Health_and_safety
+EN_M_TRAIN_76.txt	2978	3830	Policy_prescription_and_evaluation
+EN_M_TRAIN_76.txt	3834	4404
+EN_M_TRAIN_77.txt	0	77	Fairness_and_equality
+EN_M_TRAIN_77.txt	81	422	External_regulation_and_reputation
+EN_M_TRAIN_77.txt	426	1080	Capacity_and_resources
+EN_M_TRAIN_77.txt	1084	1503	Crime_and_punishment	External_regulation_and_reputation
+EN_M_TRAIN_77.txt	1507	2115	Morality	Security_and_defense	Public_opinion
+EN_M_TRAIN_77.txt	2119	2533	Morality	Legality_Constitutionality_and_jurisprudence	Security_and_defense	Quality_of_life	Cultural_identity
+EN_M_TRAIN_77.txt	2537	2878	External_regulation_and_reputation
+EN_M_TRAIN_77.txt	2882	3248	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_77.txt	3252	3635	Capacity_and_resources	Policy_prescription_and_evaluation	Cultural_identity
+EN_M_TRAIN_77.txt	3639	3959	Capacity_and_resources
+EN_M_TRAIN_78.txt	0	86	Economic	Crime_and_punishment
+EN_M_TRAIN_78.txt	90	785	Crime_and_punishment	Political
+EN_M_TRAIN_78.txt	789	1160	Fairness_and_equality	Political
+EN_M_TRAIN_78.txt	1164	1383	Morality
+EN_M_TRAIN_78.txt	1387	2611	Fairness_and_equality	Public_opinion
+EN_M_TRAIN_78.txt	2615	3009	Cultural_identity
+EN_M_TRAIN_78.txt	3013	3509
+EN_M_TRAIN_79.txt	0	99	Fairness_and_equality	Security_and_defense
+EN_M_TRAIN_79.txt	103	683	Morality
+EN_M_TRAIN_79.txt	687	881	Health_and_safety
+EN_M_TRAIN_79.txt	885	1151	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_79.txt	1155	1700	Public_opinion
+EN_M_TRAIN_79.txt	1704	2108	Economic	Policy_prescription_and_evaluation	Quality_of_life
+EN_M_TRAIN_79.txt	2112	2761	Health_and_safety	Public_opinion
+EN_M_TRAIN_79.txt	2765	3070
+EN_M_TRAIN_79.txt	3074	3382	Economic
+EN_M_TRAIN_79.txt	3386	3974
+EN_M_TRAIN_79.txt	3978	4340
+EN_M_TRAIN_79.txt	4344	4636
+EN_M_TRAIN_79.txt	4640	4981	Morality
+EN_M_TRAIN_79.txt	4985	5388	Cultural_identity
+EN_M_TRAIN_79.txt	5392	5675	Economic	Morality	Health_and_safety
+EN_M_TRAIN_79.txt	5679	5935	Policy_prescription_and_evaluation
+EN_M_TRAIN_79.txt	5939	6147	Fairness_and_equality	Crime_and_punishment
+EN_M_TRAIN_79.txt	6151	6715	Morality	Security_and_defense
+EN_M_TRAIN_79.txt	6719	6965	Policy_prescription_and_evaluation	Crime_and_punishment	Political
+EN_M_TRAIN_79.txt	6969	7444	Economic
+EN_M_TRAIN_8.txt	0	83	Cultural_identity
+EN_M_TRAIN_8.txt	87	200	Fairness_and_equality	Quality_of_life
+EN_M_TRAIN_8.txt	204	454	Quality_of_life
+EN_M_TRAIN_8.txt	458	743	Health_and_safety
+EN_M_TRAIN_8.txt	747	1127	Policy_prescription_and_evaluation
+EN_M_TRAIN_8.txt	1131	1477
+EN_M_TRAIN_8.txt	1481	1825	Fairness_and_equality	Public_opinion
+EN_M_TRAIN_8.txt	1829	2140	Capacity_and_resources
+EN_M_TRAIN_8.txt	2144	2242	Policy_prescription_and_evaluation
+EN_M_TRAIN_8.txt	2246	2459	Morality
+EN_M_TRAIN_8.txt	2463	2671	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+EN_M_TRAIN_8.txt	2675	3057	Security_and_defense
+EN_M_TRAIN_8.txt	3061	3421	Morality
+EN_M_TRAIN_8.txt	3425	3612
+EN_M_TRAIN_8.txt	3616	3663
+EN_M_TRAIN_8.txt	3667	3915	Morality	Security_and_defense	Political
+EN_M_TRAIN_8.txt	3919	4143	External_regulation_and_reputation
+EN_M_TRAIN_8.txt	4147	4175	Political
+EN_M_TRAIN_8.txt	4179	4250	Policy_prescription_and_evaluation
+EN_M_TRAIN_8.txt	4254	4708
+EN_M_TRAIN_8.txt	4712	4908	Political
+EN_M_TRAIN_8.txt	4912	5125
+EN_M_TRAIN_8.txt	5129	5313	Cultural_identity
+EN_M_TRAIN_8.txt	5317	5573	Fairness_and_equality	Public_opinion
+EN_M_TRAIN_8.txt	5577	5963	Public_opinion
+EN_M_TRAIN_8.txt	5967	6156	Public_opinion
+EN_M_TRAIN_8.txt	6160	6533	Cultural_identity
+EN_M_TRAIN_8.txt	6537	6558	Public_opinion	Political	External_regulation_and_reputation
+EN_M_TRAIN_8.txt	6562	6801	Policy_prescription_and_evaluation	Health_and_safety	Quality_of_life
+EN_M_TRAIN_8.txt	6805	7105	Morality	Policy_prescription_and_evaluation	Security_and_defense
+EN_M_TRAIN_8.txt	7109	7380	Policy_prescription_and_evaluation	Quality_of_life	Public_opinion
+EN_M_TRAIN_8.txt	7384	7566	Crime_and_punishment
+EN_M_TRAIN_8.txt	7570	7652	Crime_and_punishment	Political	External_regulation_and_reputation
+EN_M_TRAIN_8.txt	7656	7991	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_8.txt	7995	8067
+EN_M_TRAIN_8.txt	8071	8143	Policy_prescription_and_evaluation	Health_and_safety	Quality_of_life
+EN_M_TRAIN_80.txt	0	54	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_80.txt	58	478
+EN_M_TRAIN_80.txt	482	935	Security_and_defense
+EN_M_TRAIN_80.txt	939	1383	Policy_prescription_and_evaluation
+EN_M_TRAIN_80.txt	1387	1706	Economic
+EN_M_TRAIN_80.txt	1710	1972
+EN_M_TRAIN_80.txt	1976	2340	Public_opinion
+EN_M_TRAIN_81.txt	0	81
+EN_M_TRAIN_81.txt	85	449	Morality	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+EN_M_TRAIN_81.txt	453	799	Political
+EN_M_TRAIN_81.txt	803	1162	Security_and_defense
+EN_M_TRAIN_81.txt	1166	1784	Policy_prescription_and_evaluation
+EN_M_TRAIN_81.txt	1788	1982	Policy_prescription_and_evaluation	Quality_of_life
+EN_M_TRAIN_81.txt	1986	2414	Cultural_identity
+EN_M_TRAIN_81.txt	2418	2792	Health_and_safety
+EN_M_TRAIN_82.txt	0	65	Morality	Quality_of_life
+EN_M_TRAIN_82.txt	69	442
+EN_M_TRAIN_82.txt	446	800	Security_and_defense	Health_and_safety
+EN_M_TRAIN_82.txt	804	1247	Health_and_safety	Quality_of_life
+EN_M_TRAIN_82.txt	1251	1740
+EN_M_TRAIN_83.txt	0	58	Crime_and_punishment
+EN_M_TRAIN_83.txt	62	665
+EN_M_TRAIN_83.txt	669	1024	Capacity_and_resources
+EN_M_TRAIN_83.txt	1028	1315	Capacity_and_resources
+EN_M_TRAIN_83.txt	1319	1632
+EN_M_TRAIN_83.txt	1636	2085	Morality	Fairness_and_equality
+EN_M_TRAIN_83.txt	2089	2345
+EN_M_TRAIN_83.txt	2349	2611	Public_opinion	Political	External_regulation_and_reputation
+EN_M_TRAIN_83.txt	2615	2873	Public_opinion
+EN_M_TRAIN_84.txt	0	86
+EN_M_TRAIN_84.txt	90	533
+EN_M_TRAIN_84.txt	537	1427	Morality	Crime_and_punishment
+EN_M_TRAIN_84.txt	1431	1713
+EN_M_TRAIN_84.txt	1717	1997	Capacity_and_resources
+EN_M_TRAIN_85.txt	0	61
+EN_M_TRAIN_85.txt	65	690	Crime_and_punishment	Quality_of_life
+EN_M_TRAIN_85.txt	694	1197	Capacity_and_resources	Cultural_identity
+EN_M_TRAIN_85.txt	1201	1489	Economic
+EN_M_TRAIN_85.txt	1493	1842
+EN_M_TRAIN_85.txt	1846	2227	Economic	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_85.txt	2231	2594	Security_and_defense
+EN_M_TRAIN_85.txt	2598	2952
+EN_M_TRAIN_85.txt	2956	3107	Economic	Crime_and_punishment
+EN_M_TRAIN_85.txt	3111	3457	Political	External_regulation_and_reputation
+EN_M_TRAIN_85.txt	3461	3939	Capacity_and_resources	Public_opinion	External_regulation_and_reputation
+EN_M_TRAIN_85.txt	3943	4612	Legality_Constitutionality_and_jurisprudence	Political
+EN_M_TRAIN_86.txt	0	66	Economic	Morality
+EN_M_TRAIN_86.txt	70	556	Policy_prescription_and_evaluation
+EN_M_TRAIN_86.txt	560	884	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_86.txt	888	1252	Political
+EN_M_TRAIN_86.txt	1256	1554	Health_and_safety
+EN_M_TRAIN_86.txt	1558	1962	Morality	Fairness_and_equality	Health_and_safety
+EN_M_TRAIN_86.txt	1966	2587	Crime_and_punishment	Cultural_identity	Political
+EN_M_TRAIN_86.txt	2591	2734	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Political
+EN_M_TRAIN_87.txt	0	73
+EN_M_TRAIN_87.txt	77	687	Morality
+EN_M_TRAIN_87.txt	691	1056
+EN_M_TRAIN_87.txt	1060	1440	Crime_and_punishment
+EN_M_TRAIN_87.txt	1444	1903	Policy_prescription_and_evaluation	Crime_and_punishment
+EN_M_TRAIN_88.txt	0	89	Crime_and_punishment
+EN_M_TRAIN_88.txt	93	723	Economic	External_regulation_and_reputation
+EN_M_TRAIN_89.txt	0	46	Cultural_identity	Public_opinion
+EN_M_TRAIN_89.txt	50	526	Crime_and_punishment
+EN_M_TRAIN_89.txt	530	719
+EN_M_TRAIN_89.txt	723	1007	Economic	Capacity_and_resources
+EN_M_TRAIN_89.txt	1011	1312	Security_and_defense	Quality_of_life
+EN_M_TRAIN_89.txt	1316	1590	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Quality_of_life	Public_opinion
+EN_M_TRAIN_89.txt	1594	2023	Health_and_safety	Quality_of_life	Political
+EN_M_TRAIN_89.txt	2027	2365
+EN_M_TRAIN_89.txt	2369	2732
+EN_M_TRAIN_9.txt	0	93	Security_and_defense
+EN_M_TRAIN_9.txt	97	221	Security_and_defense
+EN_M_TRAIN_9.txt	225	554
+EN_M_TRAIN_9.txt	558	986
+EN_M_TRAIN_9.txt	990	1328
+EN_M_TRAIN_9.txt	1332	1582	Policy_prescription_and_evaluation
+EN_M_TRAIN_9.txt	1586	2003	Capacity_and_resources	Cultural_identity
+EN_M_TRAIN_9.txt	2007	2459	Health_and_safety	Cultural_identity
+EN_M_TRAIN_9.txt	2463	2672	Capacity_and_resources
+EN_M_TRAIN_9.txt	2676	2993	Capacity_and_resources	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_9.txt	2997	3347	Security_and_defense	Quality_of_life	Cultural_identity	Political
+EN_M_TRAIN_9.txt	3351	3471	Policy_prescription_and_evaluation	Public_opinion
+EN_M_TRAIN_9.txt	3475	3753	External_regulation_and_reputation
+EN_M_TRAIN_9.txt	3757	3896	Legality_Constitutionality_and_jurisprudence
+EN_M_TRAIN_9.txt	3900	4214	Morality
+EN_M_TRAIN_9.txt	4218	4452
+EN_M_TRAIN_9.txt	4456	4864	Cultural_identity	External_regulation_and_reputation
+EN_M_TRAIN_9.txt	4868	5314	Economic	Fairness_and_equality
+EN_M_TRAIN_9.txt	5318	5539	Crime_and_punishment
+EN_M_TRAIN_9.txt	5543	5926	Capacity_and_resources	Fairness_and_equality	Crime_and_punishment	Political
+EN_M_TRAIN_9.txt	5930	6318	Fairness_and_equality	Quality_of_life	External_regulation_and_reputation
+EN_M_TRAIN_9.txt	6322	6577	Quality_of_life	Public_opinion	External_regulation_and_reputation
+EN_M_TRAIN_90.txt	0	71
+EN_M_TRAIN_90.txt	75	439	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment	Public_opinion
+EN_M_TRAIN_90.txt	443	1182	Economic	Quality_of_life
+EN_M_TRAIN_90.txt	1186	1661	Security_and_defense
+EN_M_TRAIN_90.txt	1665	3002
+EN_M_TRAIN_90.txt	3006	4084	Quality_of_life
+EN_M_TRAIN_90.txt	4088	5474	Fairness_and_equality
+EN_M_TRAIN_90.txt	5478	7137
+EN_M_TRAIN_90.txt	7141	8354	Policy_prescription_and_evaluation
+EN_M_TRAIN_90.txt	8358	8969	Cultural_identity	Political
+EN_M_TRAIN_90.txt	8973	9113	Quality_of_life
+EN_M_TRAIN_91.txt	0	91	Fairness_and_equality	Public_opinion
+EN_M_TRAIN_91.txt	95	468	Quality_of_life
+EN_M_TRAIN_91.txt	472	993	Policy_prescription_and_evaluation
+EN_M_TRAIN_91.txt	997	1495
+EN_M_TRAIN_91.txt	1499	1879	Security_and_defense
+EN_M_TRAIN_91.txt	1883	2177
+EN_M_TRAIN_91.txt	2181	2379	Policy_prescription_and_evaluation
+EN_M_TRAIN_91.txt	2383	2872	Public_opinion
+EN_M_TRAIN_91.txt	2876	3290
+EN_M_TRAIN_91.txt	3294	3676
+EN_M_TRAIN_92.txt	0	64	Fairness_and_equality	Quality_of_life
+EN_M_TRAIN_92.txt	68	618	Public_opinion	External_regulation_and_reputation
+EN_M_TRAIN_92.txt	622	1420	Capacity_and_resources	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+EN_M_TRAIN_92.txt	1424	1781	Legality_Constitutionality_and_jurisprudence	Quality_of_life
+EN_M_TRAIN_92.txt	1785	2154
+EN_M_TRAIN_92.txt	2158	2447
+EN_M_TRAIN_92.txt	2451	2891
+EN_M_TRAIN_92.txt	2895	3547	Health_and_safety	Public_opinion
+EN_M_TRAIN_92.txt	3551	3667	Public_opinion	External_regulation_and_reputation
+EN_TRAIL_1.txt	0	66	Legality_Constitutionality_and_jurisprudence	Public_opinion
+EN_TRAIL_1.txt	70	568	Quality_of_life	Political
+EN_TRAIL_1.txt	574	1303
+EN_TRAIL_1.txt	1307	2042	Health_and_safety	Cultural_identity	External_regulation_and_reputation
+EN_TRAIL_1.txt	2046	2761
+EN_TRAIL_1.txt	2765	3089	Economic	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+EN_TRAIL_2.txt	0	81
+EN_TRAIL_2.txt	83	313	Policy_prescription_and_evaluation	Crime_and_punishment	Security_and_defense	Political
+EN_TRAIL_2.txt	315	698	External_regulation_and_reputation
+EN_TRAIL_2.txt	700	929	Capacity_and_resources	Security_and_defense	Cultural_identity
+EN_TRAIL_2.txt	931	1108	Legality_Constitutionality_and_jurisprudence	Quality_of_life
+EN_TRAIL_2.txt	1110	1147	Legality_Constitutionality_and_jurisprudence
+EN_TRAIL_2.txt	1149	1371
+EN_TRAIL_2.txt	1373	1501	Economic
+EN_TRAIL_2.txt	1503	1666	Crime_and_punishment
+EN_TRAIL_2.txt	1668	1951	External_regulation_and_reputation
+EN_TRAIL_2.txt	1953	2047
+EN_TRAIL_2.txt	2049	2158	Quality_of_life
+EN_TRAIL_2.txt	2160	2185
+EN_TRAIL_2.txt	2187	2513
+EN_TRAIL_2.txt	2515	2664
+EN_TRAIL_2.txt	2666	2938	Quality_of_life	Political
+EN_TRAIL_2.txt	2940	3147	Morality	Fairness_and_equality	Health_and_safety
+EN_TRAIL_2.txt	3149	3274	Security_and_defense
+EN_TRAIL_2.txt	3276	3469	Crime_and_punishment
+EN_TRAIL_2.txt	3471	3805	Security_and_defense	Public_opinion
+EN_TRAIL_2.txt	3807	3822	Political
+EN_TRAIL_2.txt	3824	4060	Security_and_defense
+EN_TRAIL_2.txt	4062	4343	Health_and_safety
+EN_TRAIL_2.txt	4345	4541	Health_and_safety
+EN_TRAIL_2.txt	4543	4575
+EN_TRAIL_2.txt	4577	4802
+EN_TRAIL_2.txt	4804	4939	External_regulation_and_reputation
+EN_TRAIL_2.txt	4941	5131	Political	External_regulation_and_reputation
+EN_TRAIL_2.txt	5133	5257	Health_and_safety
+EN_TRAIL_2.txt	5259	5405	Crime_and_punishment
+EN_TRAIL_2.txt	5407	5503	Fairness_and_equality	Quality_of_life
+EN_TRAIL_3.txt	0	71	Morality
+EN_TRAIL_3.txt	73	235	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence
+EN_TRAIL_3.txt	237	397
+EN_TRAIL_3.txt	399	569	Quality_of_life
+EN_TRAIL_3.txt	571	594	Security_and_defense
+EN_TRAIL_3.txt	596	677	Legality_Constitutionality_and_jurisprudence	Security_and_defense	Public_opinion
+EN_TRAIL_3.txt	679	868
+EN_TRAIL_3.txt	870	1037	Cultural_identity	Public_opinion
+EN_TRAIL_3.txt	1039	1070
+EN_TRAIL_3.txt	1072	1207	Crime_and_punishment
+EN_TRAIL_3.txt	1209	1480
+EN_TRAIL_3.txt	1482	1717	Security_and_defense	Quality_of_life	Political
+EN_TRAIL_3.txt	1719	1961	Quality_of_life
+EN_TRAIL_3.txt	1963	2110	Security_and_defense
+EN_TRAIL_3.txt	2112	2370	Health_and_safety
+EN_TRAIL_3.txt	2372	2505	Security_and_defense
+EN_TRAIL_3.txt	2507	2648
+EN_TRAIL_3.txt	2650	2895	Policy_prescription_and_evaluation
+EN_TRAIL_3.txt	2897	2916	Health_and_safety	Political
+EN_TRAIL_3.txt	2918	3282	Fairness_and_equality
+EN_TRAIL_3.txt	3284	3434	Security_and_defense
+EN_TRAIL_3.txt	3436	3707	Capacity_and_resources	Legality_Constitutionality_and_jurisprudence
+EN_TRAIL_3.txt	3709	3858	Quality_of_life	Cultural_identity
+EN_TRAIL_3.txt	3860	4055	Morality	Legality_Constitutionality_and_jurisprudence
+EN_TRAIL_3.txt	4057	4407
+EN_TRAIL_3.txt	4409	4590	External_regulation_and_reputation
+EN_TRAIL_3.txt	4592	4796	Economic	Legality_Constitutionality_and_jurisprudence
+EN_TRIAL_5.txt	0	64	Fairness_and_equality
+EN_TRIAL_5.txt	66	259	Security_and_defense
+EN_TRIAL_5.txt	261	504
+EN_TRIAL_5.txt	506	594	Fairness_and_equality
+EN_TRIAL_5.txt	596	870	Fairness_and_equality
+EN_TRIAL_5.txt	872	1118	Quality_of_life
+EN_TRIAL_5.txt	1120	1148	Capacity_and_resources
+EN_TRIAL_5.txt	1150	1368	Economic	Security_and_defense
+EN_TRIAL_5.txt	1370	1586	Economic
+EN_TRIAL_5.txt	1588	1871	Fairness_and_equality	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+EN_TRIAL_5.txt	1873	2077	Capacity_and_resources	Fairness_and_equality	Quality_of_life

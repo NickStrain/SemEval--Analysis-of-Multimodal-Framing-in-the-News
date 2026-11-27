@@ -1,0 +1,53 @@
+Chat Control 1.0 passed the European Parliament - through the back door
+
+A loophole in parliamentary procedure allowed MEPs to extend mass scanning of private communications until 2026 without a direct vote on the substance of the law.
+
+Chat Control 1.0 - a temporary derogation from ePrivacy rules designed to detect online child sexual abuse - was adopted by the European Parliament on Thursday.
+
+The regulation will remain in effect until 3 April 2028, providing a substantial buffer while lawmakers negotiate an agreement on the updated framework, Chat Control 2.0.
+
+How the file resurfaced
+
+In March, MEPs rejected extending Chat Control 1.0 after subsequent talks failed.
+
+In late June, the European Parliament President Roberta Metsola reopened the file, sending it to the Council, warning that the expired rules left a dangerous gap in online child protection.
+
+The Council then sent the file back to Parliament at the beginning of the vacation season, where it was difficult to secure the necessary majority to dismiss it again.
+
+What happened at the Parliament
+
+At the EP, a simple majority initially supported rejecting the position with 314 MEPs voting in favor, 276 against, and 17 abstentions.
+
+As there was no absolute majority (currently equal to 360 MEPs) to reject the amended EP position (276 MEPs voted in favor, 286 against, 30 abstentions), the second reading was closed, and the amended package has now been sent to the Council for approval within 3 months.
+
+The amended EP position adopts a positive, yet rather cosmetic amendment proposed by the liberal RENEW group that would "exclude communications to which end-to-end encryption is, has been, or will be applied" from the scope of the law.
+
+While some MEPs have called this "a glimmer of hope," and it was likely one of the contributing factors why the whole text was not rejected in the second hearing, it is not clear how extensive the list of such communication channels could be.
+
+Since this amendment may run counter to the very idea of mass scanning of private communications, the Council is likely to reject these amendments.
+
+The previous Council positions on Chat Control 2.0 have also included minor statements about protecting privacy and end-to-end encryption, but no technical debate about how aligning the goals of Chat Control and end-to-end encryption is possible in practice.
+
+While social media is buzzing with criticism of both proposals, the conversation at the member state level about the files is scarce.
+
+At the member state level, the files for both Chat Control proposals are normally led by representatives from the Ministries of the Interior.
+
+Currently, only a small number of countries are engaged in an active debate on the matter, evaluating the proposal not only from a law enforcement perspective but also through the lens of data protection, private communication and cybersecurity.
+
+Big-tent opposition
+
+Both proposals for the mass scanning of European private communications have ignited widespread opposition, spanning left-wing, liberal and right-wing politicians, privacy advocates such as former MEP Patrick Breyer, cybersecurity specialists and even human rights advocates with extensive experience in freedom of expression and information issues outside the EU.
+
+The recently re-elected ALDE Party President and German MEP, Svenja Hahn, was openly critical of the parliamentary vote in her comment for EUTechLoop:
+
+"It's a disgrace that the Chat Control instrument has passed in the European Parliament. It opens the door for mass surveillance of all private communication of our European citizens instead of the targeted fight against child sexual abuse as proposed by the Parliament."
+
+"The surveillance of private chats pushed by EU-states is a threat for our freedom and democracy. We need to continue fighting against Chat Control."
+
+The President of the Open Dialogue Foundation, Lyudmyla Kozlovska commented for EUTechLoop that the vote on Chat Control 1.0 should be viewed in a broader context of erosion of privacy in the EU:
+
+"That vote should trouble anyone who cares about how democracy in the EU works, not just about privacy. It's the same approach to normalising the erosion of privacy that we've seen before - first with financial privacy, then travellers' data, now our communications: a sweeping power justified by an urgent-sounding purpose, then quietly normalised."
+
+"And the result? Financial, security and cybersecurity laws are now heavily weaponised by adversaries of the EU against its own citizens and entities, for transnational repression."
+
+"The real fight for encryption and the privacy of communication is in September, over Chat Control 2.0. Between now and then, the resistance has to be strong enough that no procedural trick can carry it."

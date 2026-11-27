@@ -1,0 +1,8 @@
+0	100	Legality_Constitutionality_and_jurisprudence	Morality
+106	308	
+312	571	Policy_prescription_and_evaluation	Political
+575	889	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Morality
+893	1149	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+1153	1506	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+1510	1697	Political
+1701	1983	Policy_prescription_and_evaluation	Political

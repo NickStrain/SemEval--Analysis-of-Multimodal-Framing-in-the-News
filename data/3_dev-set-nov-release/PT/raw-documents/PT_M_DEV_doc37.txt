@@ -1,0 +1,30 @@
+IA. Google reforça aposta na Anthropic com investimento histórico de 34 mil milhões de euros
+
+
+Este negócio, o maior alguma vez realizado pela gigante de Mountain View num parceiro externo, sinaliza uma mudança radical na estratégia de Inteligência Artificial (IA) do grupo, uma vez que dá prioridade à infraestrutura e ao hardware relativamente ao software.
+
+O investimento está estruturado de forma faseada. No imediato, a Google injetará 10 mil milhões de dólares, ficando os restantes 30 mil milhões condicionados ao cumprimento de metas técnicas rigorosas e objetivos de desempenho por parte da Anthropic nos próximos três anos.
+
+Com este influxo de capital, a avaliação de mercado da Anthropic — fundada por ex-executivos da OpenAI (criadora do ChatGPT) — disparou para os 380 mil milhões de dólares, consolidando-se assim como a principal rival independente do eixo Microsoft-OpenAI.
+
+
+O fim do reinado da Nvidia?
+
+
+Em troca do investimento, a Anthropic concordou em treinar e executar os seus modelos de próxima geração, incluindo o aguardado Claude Mythos, exclusivamente nos chips proprietários da Google: as TPU (Tensor Processing Units) de 7.ª e 8.ª geração.
+
+Até agora, o mercado de IA tem estado refém dos chips H100 e B200 da Nvidia. Ao garantir que um dos modelos mais eficientes do mundo (o Claude) corre exclusivamente em hardware Google, a Alphabet consegue uma "prova de conceito" viva para atrair outras empresas para a sua infraestrutura, desafiando diretamente a hegemonia da Nvidia e da Microsoft Azure.
+
+
+Da competição para a "coopetição"
+
+
+A decisão da Google de financiar um concorrente direto do seu próprio sistema de IA, o Gemini, levanta questões sobre a possível canibalização, mas analistas apontam para uma estratégia de "hedge", ou cobertura de risco.
+
+"A Google percebeu que não precisa de ganhar a guerra dos chatbots para ser a dona da IA", afirma um analista da Bloomberg. "Se o Gemini vencer, a Google ganha. Se o Claude vencer, a Google ganha através do aluguer dos seus centros de dados e da venda de energia."
+
+O acordo prevê que a Anthropic utilize 5GW (gigawatts) de capacidade de computação na Google Cloud nos próximos cinco anos, um volume de energia sem precedentes para uma única entidade privada.
+
+O maior interesse da Google na Anthropic terá sido acelerado pelo desempenho financeiro fulgurante desta últimaeste mês. A ferramenta Claude Code, focada em programação autónoma, permitiu à startup atingir receitas anuais recorrentes de 30 mil milhões de dólares em abril de 2026, provando que a IA generativa já é um negócio altamente lucrativo e não apenas uma promessa laboratorial.
+
+Este investimento surge também como uma resposta direta à Amazon, que recentemente reforçou a sua posição na Anthropic com 25 mil milhões de dólares. A Google, ao entrar com um valor superior, garante que a Anthropic permanece num modelo de "custódia partilhada", impedindo que qualquer rival ganhe controlo exclusivo sobre a tecnologia.

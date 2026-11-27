@@ -1,0 +1,8 @@
+0	86	
+90	650	Economic	Public_opinion
+654	1105	Economic
+1109	1394	
+1398	1755	Political	Public_opinion
+1759	2161	Morality	Political
+2165	2736	Morality	Political
+2740	3059	External_regulation_and_reputation	Political

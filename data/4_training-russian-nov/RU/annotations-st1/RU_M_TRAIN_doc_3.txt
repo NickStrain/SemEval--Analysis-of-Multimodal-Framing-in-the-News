@@ -1,0 +1,8 @@
+0	55	
+58	116	
+119	250	
+253	533	
+536	833	Health_and_safety
+836	1050	
+1053	1480	Policy_prescription_and_evaluation
+1483	1573	

@@ -1,0 +1,8 @@
+0	68	
+72	657	Policy_prescription_and_evaluation
+661	892	Capacity_and_resources
+896	1146	Capacity_and_resources	Political
+1150	1603	
+1607	1977	
+1981	2459	Policy_prescription_and_evaluation
+2463	2747	Policy_prescription_and_evaluation

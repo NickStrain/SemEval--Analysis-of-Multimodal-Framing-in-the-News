@@ -1,0 +1,13 @@
+0	76	Political
+80	410	Public_opinion
+414	941	Public_opinion
+945	1046	
+1050	1410	Public_opinion
+1414	1795	
+1799	2093	Public_opinion
+2097	2291	Public_opinion
+2295	2571	Political	Public_opinion
+2575	2960	
+2964	3263	
+3267	3555	Political	Public_opinion
+3559	3697	

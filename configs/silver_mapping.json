@@ -1,0 +1,16 @@
+{
+ "economic": "Economic",
+ "cap&res": "Capacity_and_resources",
+ "morality": "Morality",
+ "fairness": "Fairness_and_equality",
+ "legality": "Legality_Constitutionality_and_jurisprudence",
+ "policy": "Policy_prescription_and_evaluation",
+ "crime": "Crime_and_punishment",
+ "security": "Security_and_defense",
+ "health": "Health_and_safety",
+ "quality_life": "Quality_of_life",
+ "culture": "Cultural_identity",
+ "public_op": "Public_opinion",
+ "political": "Political",
+ "regulation": "External_regulation_and_reputation"
+}

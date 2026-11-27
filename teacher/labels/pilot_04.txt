@@ -1,0 +1,32 @@
+EN_M_TRAIN_9#0|POLIT:0.6 SEC:0.6 HEA:0.5|0.1|Congress urged to act as occupation and starvation worsen
+EN_M_TRAIN_9#1|MOR:0.4 POLIT:0.4 PUB:0.3|0.3|Advocacy plea to speak up
+EN_M_TRAIN_9#2|POLIT:0.6 SEC:0.6 HEA:0.5|0.1|Rights defenders lobby lawmakers amid killings and starvation
+EN_M_TRAIN_9#3|POLIT:0.6 SEC:0.5 MOR:0.4|0.1|Advocacy letter against plan to occupy and expel
+EN_M_TRAIN_9#4|SEC:0.8 POL:0.4 MOR:0.3|0.1|Operation to conquer Gaza and expel population
+EN_M_TRAIN_9#5|SEC:0.8|0.1|Strikes kill over 100 including children
+EN_M_TRAIN_9#6|SEC:0.7 POLIT:0.5 POL:0.4|0.1|Cabinet approves invasion and permanent occupation
+EN_M_TRAIN_9#7|POLIT:0.6 EXT:0.5 MOR:0.5 POL:0.5|0.1|Demand to end war and halt weapons sales
+EN_M_TRAIN_9#8|POLIT:0.7 CRI:0.5 SEC:0.4|0.1|PM accused of prolonging war to avoid corruption trial
+EN_M_TRAIN_9#9|SEC:0.6 MOR:0.5 POLIT:0.4|0.1|Accusation of plan to destroy Gaza and expel Palestinians
+EN_M_TRAIN_9#10|HEA:0.6 SEC:0.6 MOR:0.4 EXT:0.3|0.1|Children killed with US weapons; babies starving
+EN_M_TRAIN_9#11|MOR:0.4 POLIT:0.4|0.3|Repeated plea to Congress
+EN_M_TRAIN_9#12|PUB:0.5 POLIT:0.5 ECO:0.4 CRI:0.3|0.1|Activist arrested protesting bomb spending and Medicaid cuts
+EN_M_TRAIN_9#13|POL:0.5 HEA:0.5 POLIT:0.4|0.1|Demand Congress let food into Gaza
+EN_M_TRAIN_9#14|HEA:0.9 QOL:0.4|0.1|IPC report: extreme food deprivation and starvation
+EN_M_TRAIN_9#15|HEA:0.9|0.1|Deaths from malnutrition and lack of medical care
+EN_M_TRAIN_9#16|HEA:0.7 SEC:0.5 POL:0.4|0.1|Blockade and siege cut food, medicine, fuel
+EN_M_TRAIN_9#17|LEG:0.8 SEC:0.5 EXT:0.5|0.1|Genocide case before International Court of Justice
+EN_M_TRAIN_9#18|LEG:0.8 CRI:0.6|0.1|ICC warrants for war crimes
+EN_M_TRAIN_9#19|POLIT:0.6 EXT:0.6 POL:0.5|0.1|Senators' resolution urging diplomacy and aid
+EN_M_TRAIN_9#20|HEA:0.6 POLIT:0.6 EXT:0.3|0.1|Leaders acknowledge Palestinians are starving
+EN_M_TRAIN_9#21|POL:0.8 HEA:0.4 EXT:0.4|0.1|Aid plan would feed only 60%; UN rejects it
+EN_M_TRAIN_91#0|CRI:0.8 POL:0.3|0.1|Grooming gang review links cases to migrants
+EN_M_TRAIN_91#1|CRI:0.8 POL:0.4|0.1|Review: migrants significant share of suspects
+EN_M_TRAIN_91#2|CRI:0.8|0.1|Review of ongoing police operations into grooming gangs
+EN_M_TRAIN_91#3|POL:0.6 CRI:0.7 CUL:0.4 SEC:0.3|0.1|Pressure to stem migration; overrepresentation of Pakistani-heritage men
+EN_M_TRAIN_91#4|CRI:0.6 FAI:0.4 CUL:0.4|0.1|Officials covered up for fear of racism accusations
+EN_M_TRAIN_91#5|POL:0.6 CRI:0.4 CUL:0.4|0.1|Call to track ethnicity of child sex offenders
+EN_M_TRAIN_91#6|POL:0.6 CRI:0.5|0.1|Failure to record ethnicity in crime data
+EN_M_TRAIN_91#7|CRI:0.6 POL:0.6|0.1|Calls to publish crime rates by migrant groups
+EN_M_TRAIN_91#8|CRI:0.8|0.1|Some migrant groups more often arrested for sex crimes
+EN_M_TRAIN_91#9|CRI:0.7 POL:0.5 FAI:0.3|0.1|Arrest-rate comparison; calls to restrict migration policy

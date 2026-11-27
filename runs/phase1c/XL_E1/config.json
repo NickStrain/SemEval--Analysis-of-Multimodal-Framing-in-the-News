@@ -1,0 +1,20 @@
+{
+ "name": "XL_E1",
+ "phase": "phase1c",
+ "kind": "finetune",
+ "model": "xlmr-large",
+ "ctx": false,
+ "n_out": 15,
+ "lr": 1e-05,
+ "head_lr": 0.001,
+ "epochs": 8,
+ "bs": 16,
+ "freeze_emb": true,
+ "grad_ckpt": true,
+ "extra": "en",
+ "en_over": 1,
+ "stage2_en": 0,
+ "artframes": "",
+ "smoke": false,
+ "minutes": 89.24667944510777
+}

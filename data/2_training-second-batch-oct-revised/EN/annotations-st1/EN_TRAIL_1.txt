@@ -1,0 +1,6 @@
+0	66	Policy_prescription_and_evaluation	Economic	Health_and_safety
+70	568	Policy_prescription_and_evaluation	Economic	External_regulation_and_reputation	Health_and_safety
+574	1303	Economic	Health_and_safety	Quality_of_life	Political
+1307	2042	Policy_prescription_and_evaluation	Economic	Political
+2046	2761	
+2765	3089	Economic	Health_and_safety	Quality_of_life

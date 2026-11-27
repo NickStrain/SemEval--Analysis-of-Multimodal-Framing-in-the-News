@@ -1,0 +1,11 @@
+0	57	
+60	275	External_regulation_and_reputation	Capacity_and_resources
+278	604	Capacity_and_resources
+606	885	Capacity_and_resources
+887	1414	Capacity_and_resources
+1416	1804	External_regulation_and_reputation	Capacity_and_resources
+1806	1942	Capacity_and_resources
+1944	2237	Capacity_and_resources
+2239	2536	Public_opinion
+2538	2809	Public_opinion
+2811	3106	Public_opinion

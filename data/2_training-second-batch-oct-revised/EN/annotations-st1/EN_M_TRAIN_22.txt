@@ -1,0 +1,7 @@
+0	36	
+40	495	
+499	1050	Health_and_safety	Security_and_defense
+1054	1502	
+1506	1951	Health_and_safety	Security_and_defense
+1955	2455	Morality
+2459	2872	

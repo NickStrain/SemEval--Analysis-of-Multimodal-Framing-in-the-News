@@ -1,0 +1,18 @@
+0	82	Fairness_and_equality
+86	209	Security_and_defense
+213	931	Legality_Constitutionality_and_jurisprudence
+935	1529	Security_and_defense
+1533	2026	Security_and_defense	Crime_and_punishment
+2030	2417	Crime_and_punishment
+2421	2719	Quality_of_life
+2723	2955	Crime_and_punishment
+2959	3663	
+3667	3895	Policy_prescription_and_evaluation	Political
+3899	4509	Security_and_defense
+4513	4824	
+4828	5001	
+5005	5363	
+5367	5637	Legality_Constitutionality_and_jurisprudence
+5641	6021	Political
+6025	6407	Policy_prescription_and_evaluation	Security_and_defense
+6411	6828	

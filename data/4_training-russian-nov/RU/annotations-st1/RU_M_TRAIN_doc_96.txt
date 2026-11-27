@@ -1,0 +1,11 @@
+0	83	External_regulation_and_reputation	Political
+86	223	External_regulation_and_reputation	Political
+225	270	
+272	316	
+318	539	External_regulation_and_reputation	Political
+541	686	
+688	783	
+785	893	External_regulation_and_reputation	Political
+895	1071	External_regulation_and_reputation	Political
+1073	1275	External_regulation_and_reputation	Crime_and_punishment
+1277	1527	External_regulation_and_reputation	Political

@@ -1,0 +1,10 @@
+0	80	Policy_prescription_and_evaluation	Capacity_and_resources	Security_and_defense
+83	334	Policy_prescription_and_evaluation	Capacity_and_resources	Security_and_defense
+336	533	Capacity_and_resources
+535	860	Policy_prescription_and_evaluation	Economic	Security_and_defense
+862	1031	Security_and_defense
+1033	1143	Security_and_defense
+1145	1307	Economic	Capacity_and_resources
+1309	1436	Policy_prescription_and_evaluation	Economic
+1438	1670	Policy_prescription_and_evaluation	Security_and_defense
+1672	1903	Fairness_and_equality	Crime_and_punishment

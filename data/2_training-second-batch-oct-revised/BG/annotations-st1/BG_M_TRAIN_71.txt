@@ -1,0 +1,7 @@
+0	56	
+60	424	
+428	801	Security_and_defense
+805	1303	Crime_and_punishment
+1307	1514	
+1518	2411	Health_and_safety	Security_and_defense	Crime_and_punishment
+2415	3068	Crime_and_punishment

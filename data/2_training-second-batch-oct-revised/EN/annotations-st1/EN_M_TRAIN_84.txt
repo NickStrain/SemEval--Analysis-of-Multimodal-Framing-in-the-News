@@ -1,0 +1,5 @@
+0	86	
+90	533	Policy_prescription_and_evaluation	Economic
+537	1427	Policy_prescription_and_evaluation	Economic	Security_and_defense
+1431	1713	Policy_prescription_and_evaluation	Capacity_and_resources
+1717	1997	Capacity_and_resources

@@ -1,0 +1,32 @@
+{"pid": "EN_M_TRAIN_9#0", "p": {"Political": 0.6, "Security_and_defense": 0.6, "Health_and_safety": 0.5}, "none": 0.1, "why": "Congress urged to act as occupation and starvation worsen"}
+{"pid": "EN_M_TRAIN_9#1", "p": {"Morality": 0.4, "Political": 0.4, "Public_opinion": 0.3}, "none": 0.3, "why": "Advocacy plea to speak up"}
+{"pid": "EN_M_TRAIN_9#2", "p": {"Political": 0.6, "Security_and_defense": 0.6, "Health_and_safety": 0.5}, "none": 0.1, "why": "Rights defenders lobby lawmakers amid killings and starvation"}
+{"pid": "EN_M_TRAIN_9#3", "p": {"Political": 0.6, "Security_and_defense": 0.5, "Morality": 0.4}, "none": 0.1, "why": "Advocacy letter against plan to occupy and expel"}
+{"pid": "EN_M_TRAIN_9#4", "p": {"Security_and_defense": 0.8, "Policy_prescription_and_evaluation": 0.4, "Morality": 0.3}, "none": 0.1, "why": "Operation to conquer Gaza and expel population"}
+{"pid": "EN_M_TRAIN_9#5", "p": {"Security_and_defense": 0.8}, "none": 0.1, "why": "Strikes kill over 100 including children"}
+{"pid": "EN_M_TRAIN_9#6", "p": {"Security_and_defense": 0.7, "Political": 0.5, "Policy_prescription_and_evaluation": 0.4}, "none": 0.1, "why": "Cabinet approves invasion and permanent occupation"}
+{"pid": "EN_M_TRAIN_9#7", "p": {"Political": 0.6, "External_regulation_and_reputation": 0.5, "Morality": 0.5, "Policy_prescription_and_evaluation": 0.5}, "none": 0.1, "why": "Demand to end war and halt weapons sales"}
+{"pid": "EN_M_TRAIN_9#8", "p": {"Political": 0.7, "Crime_and_punishment": 0.5, "Security_and_defense": 0.4}, "none": 0.1, "why": "PM accused of prolonging war to avoid corruption trial"}
+{"pid": "EN_M_TRAIN_9#9", "p": {"Security_and_defense": 0.6, "Morality": 0.5, "Political": 0.4}, "none": 0.1, "why": "Accusation of plan to destroy Gaza and expel Palestinians"}
+{"pid": "EN_M_TRAIN_9#10", "p": {"Health_and_safety": 0.6, "Security_and_defense": 0.6, "Morality": 0.4, "External_regulation_and_reputation": 0.3}, "none": 0.1, "why": "Children killed with US weapons; babies starving"}
+{"pid": "EN_M_TRAIN_9#11", "p": {"Morality": 0.4, "Political": 0.4}, "none": 0.3, "why": "Repeated plea to Congress"}
+{"pid": "EN_M_TRAIN_9#12", "p": {"Public_opinion": 0.5, "Political": 0.5, "Economic": 0.4, "Crime_and_punishment": 0.3}, "none": 0.1, "why": "Activist arrested protesting bomb spending and Medicaid cuts"}
+{"pid": "EN_M_TRAIN_9#13", "p": {"Policy_prescription_and_evaluation": 0.5, "Health_and_safety": 0.5, "Political": 0.4}, "none": 0.1, "why": "Demand Congress let food into Gaza"}
+{"pid": "EN_M_TRAIN_9#14", "p": {"Health_and_safety": 0.9, "Quality_of_life": 0.4}, "none": 0.1, "why": "IPC report: extreme food deprivation and starvation"}
+{"pid": "EN_M_TRAIN_9#15", "p": {"Health_and_safety": 0.9}, "none": 0.1, "why": "Deaths from malnutrition and lack of medical care"}
+{"pid": "EN_M_TRAIN_9#16", "p": {"Health_and_safety": 0.7, "Security_and_defense": 0.5, "Policy_prescription_and_evaluation": 0.4}, "none": 0.1, "why": "Blockade and siege cut food, medicine, fuel"}
+{"pid": "EN_M_TRAIN_9#17", "p": {"Legality_Constitutionality_and_jurisprudence": 0.8, "Security_and_defense": 0.5, "External_regulation_and_reputation": 0.5}, "none": 0.1, "why": "Genocide case before International Court of Justice"}
+{"pid": "EN_M_TRAIN_9#18", "p": {"Legality_Constitutionality_and_jurisprudence": 0.8, "Crime_and_punishment": 0.6}, "none": 0.1, "why": "ICC warrants for war crimes"}
+{"pid": "EN_M_TRAIN_9#19", "p": {"Political": 0.6, "External_regulation_and_reputation": 0.6, "Policy_prescription_and_evaluation": 0.5}, "none": 0.1, "why": "Senators' resolution urging diplomacy and aid"}
+{"pid": "EN_M_TRAIN_9#20", "p": {"Health_and_safety": 0.6, "Political": 0.6, "External_regulation_and_reputation": 0.3}, "none": 0.1, "why": "Leaders acknowledge Palestinians are starving"}
+{"pid": "EN_M_TRAIN_9#21", "p": {"Policy_prescription_and_evaluation": 0.8, "Health_and_safety": 0.4, "External_regulation_and_reputation": 0.4}, "none": 0.1, "why": "Aid plan would feed only 60%; UN rejects it"}
+{"pid": "EN_M_TRAIN_91#0", "p": {"Crime_and_punishment": 0.8, "Policy_prescription_and_evaluation": 0.3}, "none": 0.1, "why": "Grooming gang review links cases to migrants"}
+{"pid": "EN_M_TRAIN_91#1", "p": {"Crime_and_punishment": 0.8, "Policy_prescription_and_evaluation": 0.4}, "none": 0.1, "why": "Review: migrants significant share of suspects"}
+{"pid": "EN_M_TRAIN_91#2", "p": {"Crime_and_punishment": 0.8}, "none": 0.1, "why": "Review of ongoing police operations into grooming gangs"}
+{"pid": "EN_M_TRAIN_91#3", "p": {"Policy_prescription_and_evaluation": 0.6, "Crime_and_punishment": 0.7, "Cultural_identity": 0.4, "Security_and_defense": 0.3}, "none": 0.1, "why": "Pressure to stem migration; overrepresentation of Pakistani-heritage men"}
+{"pid": "EN_M_TRAIN_91#4", "p": {"Crime_and_punishment": 0.6, "Fairness_and_equality": 0.4, "Cultural_identity": 0.4}, "none": 0.1, "why": "Officials covered up for fear of racism accusations"}
+{"pid": "EN_M_TRAIN_91#5", "p": {"Policy_prescription_and_evaluation": 0.6, "Crime_and_punishment": 0.4, "Cultural_identity": 0.4}, "none": 0.1, "why": "Call to track ethnicity of child sex offenders"}
+{"pid": "EN_M_TRAIN_91#6", "p": {"Policy_prescription_and_evaluation": 0.6, "Crime_and_punishment": 0.5}, "none": 0.1, "why": "Failure to record ethnicity in crime data"}
+{"pid": "EN_M_TRAIN_91#7", "p": {"Crime_and_punishment": 0.6, "Policy_prescription_and_evaluation": 0.6}, "none": 0.1, "why": "Calls to publish crime rates by migrant groups"}
+{"pid": "EN_M_TRAIN_91#8", "p": {"Crime_and_punishment": 0.8}, "none": 0.1, "why": "Some migrant groups more often arrested for sex crimes"}
+{"pid": "EN_M_TRAIN_91#9", "p": {"Crime_and_punishment": 0.7, "Policy_prescription_and_evaluation": 0.5, "Fairness_and_equality": 0.3}, "none": 0.1, "why": "Arrest-rate comparison; calls to restrict migration policy"}

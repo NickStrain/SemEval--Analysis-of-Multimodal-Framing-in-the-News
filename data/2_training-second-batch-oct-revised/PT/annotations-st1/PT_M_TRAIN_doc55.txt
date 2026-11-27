@@ -1,0 +1,11 @@
+0	94	Health_and_safety	Political
+97	334	Policy_prescription_and_evaluation	Capacity_and_resources
+336	610	Capacity_and_resources
+612	887	Health_and_safety
+889	1026	Policy_prescription_and_evaluation	Economic
+1028	1190	Policy_prescription_and_evaluation	Crime_and_punishment
+1192	1354	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+1356	1696	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Quality_of_life
+1698	1884	Policy_prescription_and_evaluation	Economic
+1886	1971	Policy_prescription_and_evaluation	Economic
+1973	2112	Economic

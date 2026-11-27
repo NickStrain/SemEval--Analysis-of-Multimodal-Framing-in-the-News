@@ -1,0 +1,8 @@
+0	56	
+60	691	Morality	Political	Crime_and_punishment
+695	989	Crime_and_punishment
+993	1304	
+1308	1830	Security_and_defense
+1834	2178	Political	Crime_and_punishment
+2182	2406	
+2410	3292	Morality	Public_opinion	Fairness_and_equality

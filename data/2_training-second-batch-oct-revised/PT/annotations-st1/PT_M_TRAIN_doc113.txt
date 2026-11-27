@@ -1,0 +1,14 @@
+0	99	Policy_prescription_and_evaluation	Political
+105	317	Policy_prescription_and_evaluation	Political
+321	478	Policy_prescription_and_evaluation	Political
+482	722	Political
+726	1046	Policy_prescription_and_evaluation	Political
+1050	1310	Legality_Constitutionality_and_jurisprudence	Political
+1314	1528	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+1532	1649	Policy_prescription_and_evaluation	Political
+1653	1850	Policy_prescription_and_evaluation	Political
+1854	2298	Policy_prescription_and_evaluation	Capacity_and_resources	Political
+2302	2455	Political
+2459	2604	Political
+2608	3061	Political
+3065	3528	Legality_Constitutionality_and_jurisprudence	Political

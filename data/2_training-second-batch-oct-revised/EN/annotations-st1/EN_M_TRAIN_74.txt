@@ -1,0 +1,11 @@
+0	70	Cultural_identity	External_regulation_and_reputation
+74	733	Cultural_identity	Political
+737	1298	Quality_of_life
+1302	1753	Cultural_identity	Capacity_and_resources
+1757	2430	
+2434	2521	
+2525	2787	Political
+2791	3176	Political
+3180	3681	Quality_of_life	Political
+3685	4193	Capacity_and_resources
+4197	4389	

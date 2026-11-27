@@ -1,0 +1,11 @@
+0	40	
+44	971	External_regulation_and_reputation
+975	1348	Morality
+1352	1851	Morality
+1855	3012	
+3016	4218	External_regulation_and_reputation	Political
+4222	4503	Morality
+4507	4834	Political
+4838	5162	
+5166	7031	
+7035	7800	

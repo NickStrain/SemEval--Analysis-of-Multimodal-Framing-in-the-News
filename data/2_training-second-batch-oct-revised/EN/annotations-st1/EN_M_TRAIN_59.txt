@@ -1,0 +1,6 @@
+0	54	
+58	651	Morality	External_regulation_and_reputation	Quality_of_life	Health_and_safety
+655	997	Morality	External_regulation_and_reputation	Health_and_safety
+1001	1984	Legality_Constitutionality_and_jurisprudence	Morality	External_regulation_and_reputation	Political
+1988	2396	
+2400	2990	Legality_Constitutionality_and_jurisprudence

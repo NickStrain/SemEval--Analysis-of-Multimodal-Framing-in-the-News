@@ -1,0 +1,57 @@
+EN_M_TRAIN_7#0|CUL:0.6 MOR:0.3|0.3|Headline: farewell to the Pope
+EN_M_TRAIN_7#1|CUL:0.6 MOR:0.5 EXT:0.3|0.1|Funeral highlights concern for the marginalised
+EN_M_TRAIN_7#2|CUL:0.6 PUB:0.5|0.1|Huge crowds cheer the funeral procession
+EN_M_TRAIN_7#3|CUL:0.3|0.6|Coffin carried in with guards
+EN_M_TRAIN_7#4|CUL:0.5 MOR:0.4|0.2|Eulogy: pope of the people
+EN_M_TRAIN_7#5|MOR:0.6 CUL:0.4 QOL:0.3|0.1|Concern for migrants; brought refugees home
+EN_M_TRAIN_7#6|MOR:0.5 CUL:0.5|0.2|Church as home open to all
+EN_M_TRAIN_7#7|CUL:0.5 MOR:0.3|0.3|Travels to the world's peripheries
+EN_M_TRAIN_7#8|CUL:0.7|0.2|Simplified funeral rites to stress pastoral role
+EN_M_TRAIN_7#9|MOR:0.6 CUL:0.6 FAI:0.3|0.1|Reform toward a poor church for the poor
+EN_M_TRAIN_7#10|POLIT:0.6 EXT:0.5|0.1|World leaders attend; tensions with Argentine president
+EN_M_TRAIN_7#11|EXT:0.7 SEC:0.5 POLIT:0.4|0.1|Trump-Zelenskyy meeting; Ukraine war peace
+EN_M_TRAIN_7#12|CUL:0.5 PUB:0.3|0.3|Mourners fill square; worldwide broadcast
+EN_M_TRAIN_7#13|SEC:0.8|0.1|Massive security operation
+EN_M_TRAIN_7#14|CUL:0.6|0.2|Pilgrims, youth groups; postponed canonisation
+EN_M_TRAIN_7#15|CUL:0.4 PUB:0.4|0.3|Pilgrim praises the pope's humanity
+EN_M_TRAIN_7#16|FAI:0.4 MOR:0.4 CUL:0.3|0.3|Subheading: poor and marginalised welcome him
+EN_M_TRAIN_7#17|HEA:0.5 CUL:0.3|0.3|Pope died after stroke and pneumonia
+EN_M_TRAIN_7#18|CUL:0.6 POLIT:0.3|0.2|Conclave preparations; interim governance
+EN_M_TRAIN_7#19|CUL:0.6|0.2|Break with tradition in burial place
+EN_M_TRAIN_7#20|FAI:0.5 MOR:0.5 CUL:0.4|0.1|Marginalised groups honoured at the basilica
+EN_M_TRAIN_7#21|MOR:0.7 FAI:0.4|0.1|The poor privileged in God's heart
+EN_M_TRAIN_7#22|CUL:0.4|0.5|Subheading about basilica
+EN_M_TRAIN_7#23|CUL:0.8|0.1|Devotion to an icon at the basilica
+EN_M_TRAIN_7#24|CUL:0.8|0.1|Basilica's ties to Jesuit history
+EN_M_TRAIN_7#25|PUB:0.4 CUL:0.4|0.4|Subheading: crowds waited hours
+EN_M_TRAIN_7#26|PUB:0.5 CUL:0.4|0.2|Hundreds of thousands queued to pay respects
+EN_M_TRAIN_7#27|CUL:0.4 PUB:0.3|0.4|Mourners return at dawn
+EN_M_TRAIN_7#28|MOR:0.4 CUL:0.5|0.2|Nun honours his call to prayer and love
+EN_M_TRAIN_72#0|CAP:0.5 QOL:0.4 POLIT:0.3|0.2|Minister says most emigrants won't return
+EN_M_TRAIN_72#1|CAP:0.7 ECO:0.5 POL:0.4 SEC:0.4|0.1|Kiev wants emigrants back for demographics, conscription, rebuilding
+EN_M_TRAIN_72#2|CAP:0.5 POLIT:0.3|0.3|Minister accepts many will stay abroad
+EN_M_TRAIN_72#3|POL:0.6 ECO:0.6 CAP:0.6|0.1|Return incentives needed to double GDP
+EN_M_TRAIN_72#4|CAP:0.5 PUB:0.4|0.2|Survey: most refugees plan to settle abroad
+EN_M_TRAIN_72#5|CAP:0.5 SEC:0.3|0.3|Exodus numbers over time
+EN_M_TRAIN_72#6|SEC:0.5 CAP:0.4|0.2|Refugee profile; more men fleeing mobilisation
+EN_M_TRAIN_72#7|ECO:0.8 QOL:0.6 SEC:0.4|0.1|Emigration hurts GDP; housing, jobs, security deter return
+EN_M_TRAIN_74#0|EXT:0.6 CUL:0.6|0.2|Cuba revives Russian lessons on TV
+EN_M_TRAIN_74#1|EXT:0.6 CUL:0.6|0.1|Soviet-era practice resumes via Russian institute
+EN_M_TRAIN_74#2|QOL:0.5 LEG:0.3 EXT:0.4 FAI:0.3|0.1|Internet censorship and poverty limit Cubans
+EN_M_TRAIN_74#3|EXT:0.7 CUL:0.5|0.1|Revives Soviet-era cooperation; state-controlled institutions
+EN_M_TRAIN_74#4|CAP:0.7 QOL:0.6|0.1|Blackouts and collapsed power grid suspend activities
+EN_M_TRAIN_74#5|HEA:0.4|0.5|Video teaser: migrants rescued at sea
+EN_M_TRAIN_74#6|CUL:0.6 POLIT:0.3|0.2|Castro lamented Russian over English
+EN_M_TRAIN_74#7|EXT:0.7 CUL:0.4|0.1|Educational cooperation agreements with Russia
+EN_M_TRAIN_74#8|ECO:0.7 EXT:0.7 CAP:0.6|0.1|Economic collapse; Russian aid and oil shipments
+EN_M_TRAIN_74#9|ECO:0.7 EXT:0.6 CAP:0.4|0.1|Oil delivery and refinery construction talks
+EN_M_TRAIN_74#10||0.8|Author bio and video link
+EN_M_TRAIN_83#0|SEC:0.6 CRI:0.5 FAI:0.4|0.1|Anti-immigrant riots continue
+EN_M_TRAIN_83#1|CRI:0.7 SEC:0.6 FAI:0.5 QOL:0.4|0.1|Rioters attack police and target immigrants
+EN_M_TRAIN_83#2|CRI:0.7 SEC:0.4|0.1|Leisure centre attacked after false claims
+EN_M_TRAIN_83#3|FAI:0.6 QOL:0.6 CRI:0.5|0.1|Immigrant families threatened and displaced
+EN_M_TRAIN_83#4|CRI:0.7 FAI:0.4 PUB:0.4|0.1|Arrests over assault; misinformation fuels racist violence
+EN_M_TRAIN_83#5|SEC:0.6 CRI:0.5|0.1|Police assess possible paramilitary coordination
+EN_M_TRAIN_83#6|SEC:0.6 CRI:0.5|0.1|Police review footage; riot control spreads
+EN_M_TRAIN_83#7|POLIT:0.6 FAI:0.5 CRI:0.4|0.1|Leaders condemn racist thuggery; urge calm
+EN_M_TRAIN_83#8|POLIT:0.5 QOL:0.4|0.2|Minister visit; groups support displaced families

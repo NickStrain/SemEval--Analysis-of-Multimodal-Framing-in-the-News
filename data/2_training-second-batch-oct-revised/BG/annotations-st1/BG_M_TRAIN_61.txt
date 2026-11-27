@@ -1,0 +1,11 @@
+0	103	Morality	Crime_and_punishment
+107	477	Morality	Crime_and_punishment
+481	757	
+761	1167	Morality
+1171	1464	Policy_prescription_and_evaluation	Morality
+1468	1961	Policy_prescription_and_evaluation
+1965	2255	Crime_and_punishment
+2259	2710	Crime_and_punishment
+2714	2934	Fairness_and_equality
+2938	3256	Legality_Constitutionality_and_jurisprudence
+3260	3731	Policy_prescription_and_evaluation

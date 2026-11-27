@@ -1,0 +1,11 @@
+0	48	
+52	481	Political
+485	787	Economic	Political
+791	1972	Policy_prescription_and_evaluation	Economic	Morality	Political
+1976	3052	Morality	Economic	Political
+3056	3715	Political
+3719	4513	Legality_Constitutionality_and_jurisprudence	Political
+4517	5065	Political	Public_opinion
+5069	5426	Economic	Political
+5430	5711	Morality
+5715	5995	Morality

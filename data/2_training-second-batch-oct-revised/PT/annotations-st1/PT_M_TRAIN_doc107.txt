@@ -1,0 +1,16 @@
+0	116	Policy_prescription_and_evaluation	Political
+122	330	Quality_of_life	Political
+334	609	Policy_prescription_and_evaluation	Political
+613	899	Policy_prescription_and_evaluation	Political
+903	1149	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+1153	1411	Policy_prescription_and_evaluation	Political
+1415	1677	Policy_prescription_and_evaluation	Political
+1681	1913	Policy_prescription_and_evaluation	Morality
+1917	2119	Political
+2123	2369	Policy_prescription_and_evaluation	Political
+2373	2769	Political
+2773	3049	Political
+3053	3220	Political
+3224	3522	Policy_prescription_and_evaluation	Political
+3526	3803	Political
+3807	3999	Political

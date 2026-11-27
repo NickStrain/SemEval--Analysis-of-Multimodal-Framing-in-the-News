@@ -1,0 +1,11 @@
+0	52	
+56	337	Crime_and_punishment
+341	745	Health_and_safety	Crime_and_punishment
+749	993	
+997	1252	
+1256	1612	Legality_Constitutionality_and_jurisprudence
+1616	2097	
+2101	2417	
+2421	2958	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+2962	3389	Crime_and_punishment
+3393	3521	

@@ -1,0 +1,11 @@
+0	58	
+62	432	Morality	Crime_and_punishment
+436	712	
+716	1122	Morality
+1126	1419	
+1423	1916	
+1920	2210	Crime_and_punishment
+2214	2665	Crime_and_punishment
+2669	2889	Fairness_and_equality
+2893	3211	Legality_Constitutionality_and_jurisprudence
+3215	3688	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation

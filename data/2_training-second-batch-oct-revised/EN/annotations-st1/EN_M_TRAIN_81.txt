@@ -1,0 +1,8 @@
+0	81	
+85	449	Legality_Constitutionality_and_jurisprudence	Cultural_identity	Crime_and_punishment
+453	799	Security_and_defense
+803	1162	Cultural_identity	Crime_and_punishment
+1166	1784	Cultural_identity	Crime_and_punishment
+1788	1982	
+1986	2414	
+2418	2792	Legality_Constitutionality_and_jurisprudence

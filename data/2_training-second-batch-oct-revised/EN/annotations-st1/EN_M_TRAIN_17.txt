@@ -1,0 +1,4 @@
+0	77	External_regulation_and_reputation
+81	635	Health_and_safety	Political
+639	1000	Legality_Constitutionality_and_jurisprudence	Quality_of_life	Political
+1004	1504	Health_and_safety

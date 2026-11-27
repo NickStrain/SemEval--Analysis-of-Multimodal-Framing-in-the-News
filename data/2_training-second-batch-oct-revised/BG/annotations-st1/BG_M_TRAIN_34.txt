@@ -1,0 +1,11 @@
+0	46	Policy_prescription_and_evaluation
+50	345	Policy_prescription_and_evaluation
+349	645	Policy_prescription_and_evaluation	Capacity_and_resources	Quality_of_life
+649	1335	Health_and_safety	Quality_of_life	Capacity_and_resources
+1339	1883	Health_and_safety	Security_and_defense
+1887	2244	Fairness_and_equality
+2248	2538	Legality_Constitutionality_and_jurisprudence	Morality
+2542	2797	Legality_Constitutionality_and_jurisprudence	Fairness_and_equality
+2801	3607	Morality	Fairness_and_equality
+3611	4029	External_regulation_and_reputation
+4033	4375	Political

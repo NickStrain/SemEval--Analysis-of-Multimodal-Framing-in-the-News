@@ -1,0 +1,9 @@
+0	112	External_regulation_and_reputation
+116	353	External_regulation_and_reputation
+357	568	Cultural_identity
+572	959	Cultural_identity
+963	1186	
+1190	1758	External_regulation_and_reputation
+1762	2364	Legality_Constitutionality_and_jurisprudence
+2368	3043	External_regulation_and_reputation
+3047	5300	Legality_Constitutionality_and_jurisprudence	Cultural_identity	External_regulation_and_reputation	Crime_and_punishment

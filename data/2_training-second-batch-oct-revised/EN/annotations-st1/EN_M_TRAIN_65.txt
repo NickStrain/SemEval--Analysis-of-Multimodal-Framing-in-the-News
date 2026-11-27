@@ -1,0 +1,15 @@
+0	69	
+73	558	Economic
+562	900	Capacity_and_resources
+904	1240	External_regulation_and_reputation	Capacity_and_resources	Security_and_defense
+1244	1488	Capacity_and_resources
+1492	1858	Economic
+1862	2099	
+2103	2610	Economic
+2614	2966	Economic
+2970	3162	Capacity_and_resources
+3166	3752	Economic	Capacity_and_resources
+3756	4108	Economic	Capacity_and_resources
+4112	4487	
+4491	4837	Capacity_and_resources	Quality_of_life
+4841	5018	Capacity_and_resources

@@ -1,0 +1,36 @@
+# SemEval 2027 – Analysis of Multimodal Framing in the News
+# PyTorch is installed from the CUDA index (see README / setup command):
+#   uv pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+torch
+torchvision
+
+# Core NLP (starter-kit baseline: XLM-RoBERTa + HF Trainer)
+transformers
+accelerate
+datasets
+tokenizers
+sentencepiece
+protobuf
+evaluate
+peft
+
+# Data / metrics (baseline + scorers)
+numpy
+pandas
+scikit-learn
+iterative-stratification
+
+# Multimodal: images (.jpg/.png/.webp) and raw HTML documents
+pillow
+timm
+open_clip_torch
+beautifulsoup4
+lxml
+
+# Utilities / notebooks
+tqdm
+matplotlib
+seaborn
+ipykernel
+jupyter
+lightgbm

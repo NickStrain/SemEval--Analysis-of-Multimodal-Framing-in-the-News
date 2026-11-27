@@ -1,0 +1,9 @@
+0	55	Morality
+59	510	Fairness_and_equality
+514	1015	
+1019	1449	External_regulation_and_reputation
+1453	1828	
+1832	1970	Policy_prescription_and_evaluation
+1974	2300	
+2304	2590	
+2594	2894	Capacity_and_resources	Crime_and_punishment

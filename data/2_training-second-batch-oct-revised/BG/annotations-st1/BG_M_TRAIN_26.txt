@@ -1,0 +1,10 @@
+0	79	
+83	421	Crime_and_punishment
+425	725	
+729	898	Crime_and_punishment
+902	1275	
+1279	1807	Crime_and_punishment
+1811	2066	
+2070	2445	
+2449	2815	
+2819	3372	Health_and_safety

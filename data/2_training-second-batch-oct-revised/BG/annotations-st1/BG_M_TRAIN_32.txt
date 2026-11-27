@@ -1,0 +1,9 @@
+0	45	
+49	345	
+349	683	Political
+687	1078	Legality_Constitutionality_and_jurisprudence
+1082	1708	
+1712	2123	Political	Security_and_defense
+2127	2315	
+2319	2677	Security_and_defense
+2681	3061	

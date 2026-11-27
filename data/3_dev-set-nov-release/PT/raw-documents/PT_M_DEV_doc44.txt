@@ -1,0 +1,16 @@
+Investigador da Anthropic e da OpenAI avisa sobre perigos da IA nas mãos destas empresas
+
+
+Jacob Coxon, engenheiro de software que esteve no desenvolvimento do ChatGPT da OpenAI e atualmente trabalhava na Anthropic, apresentou a sua demissão e afirmou nas redes sociais que as duas empresas "não estão a agir com responsabilidade" na forma como estão a desenvolver tecnologia de inteligência artificial e estão "a brincar com as nossas vidas".
+
+Em várias publicações que fez nas redes sociais Coxon afirmou que o poder da inteligência artificial está a ser subestimado e que dentro de muito em breve os sistemas de inteligência artificial "poderão piratear qualquer coisa, revolucionar todas as áreas e conquistar verdadeiro poder e recursos”. O engenheiro afirma mesmo que a tecnologia terá capacidade "sobrehumanas".
+
+Coxon acredita que na Anthropic ainda não perceberam os "desafios civilizacionais" que se aproximam, mas que a OpenAI compreende bem esses desafios mas “estão presos na corrida para chegar primeiro” do que os competidores a esta realidade.
+
+Coxon defende a coordenação entre os diferentes projetos de IA e as empresas envolvidas neles, mas considera que isso não está a acontecer devido à competição desenfreada entre as grandes empresas tecnológicas. “Temos métodos que podem influenciar as IAs a ter um comportamento melhor, mas nada que possa alinhá-las de forma robusta. Ao haver um plano, este visa garantir que as IAs sejam suficientemente boas em treino de alinhamento para que possam alinhar os seus sucessores melhor do que conseguimos alinhar as IAs atuais”, afirmou.
+
+E o texto de Coxon tem gerado algumas reações e debates entre os seus pares, mas a maior parte desconsidera o alerta mais catastrófico do engenheiro: “As pessoas que programam IA acreditam sinceramente que poderá matar-nos a todos até ao fim da década. Isto não é uma jogada de marketing“, escreve Coxon, alertando que muitos investigadores expressam as mesmas preocupações em privado, mas público usam uma “linguagem mais sensata” e menos alarmistas. Mas a maior parte das reações tem desconsiderado esta vertente tão dramática do discurso de Coxon e focado-se nos desafios de cooperação e adaptação aos novos modelos de inteligência artificial
+
+“Querem potenciar uma aprendizagem por reforço superinteligente sem uma compreensão rigorosa da sua mente?”, pergunta aos seus colegas da área da IA. “Vão baixar a cabeça porque ‘bem, já está a acontecer’, ou aproveitar este momento para defender condições diferentes?”, questiona Coxon no fim das suas publicações.
+
+A empresa norte-americana Anthropic, liderada por Dario Amodei, desenvolve o Grande Modelo de Linguagem (LLM) Claude e realiza pesquisas em IA. Já a OpenAI desenvolveu o ChatGPT, que marcou uma revolução no mundo da IA.

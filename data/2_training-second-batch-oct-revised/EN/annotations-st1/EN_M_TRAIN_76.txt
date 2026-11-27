@@ -1,0 +1,8 @@
+0	57	
+61	956	Policy_prescription_and_evaluation	Political
+960	1579	External_regulation_and_reputation	Security_and_defense
+1583	2016	Political
+2020	2615	External_regulation_and_reputation	Security_and_defense
+2619	2974	Political
+2978	3830	External_regulation_and_reputation	Political
+3834	4404	

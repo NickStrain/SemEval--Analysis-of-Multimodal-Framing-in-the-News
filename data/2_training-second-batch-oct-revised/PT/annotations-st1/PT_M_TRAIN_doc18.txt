@@ -1,0 +1,23 @@
+0	93	Political	Crime_and_punishment
+96	329	Political	Crime_and_punishment
+331	526	Political	Crime_and_punishment
+528	861	Health_and_safety
+863	1066	Policy_prescription_and_evaluation	Public_opinion
+1068	1128	Public_opinion
+1130	1294	Policy_prescription_and_evaluation	Political
+1296	1356	Political
+1358	1543	Policy_prescription_and_evaluation	Political
+1545	1638	
+1640	1780	Political
+1782	1984	Political	Crime_and_punishment
+1986	2039	Policy_prescription_and_evaluation	Crime_and_punishment
+2041	2277	Political	Crime_and_punishment
+2279	2378	Policy_prescription_and_evaluation
+2380	2540	Health_and_safety	Political
+2542	2707	Political
+2709	2958	Policy_prescription_and_evaluation	Crime_and_punishment
+2960	3238	Legality_Constitutionality_and_jurisprudence	Quality_of_life	Political	Crime_and_punishment
+3240	3488	Policy_prescription_and_evaluation	Crime_and_punishment
+3490	3778	Crime_and_punishment
+3780	3928	Legality_Constitutionality_and_jurisprudence
+3930	4221	Crime_and_punishment

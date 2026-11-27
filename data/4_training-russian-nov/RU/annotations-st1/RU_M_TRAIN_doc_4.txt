@@ -1,0 +1,19 @@
+0	78	
+81	306	
+309	577	Economic	Capacity_and_resources
+580	807	Economic
+810	922	Economic
+925	1226	Economic
+1229	1442	
+1445	1685	
+1688	1883	Economic
+1886	2038	Security_and_defense
+2041	2337	External_regulation_and_reputation
+2340	2422	Economic
+2425	2642	Economic
+2645	2936	
+2939	3288	Political
+3291	3548	
+3551	3942	Political
+3945	4377	Political
+4380	4702	Policy_prescription_and_evaluation

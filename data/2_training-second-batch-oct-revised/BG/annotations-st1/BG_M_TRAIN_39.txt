@@ -1,0 +1,10 @@
+0	86	
+90	573	
+577	937	
+941	1337	
+1341	1680	Crime_and_punishment
+1684	1949	Health_and_safety
+1953	2200	
+2204	2426	Legality_Constitutionality_and_jurisprudence
+2430	3178	
+3182	3471	Crime_and_punishment

@@ -1,0 +1,5 @@
+0	62	
+66	587	Security_and_defense
+591	926	Health_and_safety	Quality_of_life
+930	1264	
+1268	1654	Crime_and_punishment

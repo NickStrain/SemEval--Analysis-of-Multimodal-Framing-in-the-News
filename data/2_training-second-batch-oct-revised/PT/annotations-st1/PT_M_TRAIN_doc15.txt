@@ -1,0 +1,5 @@
+0	112	Health_and_safety	Crime_and_punishment
+115	582	Health_and_safety	Public_opinion	Crime_and_punishment
+584	948	Security_and_defense	Public_opinion	Crime_and_punishment
+950	1352	Health_and_safety	Crime_and_punishment
+1354	1460	Crime_and_punishment

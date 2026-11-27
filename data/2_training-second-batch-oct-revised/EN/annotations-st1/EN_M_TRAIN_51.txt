@@ -1,0 +1,14 @@
+0	76	
+80	322	Capacity_and_resources
+326	607	Economic
+611	841	Economic
+845	1059	Capacity_and_resources
+1063	1431	Economic
+1435	1821	Capacity_and_resources
+1825	2260	Cultural_identity
+2264	2493	Economic
+2497	2876	
+2880	3193	
+3197	3389	Quality_of_life
+3393	3594	Economic
+3598	4246	Policy_prescription_and_evaluation

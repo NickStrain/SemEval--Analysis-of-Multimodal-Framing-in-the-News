@@ -1,0 +1,13 @@
+0	73	Crime_and_punishment
+79	198	Crime_and_punishment
+202	367	Health_and_safety	Security_and_defense
+371	595	Health_and_safety	Crime_and_punishment
+599	822	Crime_and_punishment
+826	970	Health_and_safety	Crime_and_punishment
+974	1065	Crime_and_punishment
+1069	1266	Cultural_identity	Crime_and_punishment
+1270	1367	Crime_and_punishment
+1371	1481	Health_and_safety
+1485	1591	External_regulation_and_reputation
+1595	1764	Health_and_safety
+1768	2005	Security_and_defense

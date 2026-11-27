@@ -1,0 +1,36 @@
+0	83	
+87	200	Security_and_defense
+204	454	Economic	Health_and_safety
+458	743	Security_and_defense
+747	1127	Security_and_defense
+1131	1477	Capacity_and_resources
+1481	1825	Capacity_and_resources
+1829	2140	Economic
+2144	2242	Security_and_defense
+2246	2459	Security_and_defense
+2463	2671	
+2675	3057	Security_and_defense
+3061	3421	
+3425	3612	Security_and_defense
+3616	3663	Security_and_defense
+3667	3915	
+3919	4143	Capacity_and_resources
+4147	4175	Health_and_safety
+4179	4250	Security_and_defense
+4254	4708	Health_and_safety
+4712	4908	Political
+4912	5125	Capacity_and_resources
+5129	5313	Capacity_and_resources
+5317	5573	Morality
+5577	5963	
+5967	6156	Capacity_and_resources
+6160	6533	Political
+6537	6558	Political
+6562	6801	Political
+6805	7105	Policy_prescription_and_evaluation	Capacity_and_resources	Political
+7109	7380	
+7384	7566	Security_and_defense
+7570	7652	External_regulation_and_reputation
+7656	7991	External_regulation_and_reputation
+7995	8067	Political
+8071	8143	

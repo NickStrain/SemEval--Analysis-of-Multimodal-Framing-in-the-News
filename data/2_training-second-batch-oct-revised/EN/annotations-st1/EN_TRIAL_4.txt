@@ -1,0 +1,38 @@
+0	62	Health_and_safety
+64	215	Economic	Health_and_safety
+217	474	Economic	Health_and_safety
+476	675	Policy_prescription_and_evaluation	External_regulation_and_reputation	Health_and_safety	Political
+677	968	Economic	Health_and_safety	Political
+970	1193	Health_and_safety	Quality_of_life	Political
+1195	1390	Economic	External_regulation_and_reputation	Health_and_safety
+1392	1659	Economic	Health_and_safety
+1661	1888	Health_and_safety
+1890	1990	
+1992	2210	Economic	Health_and_safety	Political
+2212	2400	Economic	Health_and_safety
+2402	2479	Health_and_safety
+2481	2507	
+2509	2684	Economic	Political
+2686	2818	Economic	Political
+2820	3096	Health_and_safety	Political
+3098	3126	
+3128	3328	Health_and_safety	Political
+3330	3819	Economic
+3821	4153	Economic
+4155	4225	Health_and_safety
+4227	4617	Health_and_safety
+4619	4789	Health_and_safety
+4791	4887	Economic
+4889	4973	Economic
+4975	5220	Economic
+5222	5266	Health_and_safety
+5268	5407	Health_and_safety
+5409	5593	Health_and_safety
+5595	5923	Economic	Capacity_and_resources
+5925	6066	Political
+6068	6324	Economic
+6326	6590	Economic	Health_and_safety
+6592	6741	Political
+6743	6881	Health_and_safety
+6883	7027	External_regulation_and_reputation	Political	Public_opinion
+7029	7342	Political

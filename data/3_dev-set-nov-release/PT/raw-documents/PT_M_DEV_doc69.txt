@@ -1,0 +1,30 @@
+NOVA Medical School lidera criação de novo mestrado europeu em inteligência artificial aplicada à medicina
+
+
+A NOVA Medical School vai coordenar a criação de um novo mestrado europeu em inteligência artificial aplicada à medicina, depois de a Comissão Europeia ter selecionado o projeto português para receber um financiamento de 60 mil euros. O programa, desenvolvido em parceria com universidades de Espanha e dos Países Baixos, poderá ter a primeira edição no ano letivo de 2028/2029.
+
+O projeto AI-MEDPRO – Towards an AI-aided MEdical Diagnosis and PROgnosis Master foi aprovado no âmbito do Erasmus Mundus Design Measures, tendo obtido uma avaliação de 87 pontos em 100. A iniciativa junta a NOVA Medical School à Universidade Pompeu Fabra, em Espanha, e à Universidade de Maastricht, nos Países Baixos, além de parceiros clínicos, científicos e empresariais.
+
+O financiamento europeu permitirá à NOVA Medical School desenvolver, ao longo de 15 meses, a estrutura académica e organizativa do futuro mestrado internacional, que terá dois anos de duração e 120 ECTS.
+
+O objetivo é formar profissionais de saúde capazes de desenvolver, avaliar e implementar sistemas de inteligência artificial em contexto clínico, abrangendo áreas como diagnóstico, prognóstico e apoio à decisão médica.
+
+“A inteligência artificial tem um enorme potencial para melhorar o diagnóstico, antecipar a evolução das doenças e apoiar as decisões dos profissionais de saúde. Mas a capacidade tecnológica não é suficiente. Precisamos de profissionais que compreendam simultaneamente os modelos de inteligência artificial, a realidade clínica, os requisitos regulamentares e as implicações éticas da sua utilização. É precisamente essa lacuna que queremos ajudar a preencher com este mestrado”, afirma Jorge Mendes, professor da NOVA Medical School e coordenador do AI-MEDPRO.
+
+O programa deverá combinar formação avançada em inteligência artificial e ciência de dados com conhecimentos médicos e clínicos. Estão ainda previstos conteúdos relacionados com avaliação de tecnologias de saúde, implementação de soluções em contexto real, ética, regulamentação e governação.
+
+A formação será desenvolvida tendo em conta o enquadramento europeu para a inteligência artificial e os dados de saúde, nomeadamente o AI Act e o Espaço Europeu de Dados de Saúde.
+
+“Não pretendemos formar apenas especialistas capazes de construir algoritmos. Queremos formar profissionais que saibam avaliar quando uma solução pode ser utilizada, quais são as suas limitações, que riscos comporta e como pode ser integrada nos cuidados de saúde sem comprometer a segurança dos doentes. A inovação só produz verdadeiro valor quando consegue chegar à prática clínica de forma responsável”, acrescenta Jorge Mendes.
+
+Durante os 15 meses de desenvolvimento do projeto, o consórcio vai analisar as necessidades dos sistemas de saúde e do mercado de trabalho, consultar entidades académicas, clínicas e empresariais e comparar a oferta formativa existente na Europa e a nível internacional.
+
+A partir desse trabalho serão definidos o perfil dos estudantes, as competências a adquirir, os resultados de aprendizagem e a estrutura curricular. O projeto prevê também a criação de percursos de mobilidade internacional entre as universidades participantes, estágios em contextos clínicos reais e processos conjuntos de candidatura, admissão e avaliação.
+
+A preparação do processo de acreditação e a definição do modelo de governação do consórcio fazem igualmente parte do projeto. Além das três universidades, a iniciativa contará com a participação de parceiros académicos, clínicos, científicos, empresariais e da sociedade civil da Europa, África e América Latina.
+
+O acordo de financiamento entre a Universidade NOVA de Lisboa e a Comissão Europeia deverá ser assinado até 31 de outubro de 2026, permitindo, caso o calendário se confirme, o arranque do projeto em novembro. Os 15 meses de desenvolvimento deverão terminar em janeiro de 2028.
+
+Nessa altura, o consórcio pretende apresentar uma candidatura, previsivelmente em fevereiro de 2028, à linha Erasmus Mundus Joint Masters. Uma eventual aprovação poderá abrir caminho ao financiamento de bolsas para estudantes durante cinco anos.
+
+Se esta segunda candidatura for aprovada, a primeira edição do mestrado europeu em inteligência artificial aplicada à medicina poderá arrancar no ano letivo de 2028/2029.

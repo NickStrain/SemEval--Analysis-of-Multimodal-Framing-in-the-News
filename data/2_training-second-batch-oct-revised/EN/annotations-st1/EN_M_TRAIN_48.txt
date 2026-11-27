@@ -1,0 +1,14 @@
+0	93	External_regulation_and_reputation	Security_and_defense
+97	789	External_regulation_and_reputation	Security_and_defense
+793	999	
+1003	1496	External_regulation_and_reputation	Security_and_defense
+1500	2321	
+2325	2562	Security_and_defense	Political
+2566	2924	
+2928	3516	External_regulation_and_reputation	Security_and_defense
+3520	3870	
+3874	4127	Security_and_defense
+4131	4449	External_regulation_and_reputation	Political
+4453	4753	
+4757	5312	Security_and_defense
+5316	5502	

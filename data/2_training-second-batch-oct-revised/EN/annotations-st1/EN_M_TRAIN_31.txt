@@ -1,0 +1,16 @@
+0	69	Fairness_and_equality
+73	512	Fairness_and_equality
+516	852	Crime_and_punishment
+856	1177	Morality
+1181	1468	Capacity_and_resources
+1472	1733	Capacity_and_resources
+1737	1989	
+1993	2297	Capacity_and_resources
+2301	2408	Morality	Fairness_and_equality
+2412	2694	Capacity_and_resources
+2698	2881	
+2885	3315	Policy_prescription_and_evaluation
+3319	3795	Quality_of_life
+3799	4068	
+4072	4455	Fairness_and_equality
+4459	4785	Fairness_and_equality

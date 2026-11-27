@@ -1,0 +1,8 @@
+0	107	Political
+110	708	Political
+710	1015	Political
+1017	1293	Political
+1295	1469	Political
+1471	1555	Legality_Constitutionality_and_jurisprudence	Political
+1557	1869	Political
+1871	2265	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment

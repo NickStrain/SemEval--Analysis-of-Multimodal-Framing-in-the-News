@@ -1,0 +1,29 @@
+0	81	Economic	Political
+85	250	Economic	Political
+254	555	Economic	Political
+559	878	
+882	1054	Economic	Political
+1058	1217	Political
+1221	1529	Security_and_defense
+1533	1858	Policy_prescription_and_evaluation	Political
+1862	2023	Quality_of_life
+2027	2361	Policy_prescription_and_evaluation
+2365	2583	Fairness_and_equality
+2587	2777	Public_opinion
+2781	3229	
+3233	3538	Fairness_and_equality
+3542	3936	Fairness_and_equality
+3940	4157	Political
+4161	4502	Public_opinion
+4506	4877	Public_opinion	Crime_and_punishment
+4881	5087	Morality	Health_and_safety
+5091	5311	Morality
+5315	5663	Morality	Fairness_and_equality
+5667	5856	Crime_and_punishment
+5860	6161	Security_and_defense
+6165	6352	Fairness_and_equality
+6356	6551	Fairness_and_equality
+6555	6689	Fairness_and_equality
+6693	6807	
+6811	7244	Legality_Constitutionality_and_jurisprudence
+7248	7329	

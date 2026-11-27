@@ -1,0 +1,7 @@
+0	67	External_regulation_and_reputation	Security_and_defense
+70	397	Security_and_defense	Crime_and_punishment
+399	588	External_regulation_and_reputation
+590	764	Security_and_defense	Crime_and_punishment
+766	913	Security_and_defense
+915	1248	Health_and_safety	Crime_and_punishment
+1250	1368	Public_opinion

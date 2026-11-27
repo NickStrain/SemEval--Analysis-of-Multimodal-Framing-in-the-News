@@ -1,0 +1,25 @@
+0	48	Health_and_safety	Capacity_and_resources
+51	311	Health_and_safety	Capacity_and_resources
+313	803	Health_and_safety	Capacity_and_resources
+805	1179	Health_and_safety	Capacity_and_resources
+1181	1499	
+1501	1646	Health_and_safety
+1648	1912	Health_and_safety	Capacity_and_resources
+1914	2265	Health_and_safety	Capacity_and_resources
+2267	2623	Health_and_safety	Capacity_and_resources
+2625	2834	Health_and_safety	Capacity_and_resources
+2836	3246	Health_and_safety	Capacity_and_resources
+3249	3279	
+3282	3604	Capacity_and_resources
+3606	4025	Health_and_safety	Capacity_and_resources	Fairness_and_equality
+4027	4354	External_regulation_and_reputation	Capacity_and_resources
+4356	4483	
+4486	4518	Health_and_safety	Capacity_and_resources
+4521	4818	Health_and_safety	Capacity_and_resources
+4820	4837	
+4839	5127	Health_and_safety	Capacity_and_resources
+5129	5444	Health_and_safety	Capacity_and_resources
+5446	5715	Policy_prescription_and_evaluation	Health_and_safety	Capacity_and_resources
+5717	5861	Policy_prescription_and_evaluation	Capacity_and_resources
+5863	5893	
+5895	5922	

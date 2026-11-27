@@ -1,0 +1,57 @@
+{"pid": "EN_M_TRAIN_7#0", "p": {"Cultural_identity": 0.6, "Morality": 0.3}, "none": 0.3, "why": "Headline: farewell to the Pope"}
+{"pid": "EN_M_TRAIN_7#1", "p": {"Cultural_identity": 0.6, "Morality": 0.5, "External_regulation_and_reputation": 0.3}, "none": 0.1, "why": "Funeral highlights concern for the marginalised"}
+{"pid": "EN_M_TRAIN_7#2", "p": {"Cultural_identity": 0.6, "Public_opinion": 0.5}, "none": 0.1, "why": "Huge crowds cheer the funeral procession"}
+{"pid": "EN_M_TRAIN_7#3", "p": {"Cultural_identity": 0.3}, "none": 0.6, "why": "Coffin carried in with guards"}
+{"pid": "EN_M_TRAIN_7#4", "p": {"Cultural_identity": 0.5, "Morality": 0.4}, "none": 0.2, "why": "Eulogy: pope of the people"}
+{"pid": "EN_M_TRAIN_7#5", "p": {"Morality": 0.6, "Cultural_identity": 0.4, "Quality_of_life": 0.3}, "none": 0.1, "why": "Concern for migrants; brought refugees home"}
+{"pid": "EN_M_TRAIN_7#6", "p": {"Morality": 0.5, "Cultural_identity": 0.5}, "none": 0.2, "why": "Church as home open to all"}
+{"pid": "EN_M_TRAIN_7#7", "p": {"Cultural_identity": 0.5, "Morality": 0.3}, "none": 0.3, "why": "Travels to the world's peripheries"}
+{"pid": "EN_M_TRAIN_7#8", "p": {"Cultural_identity": 0.7}, "none": 0.2, "why": "Simplified funeral rites to stress pastoral role"}
+{"pid": "EN_M_TRAIN_7#9", "p": {"Morality": 0.6, "Cultural_identity": 0.6, "Fairness_and_equality": 0.3}, "none": 0.1, "why": "Reform toward a poor church for the poor"}
+{"pid": "EN_M_TRAIN_7#10", "p": {"Political": 0.6, "External_regulation_and_reputation": 0.5}, "none": 0.1, "why": "World leaders attend; tensions with Argentine president"}
+{"pid": "EN_M_TRAIN_7#11", "p": {"External_regulation_and_reputation": 0.7, "Security_and_defense": 0.5, "Political": 0.4}, "none": 0.1, "why": "Trump-Zelenskyy meeting; Ukraine war peace"}
+{"pid": "EN_M_TRAIN_7#12", "p": {"Cultural_identity": 0.5, "Public_opinion": 0.3}, "none": 0.3, "why": "Mourners fill square; worldwide broadcast"}
+{"pid": "EN_M_TRAIN_7#13", "p": {"Security_and_defense": 0.8}, "none": 0.1, "why": "Massive security operation"}
+{"pid": "EN_M_TRAIN_7#14", "p": {"Cultural_identity": 0.6}, "none": 0.2, "why": "Pilgrims, youth groups; postponed canonisation"}
+{"pid": "EN_M_TRAIN_7#15", "p": {"Cultural_identity": 0.4, "Public_opinion": 0.4}, "none": 0.3, "why": "Pilgrim praises the pope's humanity"}
+{"pid": "EN_M_TRAIN_7#16", "p": {"Fairness_and_equality": 0.4, "Morality": 0.4, "Cultural_identity": 0.3}, "none": 0.3, "why": "Subheading: poor and marginalised welcome him"}
+{"pid": "EN_M_TRAIN_7#17", "p": {"Health_and_safety": 0.5, "Cultural_identity": 0.3}, "none": 0.3, "why": "Pope died after stroke and pneumonia"}
+{"pid": "EN_M_TRAIN_7#18", "p": {"Cultural_identity": 0.6, "Political": 0.3}, "none": 0.2, "why": "Conclave preparations; interim governance"}
+{"pid": "EN_M_TRAIN_7#19", "p": {"Cultural_identity": 0.6}, "none": 0.2, "why": "Break with tradition in burial place"}
+{"pid": "EN_M_TRAIN_7#20", "p": {"Fairness_and_equality": 0.5, "Morality": 0.5, "Cultural_identity": 0.4}, "none": 0.1, "why": "Marginalised groups honoured at the basilica"}
+{"pid": "EN_M_TRAIN_7#21", "p": {"Morality": 0.7, "Fairness_and_equality": 0.4}, "none": 0.1, "why": "The poor privileged in God's heart"}
+{"pid": "EN_M_TRAIN_7#22", "p": {"Cultural_identity": 0.4}, "none": 0.5, "why": "Subheading about basilica"}
+{"pid": "EN_M_TRAIN_7#23", "p": {"Cultural_identity": 0.8}, "none": 0.1, "why": "Devotion to an icon at the basilica"}
+{"pid": "EN_M_TRAIN_7#24", "p": {"Cultural_identity": 0.8}, "none": 0.1, "why": "Basilica's ties to Jesuit history"}
+{"pid": "EN_M_TRAIN_7#25", "p": {"Public_opinion": 0.4, "Cultural_identity": 0.4}, "none": 0.4, "why": "Subheading: crowds waited hours"}
+{"pid": "EN_M_TRAIN_7#26", "p": {"Public_opinion": 0.5, "Cultural_identity": 0.4}, "none": 0.2, "why": "Hundreds of thousands queued to pay respects"}
+{"pid": "EN_M_TRAIN_7#27", "p": {"Cultural_identity": 0.4, "Public_opinion": 0.3}, "none": 0.4, "why": "Mourners return at dawn"}
+{"pid": "EN_M_TRAIN_7#28", "p": {"Morality": 0.4, "Cultural_identity": 0.5}, "none": 0.2, "why": "Nun honours his call to prayer and love"}
+{"pid": "EN_M_TRAIN_72#0", "p": {"Capacity_and_resources": 0.5, "Quality_of_life": 0.4, "Political": 0.3}, "none": 0.2, "why": "Minister says most emigrants won't return"}
+{"pid": "EN_M_TRAIN_72#1", "p": {"Capacity_and_resources": 0.7, "Economic": 0.5, "Policy_prescription_and_evaluation": 0.4, "Security_and_defense": 0.4}, "none": 0.1, "why": "Kiev wants emigrants back for demographics, conscription, rebuilding"}
+{"pid": "EN_M_TRAIN_72#2", "p": {"Capacity_and_resources": 0.5, "Political": 0.3}, "none": 0.3, "why": "Minister accepts many will stay abroad"}
+{"pid": "EN_M_TRAIN_72#3", "p": {"Policy_prescription_and_evaluation": 0.6, "Economic": 0.6, "Capacity_and_resources": 0.6}, "none": 0.1, "why": "Return incentives needed to double GDP"}
+{"pid": "EN_M_TRAIN_72#4", "p": {"Capacity_and_resources": 0.5, "Public_opinion": 0.4}, "none": 0.2, "why": "Survey: most refugees plan to settle abroad"}
+{"pid": "EN_M_TRAIN_72#5", "p": {"Capacity_and_resources": 0.5, "Security_and_defense": 0.3}, "none": 0.3, "why": "Exodus numbers over time"}
+{"pid": "EN_M_TRAIN_72#6", "p": {"Security_and_defense": 0.5, "Capacity_and_resources": 0.4}, "none": 0.2, "why": "Refugee profile; more men fleeing mobilisation"}
+{"pid": "EN_M_TRAIN_72#7", "p": {"Economic": 0.8, "Quality_of_life": 0.6, "Security_and_defense": 0.4}, "none": 0.1, "why": "Emigration hurts GDP; housing, jobs, security deter return"}
+{"pid": "EN_M_TRAIN_74#0", "p": {"External_regulation_and_reputation": 0.6, "Cultural_identity": 0.6}, "none": 0.2, "why": "Cuba revives Russian lessons on TV"}
+{"pid": "EN_M_TRAIN_74#1", "p": {"External_regulation_and_reputation": 0.6, "Cultural_identity": 0.6}, "none": 0.1, "why": "Soviet-era practice resumes via Russian institute"}
+{"pid": "EN_M_TRAIN_74#2", "p": {"Quality_of_life": 0.5, "Legality_Constitutionality_and_jurisprudence": 0.3, "External_regulation_and_reputation": 0.4, "Fairness_and_equality": 0.3}, "none": 0.1, "why": "Internet censorship and poverty limit Cubans"}
+{"pid": "EN_M_TRAIN_74#3", "p": {"External_regulation_and_reputation": 0.7, "Cultural_identity": 0.5}, "none": 0.1, "why": "Revives Soviet-era cooperation; state-controlled institutions"}
+{"pid": "EN_M_TRAIN_74#4", "p": {"Capacity_and_resources": 0.7, "Quality_of_life": 0.6}, "none": 0.1, "why": "Blackouts and collapsed power grid suspend activities"}
+{"pid": "EN_M_TRAIN_74#5", "p": {"Health_and_safety": 0.4}, "none": 0.5, "why": "Video teaser: migrants rescued at sea"}
+{"pid": "EN_M_TRAIN_74#6", "p": {"Cultural_identity": 0.6, "Political": 0.3}, "none": 0.2, "why": "Castro lamented Russian over English"}
+{"pid": "EN_M_TRAIN_74#7", "p": {"External_regulation_and_reputation": 0.7, "Cultural_identity": 0.4}, "none": 0.1, "why": "Educational cooperation agreements with Russia"}
+{"pid": "EN_M_TRAIN_74#8", "p": {"Economic": 0.7, "External_regulation_and_reputation": 0.7, "Capacity_and_resources": 0.6}, "none": 0.1, "why": "Economic collapse; Russian aid and oil shipments"}
+{"pid": "EN_M_TRAIN_74#9", "p": {"Economic": 0.7, "External_regulation_and_reputation": 0.6, "Capacity_and_resources": 0.4}, "none": 0.1, "why": "Oil delivery and refinery construction talks"}
+{"pid": "EN_M_TRAIN_74#10", "p": {}, "none": 0.8, "why": "Author bio and video link"}
+{"pid": "EN_M_TRAIN_83#0", "p": {"Security_and_defense": 0.6, "Crime_and_punishment": 0.5, "Fairness_and_equality": 0.4}, "none": 0.1, "why": "Anti-immigrant riots continue"}
+{"pid": "EN_M_TRAIN_83#1", "p": {"Crime_and_punishment": 0.7, "Security_and_defense": 0.6, "Fairness_and_equality": 0.5, "Quality_of_life": 0.4}, "none": 0.1, "why": "Rioters attack police and target immigrants"}
+{"pid": "EN_M_TRAIN_83#2", "p": {"Crime_and_punishment": 0.7, "Security_and_defense": 0.4}, "none": 0.1, "why": "Leisure centre attacked after false claims"}
+{"pid": "EN_M_TRAIN_83#3", "p": {"Fairness_and_equality": 0.6, "Quality_of_life": 0.6, "Crime_and_punishment": 0.5}, "none": 0.1, "why": "Immigrant families threatened and displaced"}
+{"pid": "EN_M_TRAIN_83#4", "p": {"Crime_and_punishment": 0.7, "Fairness_and_equality": 0.4, "Public_opinion": 0.4}, "none": 0.1, "why": "Arrests over assault; misinformation fuels racist violence"}
+{"pid": "EN_M_TRAIN_83#5", "p": {"Security_and_defense": 0.6, "Crime_and_punishment": 0.5}, "none": 0.1, "why": "Police assess possible paramilitary coordination"}
+{"pid": "EN_M_TRAIN_83#6", "p": {"Security_and_defense": 0.6, "Crime_and_punishment": 0.5}, "none": 0.1, "why": "Police review footage; riot control spreads"}
+{"pid": "EN_M_TRAIN_83#7", "p": {"Political": 0.6, "Fairness_and_equality": 0.5, "Crime_and_punishment": 0.4}, "none": 0.1, "why": "Leaders condemn racist thuggery; urge calm"}
+{"pid": "EN_M_TRAIN_83#8", "p": {"Political": 0.5, "Quality_of_life": 0.4}, "none": 0.2, "why": "Minister visit; groups support displaced families"}

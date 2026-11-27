@@ -1,0 +1,13 @@
+0	70	Political	Crime_and_punishment
+73	314	Political	Crime_and_punishment
+316	672	Crime_and_punishment
+674	925	Policy_prescription_and_evaluation	Crime_and_punishment
+927	1250	Public_opinion
+1252	1486	Morality	Crime_and_punishment
+1488	1687	Health_and_safety	Crime_and_punishment
+1689	2044	Health_and_safety	Crime_and_punishment
+2046	2503	Health_and_safety	Crime_and_punishment
+2505	2722	Health_and_safety	Crime_and_punishment
+2724	3012	Political	Crime_and_punishment
+3014	3407	Policy_prescription_and_evaluation	Political	Crime_and_punishment
+3409	3795	Policy_prescription_and_evaluation	Crime_and_punishment

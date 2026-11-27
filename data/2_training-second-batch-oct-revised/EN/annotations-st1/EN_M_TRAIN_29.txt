@@ -1,0 +1,9 @@
+0	71	
+75	459	Security_and_defense
+463	946	Morality
+950	1152	
+1156	1418	Security_and_defense
+1422	1697	
+1701	2219	Security_and_defense
+2223	2650	
+2654	3201	External_regulation_and_reputation	Crime_and_punishment

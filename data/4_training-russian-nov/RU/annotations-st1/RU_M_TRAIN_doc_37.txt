@@ -1,0 +1,12 @@
+0	74	
+77	225	Policy_prescription_and_evaluation
+227	363	Policy_prescription_and_evaluation
+365	429	
+431	733	Policy_prescription_and_evaluation	Economic	Capacity_and_resources
+735	1043	Policy_prescription_and_evaluation
+1045	1290	Policy_prescription_and_evaluation	Morality	Quality_of_life	Fairness_and_equality
+1292	1529	Legality_Constitutionality_and_jurisprudence	Morality	Fairness_and_equality
+1531	1592	Morality
+1594	1734	Policy_prescription_and_evaluation	Quality_of_life
+1736	2002	Policy_prescription_and_evaluation	Fairness_and_equality
+2004	2147	Policy_prescription_and_evaluation	External_regulation_and_reputation	Fairness_and_equality

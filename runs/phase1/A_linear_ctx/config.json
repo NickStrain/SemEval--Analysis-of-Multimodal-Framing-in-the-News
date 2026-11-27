@@ -1,0 +1,15 @@
+{
+ "name": "A_linear_ctx",
+ "kind": "linear",
+ "model": "mcpt",
+ "ctx": true,
+ "n_out": 15,
+ "lr": 3e-05,
+ "head_lr": 0.001,
+ "epochs": 15,
+ "bs": 16,
+ "freeze_emb": false,
+ "grad_ckpt": false,
+ "smoke": false,
+ "minutes": 5.894633281230926
+}

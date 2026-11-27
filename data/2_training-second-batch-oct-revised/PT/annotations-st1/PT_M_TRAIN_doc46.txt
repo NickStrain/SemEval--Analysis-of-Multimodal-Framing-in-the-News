@@ -1,0 +1,10 @@
+0	68	Political
+71	190	Political
+192	444	Political
+446	709	Political
+711	936	Political
+938	1201	Political
+1203	1406	Political
+1408	1652	Political
+1654	1951	Capacity_and_resources
+1953	2178	Capacity_and_resources

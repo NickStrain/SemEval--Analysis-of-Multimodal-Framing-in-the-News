@@ -1,0 +1,9 @@
+0	110	Crime_and_punishment
+113	378	Security_and_defense
+380	756	Quality_of_life	Crime_and_punishment
+758	1245	Health_and_safety	Crime_and_punishment
+1247	1565	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Economic
+1567	1899	Political	Public_opinion	Crime_and_punishment
+1901	2216	Policy_prescription_and_evaluation	Economic	Political	Crime_and_punishment
+2218	2520	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Crime_and_punishment
+2522	2649	Policy_prescription_and_evaluation	Morality	Economic	Health_and_safety

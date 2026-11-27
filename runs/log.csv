@@ -1,0 +1,32 @@
+time,step,model,config,cv_micro,cv_micro_std,cv_macro,dev_micro
+2026-11-26 00:54,1,mcpt_en,M_E1 recipe; crossfit per-label thresholds,35.80,1.91,28.67,37.70
+2026-11-26 00:54,1,mcpt_en,M_E1; epoch+thresholds crossfit on all langs,36.78,2.35,29.96,37.70
+2026-11-26 00:57,2,mcpt_en,post m=None k=None,34.96,1.44,28.14,
+2026-11-26 00:59,2,mcpt_en,"post (m,k,thr) tuned on all langs",36.41,2.36,28.75,
+2026-11-26 01:07,5,mCPT(E1) + XLM-R base,nested weights+thresholds tuned on all langs,38.12,3.52,31.55,
+2026-11-26 01:07,5,"mCPT(E1) + mCPT(ctx, no extra EN)",nested weights+thresholds tuned on all langs,36.65,2.89,29.83,
+2026-11-26 01:55,4,deb_bce,"DeBERTa-v3-large BCE 5ep, epoch+thresholds nested EN",23.44,3.14,12.21,
+2026-11-26 01:55,4,deb_bce,"same, threshold grid 0.01",24.99,5.77,14.60,
+2026-11-26 01:55,5,mCPT(E1) + XLM-R base + deb_bce,nested weights+thresholds EN-only,37.04,4.41,30.19,
+2026-11-26 03:20,6/5,XLM-R large + extraEN (XL_E1),"8ep lr1e-5, epoch+thr nested EN",38.46,2.88,33.17,
+2026-11-26 03:20,5,XLM-R base + XLM-R large + deb_bce,nested weights+thr EN,38.58,2.70,33.41,
+2026-11-26 03:20,5,mCPT + XLM-R large,nested weights+thr all langs,38.12,2.07,32.71,
+2026-11-26 05:45,6,deb_silver_bce,"DeBERTa-large 1ep silver (150K mm-framing) -> 5ep gold BCE; per-label thr nested EN",34.47,3.01,28.13,
+2026-11-26 05:45,6,deb_silver_bce,"same, single global threshold nested EN",37.01,2.99,33.87,
+2026-11-26 05:45,10,mCPT + XLM-R large + deb_silver_bce,"weights + global threshold nested EN",41.62,1.04,37.68,
+2026-11-26 05:45,10,XLM-R large,"global threshold nested EN",38.97,0.89,35.53,
+2026-11-26 14:22,mCPT-EN,C1_joint,"orig mCPT, EN text (gold+extra+3454 NLLB trans), BCE+0.5 label-aware contrastive, bs32",37.48,2.76,30.3,
+2026-11-26 14:58,mCPT-EN,C2_pre_then_bce,"orig mCPT, EN text, 3 ep label-aware contrastive then 12 ep BCE",35.39,3.73,31.9,
+2026-11-26 15:35,mCPT-EN,C3_pre_joint,"orig mCPT, EN text, 3 ep contrastive then BCE+0.5 contrastive",35.30,2.30,29.0,
+2026-11-26 19:30,dev,blend70_30,"0.7 EN_best_model + 0.3 silver DeBERTa, each / own thr, blend thr 1.0 (Codabench dev)",,,,44.4
+2026-11-26 19:35,dev,blend60_40,"0.6 EN_best_model + 0.4 silver DeBERTa (Codabench dev)",,,,44.54
+2026-11-26 19:35,dev,blend80_20,"0.8 EN_best_model + 0.2 silver DeBERTa (Codabench dev)",,,,42.92
+2026-11-26 19:35,dev,blend3_60_25_15mcpt,"0.6 user + 0.25 silver DeBERTa + 0.15 mCPT (Codabench dev)",,,,44.08
+2026-11-26 19:57,dev,blend3_40_30_30xl,"0.4 user + 0.3 silver DeBERTa + 0.3 XLM-R large, thr 1.0 (Codabench dev)",,,,44.33
+2026-11-26 19:59,dev,blend3_50_30_20xl,"0.5 user + 0.3 silver DeBERTa + 0.2 XLM-R large, thr 1.0 (Codabench dev)",,,,45.04
+2026-11-26 20:00,dev,blend3_45_35_20xl,"0.45 user + 0.35 silver DeBERTa + 0.2 XLM-R large, thr 1.0 (Codabench dev)",,,,44.50
+2026-11-26 20:00,dev,blend3_45_35_20xl_matched,"same, thr 1.11 matched to 60/40 label rate (Codabench dev)",,,,45.07
+2026-11-26 20:19,ft,ft1 best_e3,"copy of user model +3454 translations +2b BG/PT, replay EN, 3 ep; held-out 2b EN 48.04 (orig 46.76)",,,,
+2026-11-26 20:20,dev,ft3_blend3_matched,"45.07 recipe with ft1 best_e3 instead of user model (Codabench dev)",,,,44.37
+2026-11-26 20:20,dev,ft3_blend60_40,"0.6 ft1 best_e3 + 0.4 silver DeBERTa (Codabench dev)",,,,43.07
+2026-11-26 20:22,10,title rule on mCPT+XLM-R L+silver DeBERTa,"titles need 3x threshold, multiplier nested EN",42.63,1.39,,

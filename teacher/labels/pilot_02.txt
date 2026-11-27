@@ -1,0 +1,54 @@
+EN_M_TRAIN_55#0|SEC:0.8|0.1|Headline: military aggression intensifies during holiday
+EN_M_TRAIN_55#1|SEC:0.8 CRI:0.3 CUL:0.3|0.1|Offensive escalates with raids and mass arrests during Eid
+EN_M_TRAIN_55#2|SEC:0.8 QOL:0.4|0.1|Demolitions, burnings, reinforcements reshape the camp
+EN_M_TRAIN_55#3|QOL:0.8 CAP:0.4|0.1|Displaced lose livelihoods; siege restricts services
+EN_M_TRAIN_55#4|QOL:0.6 CAP:0.5 SEC:0.5|0.1|Homes and infrastructure destroyed; raids expand
+EN_M_TRAIN_55#5|SEC:0.7 LEG:0.5 CRI:0.4|0.1|Arrests, killings; violations of humanitarian law
+EN_M_TRAIN_57#0|SEC:0.7 HEA:0.4|0.1|Headline: injuries in military raid
+EN_M_TRAIN_57#1|SEC:0.6 HEA:0.6|0.1|Gunshot injuries treated by ambulance teams
+EN_M_TRAIN_57#2|SEC:0.6 HEA:0.6|0.1|Child hit by canister; beatings; gas inhalation
+EN_M_TRAIN_57#3|SEC:0.6 HEA:0.4 QOL:0.4|0.1|Medical evacuations; camp stormed; families displaced
+EN_M_TRAIN_57#4|SEC:0.8|0.1|Forces assault residents with snipers and grenades
+EN_M_TRAIN_57#5|SEC:0.7 QOL:0.3|0.1|Home raids and checkpoint blocking movement
+EN_M_TRAIN_6#0|EXT:0.7 CUL:0.5|0.1|Russia accuses Japan of erasing US from history
+EN_M_TRAIN_6#1|EXT:0.8 CUL:0.5|0.1|Foreign ministry criticises omission in commemorations
+EN_M_TRAIN_6#2|EXT:0.7 CUL:0.6|0.1|Accusation of erasing US from historical record
+EN_M_TRAIN_6#3|EXT:0.6|0.2|Sarcastic jibe at Japanese leadership
+EN_M_TRAIN_6#4|CUL:0.6 POLIT:0.3 EXT:0.3|0.1|Anniversary ceremony speeches omit responsible country
+EN_M_TRAIN_6#5|CUL:0.4|0.5|Subheading about mayor's speech
+EN_M_TRAIN_6#6|CUL:0.5 EXT:0.3|0.3|Mayor names US aircraft
+EN_M_TRAIN_6#7|CUL:0.5 SEC:0.4 HEA:0.3|0.2|Peace declaration recalls bombing casualties
+EN_M_TRAIN_6#8|EXT:0.5 POLIT:0.3|0.3|Russian spokeswoman praises mayor's courage
+EN_M_TRAIN_6#9|EXT:0.7|0.2|Russia predicts Japan must acknowledge US role
+EN_M_TRAIN_6#10|EXT:0.5|0.4|Subheading: deference toward Washington
+EN_M_TRAIN_6#11|EXT:0.8 POLIT:0.6|0.1|Critics call PM's US diplomacy fawning
+EN_M_TRAIN_6#12|EXT:0.6 POLIT:0.6|0.1|Backlash over silence on attacks on Iran
+EN_M_TRAIN_6#13|EXT:0.6 POLIT:0.5 SEC:0.5 LEG:0.3|0.1|Appeasement amid constitutional revision and arms exports
+EN_M_TRAIN_6#14|EXT:0.8 SEC:0.5 CUL:0.4|0.1|Taiwan remark triggers crisis; rejects wartime apologies
+EN_M_TRAIN_60#0|QOL:0.5 EXT:0.3|0.3|Headline: refugee returns after regime ouster
+EN_M_TRAIN_60#1|QOL:0.5 EXT:0.4 CAP:0.3|0.2|UN and Turkey report refugee return numbers
+EN_M_TRAIN_60#2|CAP:0.4 POLIT:0.5 EXT:0.4|0.2|Turkey hosts millions, wants return; regime toppled
+EN_M_TRAIN_60#3|SEC:0.5 QOL:0.6|0.1|War deaths and world's largest displacement crisis
+EN_M_TRAIN_60#4|QOL:0.6|0.2|Internally displaced returning and intending to return
+EN_M_TRAIN_62#0|HEA:0.7 QOL:0.4|0.1|Flood death toll headline
+EN_M_TRAIN_62#1|HEA:0.5 POL:0.4 POLIT:0.4 CAP:0.3|0.1|PM offers assistance for relief and rehabilitation
+EN_M_TRAIN_62#2|HEA:0.7|0.1|Deaths by state from drowning and landslides
+EN_M_TRAIN_62#3|QOL:0.6 ECO:0.4|0.1|Hundreds of thousands affected; crop lands damaged
+EN_M_TRAIN_62#4|CAP:0.6 QOL:0.6|0.1|Houses, roads, power and water infrastructure damaged
+EN_M_TRAIN_62#5|HEA:0.7 QOL:0.4|0.1|Landslide and collapse deaths including refugees
+EN_M_TRAIN_62#6|QOL:0.7 HEA:0.4 CAP:0.3|0.1|Landslides, collapsed houses, families evacuated
+EN_M_TRAIN_65#0|ECO:0.9 EXT:0.5|0.1|Turkish firms plan Syrian economic rebuilding
+EN_M_TRAIN_65#1|ECO:0.8 EXT:0.6|0.1|Leaders discuss economic ties; exports rising
+EN_M_TRAIN_65#2|ECO:0.8 EXT:0.5 CAP:0.3|0.1|Firms invest in freight; joint rebuilding measures
+EN_M_TRAIN_65#3|EXT:0.8 POLIT:0.4|0.1|Close ties with Damascus; foreign visits
+EN_M_TRAIN_65#4|ECO:0.8 CAP:0.3|0.1|Export surges show reconstruction needs
+EN_M_TRAIN_65#5|ECO:0.9|0.1|Export potential and trade figures
+EN_M_TRAIN_65#6|ECO:0.6 SEC:0.4 CAP:0.3|0.1|Border buffer zone raises costs over security
+EN_M_TRAIN_65#7|ECO:0.7 POL:0.5 EXT:0.6|0.1|Agreement and free trade talks to expand trade
+EN_M_TRAIN_65#8|ECO:0.8 POL:0.4 EXT:0.3|0.1|Flights resume; overhaul toward free-market economy
+EN_M_TRAIN_65#9|EXT:0.7 CAP:0.4 ECO:0.4|0.1|Turkey assists with electricity, maritime and banking ties
+EN_M_TRAIN_65#10|ECO:0.9 CAP:0.3|0.1|Logistics firms plan investments for Syria business
+EN_M_TRAIN_65#11|ECO:0.9 CAP:0.3|0.1|Reconstruction market worth $400 billion
+EN_M_TRAIN_65#12|ECO:0.8 CAP:0.4|0.1|Manufacturers seek low-cost zone amid labour shortages
+EN_M_TRAIN_65#13|ECO:0.6 QOL:0.3|0.2|Zone could aid migrant return; quarry reopening
+EN_M_TRAIN_65#14|ECO:0.8|0.1|Reopening brings jobs and investments

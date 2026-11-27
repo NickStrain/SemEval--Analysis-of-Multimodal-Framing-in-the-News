@@ -1,0 +1,10 @@
+0	68	Capacity_and_resources	Political
+71	296	Capacity_and_resources	Quality_of_life
+298	488	Quality_of_life
+490	727	Quality_of_life	Capacity_and_resources
+729	889	Capacity_and_resources
+891	932	Quality_of_life	Political
+934	1077	
+1079	1232	Capacity_and_resources	Political
+1234	1422	Legality_Constitutionality_and_jurisprudence	Capacity_and_resources	Fairness_and_equality
+1424	1590	Capacity_and_resources	Quality_of_life

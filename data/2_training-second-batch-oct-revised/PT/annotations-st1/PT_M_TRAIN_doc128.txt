@@ -1,0 +1,7 @@
+0	80	Policy_prescription_and_evaluation
+86	449	
+453	591	Legality_Constitutionality_and_jurisprudence
+595	914	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+918	1052	Policy_prescription_and_evaluation	Political
+1056	1298	Policy_prescription_and_evaluation	External_regulation_and_reputation
+1302	1526	Policy_prescription_and_evaluation	Security_and_defense

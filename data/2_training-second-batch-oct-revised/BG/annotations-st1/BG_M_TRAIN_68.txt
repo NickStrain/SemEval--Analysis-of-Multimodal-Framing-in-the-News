@@ -1,0 +1,8 @@
+0	56	Crime_and_punishment
+60	355	Crime_and_punishment
+359	829	Capacity_and_resources	Crime_and_punishment
+833	1086	Security_and_defense
+1090	1408	
+1412	1659	Crime_and_punishment
+1663	1852	
+1856	2276	Policy_prescription_and_evaluation	Capacity_and_resources

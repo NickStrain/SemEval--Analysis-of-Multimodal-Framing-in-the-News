@@ -1,0 +1,14 @@
+ChatGPT investigado por ligação a ataque em universidade
+
+
+O procurador-geral da Flórida, James Uthmeier, anunciou esta terça-feira a abertura de uma investigação criminal ao ChatGPT e à sua empresa, OpenIA, com base na análise de mensagens trocadas entre o sistema e o suspeito de um ataque que ocorreu em abril do ano passado na Florida State University.
+
+De acordo com Uthmeier, citado pelo New York Times, as conversas indicam que o chatbot terá dado “conselhos importantes” ao alegado autor do ataque antes da sua realização. Entre os exemplos apontados estão perguntas sobre a potência de uma arma a curta distância e sobre o tipo de munições a utilizar. “Os meus procuradores analisaram isto e disseram-me que, se estivesse uma pessoa do outro lado do ecrã, estaríamos a acusá-la de homicídio“, afirmou o responsável durante uma conferência de imprensa.
+
+No dia do ataque, segundo o jornal nova-iorquino, o suspeito questionou o ChatGPT sobre a reação do país a um ataque com tiros naquela universidade e sobre os períodos de maior afluência na instituição.
+
+O ataque fez dois mortos e seis feridos, incluindo pelo menos um estudante. O suspeito, Phoenix Ikner, então com 20 anos, enfrenta várias acusações de homicídio e tentativa de homicídio e aguarda julgamento em prisão preventiva.
+
+Num comunicado divulgado no início deste mês, a OpenAI afirmou estar disponível para cooperar com as autoridades norte-americanas. “Construímos o ChatGPT para compreender a intenção das pessoas e responder de forma segura e apropriada. Continuamos a melhorar a nossa tecnologia”, indicou a empresa.
+
+O procurador-geral reconheceu tratar-se de um tema jurídico pouco explorado, uma vez que a OpenAI é uma empresa e não uma pessoa. Ainda assim, sublinhou a necessidade de apurar se “seres humanos poderão ter estado envolvidos no desenho, gestão e operação” do sistema de forma que justifique responsabilidade criminal.

@@ -1,0 +1,15 @@
+0	93	Security_and_defense
+97	708	Morality	Security_and_defense
+712	1040	Security_and_defense
+1044	1545	
+1549	1811	
+1815	2189	Security_and_defense
+2193	2623	Quality_of_life
+2627	2927	
+2931	3228	Quality_of_life
+3232	3858	Quality_of_life
+3862	4092	
+4096	4697	
+4701	5010	Morality
+5014	5706	Political
+5710	6045	

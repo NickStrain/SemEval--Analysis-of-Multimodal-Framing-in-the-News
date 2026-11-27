@@ -1,0 +1,11 @@
+0	71	
+75	496	Quality_of_life	Political	Security_and_defense
+500	952	Security_and_defense	Political	Crime_and_punishment
+956	1181	Crime_and_punishment
+1185	1466	Economic	Crime_and_punishment
+1470	1941	
+1945	2232	
+2236	2657	Crime_and_punishment
+2661	3720	Political	Crime_and_punishment
+3724	4108	Security_and_defense	Crime_and_punishment
+4112	4583	Crime_and_punishment

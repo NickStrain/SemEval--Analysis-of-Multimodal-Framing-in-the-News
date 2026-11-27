@@ -1,0 +1,11 @@
+0	70	
+74	651	Security_and_defense
+655	1121	
+1125	1452	Health_and_safety
+1456	1991	
+1995	2263	Public_opinion
+2267	2618	
+2622	3056	Security_and_defense
+3060	3345	
+3349	3778	
+3782	4150	Security_and_defense

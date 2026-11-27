@@ -1,0 +1,8 @@
+0	66	
+70	556	External_regulation_and_reputation	Quality_of_life	Crime_and_punishment
+560	884	Morality	Security_and_defense
+888	1252	Legality_Constitutionality_and_jurisprudence
+1256	1554	Legality_Constitutionality_and_jurisprudence	Quality_of_life	Political
+1558	1962	Crime_and_punishment
+1966	2587	Morality	Capacity_and_resources
+2591	2734	

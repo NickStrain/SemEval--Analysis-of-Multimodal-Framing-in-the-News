@@ -1,0 +1,6 @@
+0	85	Policy_prescription_and_evaluation	Economic
+88	197	Policy_prescription_and_evaluation	Economic
+199	335	Policy_prescription_and_evaluation	Economic
+337	513	Economic	Capacity_and_resources
+515	676	Policy_prescription_and_evaluation	Economic
+678	814	Policy_prescription_and_evaluation	Economic

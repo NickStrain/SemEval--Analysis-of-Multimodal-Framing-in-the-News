@@ -1,0 +1,5 @@
+0	54	Policy_prescription_and_evaluation	Political
+58	589	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+593	1032	Morality	Quality_of_life	Health_and_safety
+1036	1407	Policy_prescription_and_evaluation	Crime_and_punishment
+1411	1690	External_regulation_and_reputation

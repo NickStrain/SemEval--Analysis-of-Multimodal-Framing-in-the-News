@@ -1,0 +1,7 @@
+0	53	
+57	931	Security_and_defense
+935	1255	Security_and_defense
+1259	1753	Security_and_defense
+1757	2322	Quality_of_life
+2326	2723	Security_and_defense	Political
+2727	2972	

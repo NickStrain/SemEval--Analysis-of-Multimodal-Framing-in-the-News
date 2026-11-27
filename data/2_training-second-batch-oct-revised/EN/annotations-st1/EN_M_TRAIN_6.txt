@@ -1,0 +1,15 @@
+0	71	Political
+75	241	External_regulation_and_reputation
+245	522	Political
+526	684	
+688	952	
+956	989	
+993	1125	Political
+1129	1464	Health_and_safety
+1468	1541	
+1545	1746	Political
+1750	1790	
+1794	2265	External_regulation_and_reputation	Public_opinion
+2269	2484	Political
+2488	2713	Political
+2717	3220	Political	Public_opinion

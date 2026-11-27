@@ -1,0 +1,15 @@
+{
+ "name": "B_ctx_lr5e-5",
+ "kind": "finetune",
+ "model": "mcpt",
+ "ctx": true,
+ "n_out": 15,
+ "lr": 5e-05,
+ "head_lr": 0.001,
+ "epochs": 12,
+ "bs": 16,
+ "freeze_emb": false,
+ "grad_ckpt": false,
+ "smoke": false,
+ "minutes": 24.332172513008118
+}

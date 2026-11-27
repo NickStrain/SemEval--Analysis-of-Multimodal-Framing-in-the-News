@@ -1,0 +1,5 @@
+0	49	Crime_and_punishment
+53	419	Security_and_defense
+423	647	Fairness_and_equality
+651	1017	Security_and_defense
+1021	1152	Crime_and_punishment

@@ -1,0 +1,7 @@
+0	60	
+64	521	
+525	811	Quality_of_life
+815	990	Quality_of_life
+994	1399	
+1403	1790	Health_and_safety
+1794	1987	

@@ -1,0 +1,11 @@
+0	84	Political
+87	334	Political
+336	741	Political
+743	1162	Morality	Political
+1164	1362	Political
+1364	1719	Political
+1721	2195	Political
+2197	2588	Morality	Political
+2590	2838	Political
+2840	3136	Morality	Political
+3138	3254	Political

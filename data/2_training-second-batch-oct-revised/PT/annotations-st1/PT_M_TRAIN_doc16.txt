@@ -1,0 +1,11 @@
+0	72	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+75	420	Security_and_defense	Crime_and_punishment
+422	652	Political	Crime_and_punishment
+654	938	Security_and_defense	Public_opinion	Crime_and_punishment
+940	1291	Political
+1293	1429	Public_opinion	Crime_and_punishment
+1431	1657	Public_opinion	Crime_and_punishment
+1659	1792	Political	Crime_and_punishment
+1794	1935	Fairness_and_equality	Crime_and_punishment
+1937	2118	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+2120	2447	Legality_Constitutionality_and_jurisprudence	Health_and_safety	Crime_and_punishment

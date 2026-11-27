@@ -1,0 +1,11 @@
+0	73	Health_and_safety	Capacity_and_resources
+76	300	Health_and_safety	Capacity_and_resources
+302	648	Health_and_safety	Quality_of_life
+650	874	Health_and_safety	Quality_of_life
+876	1088	Health_and_safety
+1090	1328	Policy_prescription_and_evaluation	Health_and_safety
+1330	1679	Health_and_safety	Capacity_and_resources
+1681	1885	Economic
+1887	2250	External_regulation_and_reputation	Health_and_safety	Capacity_and_resources
+2252	2403	External_regulation_and_reputation	Capacity_and_resources
+2405	2527	Capacity_and_resources	Quality_of_life

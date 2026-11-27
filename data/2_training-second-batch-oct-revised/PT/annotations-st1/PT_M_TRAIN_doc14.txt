@@ -1,0 +1,8 @@
+0	56	Morality	Crime_and_punishment
+59	377	
+379	774	Morality	Cultural_identity
+776	1272	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Public_opinion	Crime_and_punishment
+1274	1504	Crime_and_punishment
+1506	1806	Policy_prescription_and_evaluation	Political
+1808	2013	Morality
+2015	2494	Legality_Constitutionality_and_jurisprudence	Political	Crime_and_punishment

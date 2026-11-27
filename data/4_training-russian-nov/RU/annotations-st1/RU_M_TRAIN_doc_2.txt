@@ -1,0 +1,10 @@
+0	85	
+88	375	
+378	597	Legality_Constitutionality_and_jurisprudence
+600	863	Capacity_and_resources
+866	1065	
+1068	1421	Crime_and_punishment
+1424	1677	Crime_and_punishment
+1680	1890	Legality_Constitutionality_and_jurisprudence
+1893	2170	
+2173	2221	

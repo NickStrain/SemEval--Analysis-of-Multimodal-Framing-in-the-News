@@ -1,0 +1,54 @@
+{"pid": "EN_M_TRAIN_55#0", "p": {"Security_and_defense": 0.8}, "none": 0.1, "why": "Headline: military aggression intensifies during holiday"}
+{"pid": "EN_M_TRAIN_55#1", "p": {"Security_and_defense": 0.8, "Crime_and_punishment": 0.3, "Cultural_identity": 0.3}, "none": 0.1, "why": "Offensive escalates with raids and mass arrests during Eid"}
+{"pid": "EN_M_TRAIN_55#2", "p": {"Security_and_defense": 0.8, "Quality_of_life": 0.4}, "none": 0.1, "why": "Demolitions, burnings, reinforcements reshape the camp"}
+{"pid": "EN_M_TRAIN_55#3", "p": {"Quality_of_life": 0.8, "Capacity_and_resources": 0.4}, "none": 0.1, "why": "Displaced lose livelihoods; siege restricts services"}
+{"pid": "EN_M_TRAIN_55#4", "p": {"Quality_of_life": 0.6, "Capacity_and_resources": 0.5, "Security_and_defense": 0.5}, "none": 0.1, "why": "Homes and infrastructure destroyed; raids expand"}
+{"pid": "EN_M_TRAIN_55#5", "p": {"Security_and_defense": 0.7, "Legality_Constitutionality_and_jurisprudence": 0.5, "Crime_and_punishment": 0.4}, "none": 0.1, "why": "Arrests, killings; violations of humanitarian law"}
+{"pid": "EN_M_TRAIN_57#0", "p": {"Security_and_defense": 0.7, "Health_and_safety": 0.4}, "none": 0.1, "why": "Headline: injuries in military raid"}
+{"pid": "EN_M_TRAIN_57#1", "p": {"Security_and_defense": 0.6, "Health_and_safety": 0.6}, "none": 0.1, "why": "Gunshot injuries treated by ambulance teams"}
+{"pid": "EN_M_TRAIN_57#2", "p": {"Security_and_defense": 0.6, "Health_and_safety": 0.6}, "none": 0.1, "why": "Child hit by canister; beatings; gas inhalation"}
+{"pid": "EN_M_TRAIN_57#3", "p": {"Security_and_defense": 0.6, "Health_and_safety": 0.4, "Quality_of_life": 0.4}, "none": 0.1, "why": "Medical evacuations; camp stormed; families displaced"}
+{"pid": "EN_M_TRAIN_57#4", "p": {"Security_and_defense": 0.8}, "none": 0.1, "why": "Forces assault residents with snipers and grenades"}
+{"pid": "EN_M_TRAIN_57#5", "p": {"Security_and_defense": 0.7, "Quality_of_life": 0.3}, "none": 0.1, "why": "Home raids and checkpoint blocking movement"}
+{"pid": "EN_M_TRAIN_6#0", "p": {"External_regulation_and_reputation": 0.7, "Cultural_identity": 0.5}, "none": 0.1, "why": "Russia accuses Japan of erasing US from history"}
+{"pid": "EN_M_TRAIN_6#1", "p": {"External_regulation_and_reputation": 0.8, "Cultural_identity": 0.5}, "none": 0.1, "why": "Foreign ministry criticises omission in commemorations"}
+{"pid": "EN_M_TRAIN_6#2", "p": {"External_regulation_and_reputation": 0.7, "Cultural_identity": 0.6}, "none": 0.1, "why": "Accusation of erasing US from historical record"}
+{"pid": "EN_M_TRAIN_6#3", "p": {"External_regulation_and_reputation": 0.6}, "none": 0.2, "why": "Sarcastic jibe at Japanese leadership"}
+{"pid": "EN_M_TRAIN_6#4", "p": {"Cultural_identity": 0.6, "Political": 0.3, "External_regulation_and_reputation": 0.3}, "none": 0.1, "why": "Anniversary ceremony speeches omit responsible country"}
+{"pid": "EN_M_TRAIN_6#5", "p": {"Cultural_identity": 0.4}, "none": 0.5, "why": "Subheading about mayor's speech"}
+{"pid": "EN_M_TRAIN_6#6", "p": {"Cultural_identity": 0.5, "External_regulation_and_reputation": 0.3}, "none": 0.3, "why": "Mayor names US aircraft"}
+{"pid": "EN_M_TRAIN_6#7", "p": {"Cultural_identity": 0.5, "Security_and_defense": 0.4, "Health_and_safety": 0.3}, "none": 0.2, "why": "Peace declaration recalls bombing casualties"}
+{"pid": "EN_M_TRAIN_6#8", "p": {"External_regulation_and_reputation": 0.5, "Political": 0.3}, "none": 0.3, "why": "Russian spokeswoman praises mayor's courage"}
+{"pid": "EN_M_TRAIN_6#9", "p": {"External_regulation_and_reputation": 0.7}, "none": 0.2, "why": "Russia predicts Japan must acknowledge US role"}
+{"pid": "EN_M_TRAIN_6#10", "p": {"External_regulation_and_reputation": 0.5}, "none": 0.4, "why": "Subheading: deference toward Washington"}
+{"pid": "EN_M_TRAIN_6#11", "p": {"External_regulation_and_reputation": 0.8, "Political": 0.6}, "none": 0.1, "why": "Critics call PM's US diplomacy fawning"}
+{"pid": "EN_M_TRAIN_6#12", "p": {"External_regulation_and_reputation": 0.6, "Political": 0.6}, "none": 0.1, "why": "Backlash over silence on attacks on Iran"}
+{"pid": "EN_M_TRAIN_6#13", "p": {"External_regulation_and_reputation": 0.6, "Political": 0.5, "Security_and_defense": 0.5, "Legality_Constitutionality_and_jurisprudence": 0.3}, "none": 0.1, "why": "Appeasement amid constitutional revision and arms exports"}
+{"pid": "EN_M_TRAIN_6#14", "p": {"External_regulation_and_reputation": 0.8, "Security_and_defense": 0.5, "Cultural_identity": 0.4}, "none": 0.1, "why": "Taiwan remark triggers crisis; rejects wartime apologies"}
+{"pid": "EN_M_TRAIN_60#0", "p": {"Quality_of_life": 0.5, "External_regulation_and_reputation": 0.3}, "none": 0.3, "why": "Headline: refugee returns after regime ouster"}
+{"pid": "EN_M_TRAIN_60#1", "p": {"Quality_of_life": 0.5, "External_regulation_and_reputation": 0.4, "Capacity_and_resources": 0.3}, "none": 0.2, "why": "UN and Turkey report refugee return numbers"}
+{"pid": "EN_M_TRAIN_60#2", "p": {"Capacity_and_resources": 0.4, "Political": 0.5, "External_regulation_and_reputation": 0.4}, "none": 0.2, "why": "Turkey hosts millions, wants return; regime toppled"}
+{"pid": "EN_M_TRAIN_60#3", "p": {"Security_and_defense": 0.5, "Quality_of_life": 0.6}, "none": 0.1, "why": "War deaths and world's largest displacement crisis"}
+{"pid": "EN_M_TRAIN_60#4", "p": {"Quality_of_life": 0.6}, "none": 0.2, "why": "Internally displaced returning and intending to return"}
+{"pid": "EN_M_TRAIN_62#0", "p": {"Health_and_safety": 0.7, "Quality_of_life": 0.4}, "none": 0.1, "why": "Flood death toll headline"}
+{"pid": "EN_M_TRAIN_62#1", "p": {"Health_and_safety": 0.5, "Policy_prescription_and_evaluation": 0.4, "Political": 0.4, "Capacity_and_resources": 0.3}, "none": 0.1, "why": "PM offers assistance for relief and rehabilitation"}
+{"pid": "EN_M_TRAIN_62#2", "p": {"Health_and_safety": 0.7}, "none": 0.1, "why": "Deaths by state from drowning and landslides"}
+{"pid": "EN_M_TRAIN_62#3", "p": {"Quality_of_life": 0.6, "Economic": 0.4}, "none": 0.1, "why": "Hundreds of thousands affected; crop lands damaged"}
+{"pid": "EN_M_TRAIN_62#4", "p": {"Capacity_and_resources": 0.6, "Quality_of_life": 0.6}, "none": 0.1, "why": "Houses, roads, power and water infrastructure damaged"}
+{"pid": "EN_M_TRAIN_62#5", "p": {"Health_and_safety": 0.7, "Quality_of_life": 0.4}, "none": 0.1, "why": "Landslide and collapse deaths including refugees"}
+{"pid": "EN_M_TRAIN_62#6", "p": {"Quality_of_life": 0.7, "Health_and_safety": 0.4, "Capacity_and_resources": 0.3}, "none": 0.1, "why": "Landslides, collapsed houses, families evacuated"}
+{"pid": "EN_M_TRAIN_65#0", "p": {"Economic": 0.9, "External_regulation_and_reputation": 0.5}, "none": 0.1, "why": "Turkish firms plan Syrian economic rebuilding"}
+{"pid": "EN_M_TRAIN_65#1", "p": {"Economic": 0.8, "External_regulation_and_reputation": 0.6}, "none": 0.1, "why": "Leaders discuss economic ties; exports rising"}
+{"pid": "EN_M_TRAIN_65#2", "p": {"Economic": 0.8, "External_regulation_and_reputation": 0.5, "Capacity_and_resources": 0.3}, "none": 0.1, "why": "Firms invest in freight; joint rebuilding measures"}
+{"pid": "EN_M_TRAIN_65#3", "p": {"External_regulation_and_reputation": 0.8, "Political": 0.4}, "none": 0.1, "why": "Close ties with Damascus; foreign visits"}
+{"pid": "EN_M_TRAIN_65#4", "p": {"Economic": 0.8, "Capacity_and_resources": 0.3}, "none": 0.1, "why": "Export surges show reconstruction needs"}
+{"pid": "EN_M_TRAIN_65#5", "p": {"Economic": 0.9}, "none": 0.1, "why": "Export potential and trade figures"}
+{"pid": "EN_M_TRAIN_65#6", "p": {"Economic": 0.6, "Security_and_defense": 0.4, "Capacity_and_resources": 0.3}, "none": 0.1, "why": "Border buffer zone raises costs over security"}
+{"pid": "EN_M_TRAIN_65#7", "p": {"Economic": 0.7, "Policy_prescription_and_evaluation": 0.5, "External_regulation_and_reputation": 0.6}, "none": 0.1, "why": "Agreement and free trade talks to expand trade"}
+{"pid": "EN_M_TRAIN_65#8", "p": {"Economic": 0.8, "Policy_prescription_and_evaluation": 0.4, "External_regulation_and_reputation": 0.3}, "none": 0.1, "why": "Flights resume; overhaul toward free-market economy"}
+{"pid": "EN_M_TRAIN_65#9", "p": {"External_regulation_and_reputation": 0.7, "Capacity_and_resources": 0.4, "Economic": 0.4}, "none": 0.1, "why": "Turkey assists with electricity, maritime and banking ties"}
+{"pid": "EN_M_TRAIN_65#10", "p": {"Economic": 0.9, "Capacity_and_resources": 0.3}, "none": 0.1, "why": "Logistics firms plan investments for Syria business"}
+{"pid": "EN_M_TRAIN_65#11", "p": {"Economic": 0.9, "Capacity_and_resources": 0.3}, "none": 0.1, "why": "Reconstruction market worth $400 billion"}
+{"pid": "EN_M_TRAIN_65#12", "p": {"Economic": 0.8, "Capacity_and_resources": 0.4}, "none": 0.1, "why": "Manufacturers seek low-cost zone amid labour shortages"}
+{"pid": "EN_M_TRAIN_65#13", "p": {"Economic": 0.6, "Quality_of_life": 0.3}, "none": 0.2, "why": "Zone could aid migrant return; quarry reopening"}
+{"pid": "EN_M_TRAIN_65#14", "p": {"Economic": 0.8}, "none": 0.1, "why": "Reopening brings jobs and investments"}

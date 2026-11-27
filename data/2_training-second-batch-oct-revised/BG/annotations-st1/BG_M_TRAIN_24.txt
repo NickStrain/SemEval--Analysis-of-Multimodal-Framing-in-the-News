@@ -1,0 +1,4 @@
+0	65	
+69	434	Crime_and_punishment
+438	903	Security_and_defense
+907	1975	Quality_of_life	Crime_and_punishment

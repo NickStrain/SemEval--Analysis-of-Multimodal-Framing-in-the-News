@@ -1,0 +1,14 @@
+0	28	Political
+32	512	Political
+516	1134	Morality	Political
+1138	2290	Economic	Political
+2294	2689	
+2693	3413	Policy_prescription_and_evaluation	Political
+3417	4185	Political	Security_and_defense
+4189	5229	Economic	Political
+5233	5845	Capacity_and_resources	Political
+5849	6387	Political	Security_and_defense	Fairness_and_equality
+6391	7010	Political
+7014	7840	Political	Fairness_and_equality
+7844	8342	Political	Fairness_and_equality
+8346	8873	Political

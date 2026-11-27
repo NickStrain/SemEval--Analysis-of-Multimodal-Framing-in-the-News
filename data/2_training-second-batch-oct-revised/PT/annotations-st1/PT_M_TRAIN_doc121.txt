@@ -1,0 +1,9 @@
+0	70	Policy_prescription_and_evaluation	Political
+76	239	Policy_prescription_and_evaluation	Political
+243	562	Legality_Constitutionality_and_jurisprudence	Political
+566	835	Policy_prescription_and_evaluation	Political
+839	1219	Policy_prescription_and_evaluation	Political
+1223	1502	Policy_prescription_and_evaluation	Quality_of_life	Political	Fairness_and_equality
+1506	1625	Political
+1629	1827	Policy_prescription_and_evaluation	Political
+1831	2014	Legality_Constitutionality_and_jurisprudence	Political

@@ -1,0 +1,52 @@
+{"pid": "EN_M_TRAIN_10#0", "p": {"Policy_prescription_and_evaluation": 0.6, "External_regulation_and_reputation": 0.5}, "none": 0.2, "why": "Headline: two governments seek measures against Channel crossings"}
+{"pid": "EN_M_TRAIN_10#1", "p": {"Policy_prescription_and_evaluation": 0.7, "Political": 0.5, "External_regulation_and_reputation": 0.4}, "none": 0.1, "why": "Leaders turn to stopping small-boat crossings, a recurring policy problem"}
+{"pid": "EN_M_TRAIN_10#2", "p": {"External_regulation_and_reputation": 0.7, "Policy_prescription_and_evaluation": 0.5, "Economic": 0.3, "Security_and_defense": 0.3}, "none": 0.1, "why": "Bilateral summit deals on growth, defence and migration"}
+{"pid": "EN_M_TRAIN_10#3", "p": {"Security_and_defense": 0.8, "External_regulation_and_reputation": 0.6}, "none": 0.1, "why": "Military base visit and international force for Ukraine ceasefire"}
+{"pid": "EN_M_TRAIN_10#4", "p": {"Policy_prescription_and_evaluation": 0.7, "Crime_and_punishment": 0.5, "External_regulation_and_reputation": 0.4}, "none": 0.1, "why": "Shared deterrent to break people-smuggling business model"}
+{"pid": "EN_M_TRAIN_10#5", "p": {"Policy_prescription_and_evaluation": 0.3}, "none": 0.6, "why": "Bare statement of aim, no clear framing"}
+{"pid": "EN_M_TRAIN_10#6", "p": {"Capacity_and_resources": 0.4, "Health_and_safety": 0.3, "Security_and_defense": 0.3}, "none": 0.5, "why": "Arrival numbers and overcrowded boats, mostly descriptive"}
+{"pid": "EN_M_TRAIN_10#7", "p": {"Health_and_safety": 0.6, "Security_and_defense": 0.3}, "none": 0.2, "why": "Rising crossings and deaths at sea"}
+{"pid": "EN_M_TRAIN_10#8", "p": {"Policy_prescription_and_evaluation": 0.5, "Health_and_safety": 0.4, "External_regulation_and_reputation": 0.4}, "none": 0.2, "why": "Dangerous crossings; governments differ on remedy"}
+{"pid": "EN_M_TRAIN_10#9", "p": {"Policy_prescription_and_evaluation": 0.6, "Economic": 0.5, "External_regulation_and_reputation": 0.5, "Crime_and_punishment": 0.4}, "none": 0.1, "why": "UK pays France for patrols against smugglers"}
+{"pid": "EN_M_TRAIN_10#10", "p": {"Policy_prescription_and_evaluation": 0.6, "Political": 0.5, "External_regulation_and_reputation": 0.5, "Legality_Constitutionality_and_jurisprudence": 0.3}, "none": 0.1, "why": "PM touts intelligence unit and French law review"}
+{"pid": "EN_M_TRAIN_10#11", "p": {"Policy_prescription_and_evaluation": 0.5, "Economic": 0.4, "Quality_of_life": 0.3}, "none": 0.2, "why": "Pull factors such as easy work access"}
+{"pid": "EN_M_TRAIN_10#12", "p": {"Policy_prescription_and_evaluation": 0.5, "External_regulation_and_reputation": 0.4}, "none": 0.3, "why": "Long history of bilateral efforts against stowaways"}
+{"pid": "EN_M_TRAIN_10#13", "p": {"Security_and_defense": 0.5, "Crime_and_punishment": 0.5, "Policy_prescription_and_evaluation": 0.4}, "none": 0.2, "why": "Camp clearances, security measures, smugglers shift routes"}
+{"pid": "EN_M_TRAIN_10#14", "p": {"Crime_and_punishment": 0.5, "Policy_prescription_and_evaluation": 0.4, "Security_and_defense": 0.4}, "none": 0.2, "why": "Cat-and-mouse between authorities and smuggling gangs"}
+{"pid": "EN_M_TRAIN_10#15", "p": {"External_regulation_and_reputation": 0.7, "Policy_prescription_and_evaluation": 0.6, "Economic": 0.4}, "none": 0.1, "why": "Brexit stalled cooperation; UK funds French patrols"}
+{"pid": "EN_M_TRAIN_10#16", "p": {"Policy_prescription_and_evaluation": 0.8, "Political": 0.6, "Morality": 0.4}, "none": 0.1, "why": "Rwanda deportation plan criticised as unethical, then scrapped"}
+{"pid": "EN_M_TRAIN_10#17", "p": {"External_regulation_and_reputation": 0.6, "Policy_prescription_and_evaluation": 0.6, "Political": 0.4}, "none": 0.1, "why": "PM stakes success on international cooperation"}
+{"pid": "EN_M_TRAIN_10#18", "p": {"Policy_prescription_and_evaluation": 0.5, "Security_and_defense": 0.5, "External_regulation_and_reputation": 0.4, "Crime_and_punishment": 0.3}, "none": 0.1, "why": "Pressure for tougher French police interventions at sea"}
+{"pid": "EN_M_TRAIN_10#19", "p": {"Policy_prescription_and_evaluation": 0.8, "External_regulation_and_reputation": 0.5}, "none": 0.1, "why": "Proposed one-in one-out returns deal"}
+{"pid": "EN_M_TRAIN_10#20", "p": {"Capacity_and_resources": 0.5, "Policy_prescription_and_evaluation": 0.4, "Political": 0.3}, "none": 0.3, "why": "Migration described as a burden for both countries"}
+{"pid": "EN_M_TRAIN_10#21", "p": {"Policy_prescription_and_evaluation": 0.8}, "none": 0.1, "why": "Expert assesses whether measures will work"}
+{"pid": "EN_M_TRAIN_10#22", "p": {"Policy_prescription_and_evaluation": 0.4}, "none": 0.6, "why": "Short quote, little framing content"}
+{"pid": "EN_M_TRAIN_11#0", "p": {"Security_and_defense": 0.8}, "none": 0.1, "why": "Headline about expanding military invasion"}
+{"pid": "EN_M_TRAIN_11#1", "p": {"Security_and_defense": 0.8, "Quality_of_life": 0.5}, "none": 0.1, "why": "Military operation causing destruction and displacement"}
+{"pid": "EN_M_TRAIN_11#2", "p": {"Security_and_defense": 0.6, "Quality_of_life": 0.6}, "none": 0.1, "why": "Raids destroy streets and trap residents"}
+{"pid": "EN_M_TRAIN_11#3", "p": {"Quality_of_life": 0.7, "Security_and_defense": 0.5}, "none": 0.1, "why": "Young man forced to flee, family trapped by bulldozer"}
+{"pid": "EN_M_TRAIN_11#4", "p": {"Security_and_defense": 0.7, "Quality_of_life": 0.6, "Health_and_safety": 0.4}, "none": 0.1, "why": "Deaths, displacement and detentions; residents cannot return"}
+{"pid": "EN_M_TRAIN_11#5", "p": {"Security_and_defense": 0.7, "Quality_of_life": 0.5, "Health_and_safety": 0.4}, "none": 0.1, "why": "Airstrike, unexploded ordnance, repeated damage to livelihoods"}
+{"pid": "EN_M_TRAIN_11#6", "p": {"Security_and_defense": 0.6, "Cultural_identity": 0.4, "Health_and_safety": 0.3}, "none": 0.1, "why": "Ambulance blocked; offices raided; national symbols defaced"}
+{"pid": "EN_M_TRAIN_11#7", "p": {"Security_and_defense": 0.8, "Quality_of_life": 0.4}, "none": 0.1, "why": "Houses demolished; special forces fire on residents"}
+{"pid": "EN_M_TRAIN_11#8", "p": {"Quality_of_life": 0.8, "Health_and_safety": 0.4}, "none": 0.1, "why": "Elderly patient loses home, lives in workshop"}
+{"pid": "EN_M_TRAIN_11#9", "p": {"Quality_of_life": 0.8}, "none": 0.1, "why": "Woman left with nothing, surviving on charity"}
+{"pid": "EN_M_TRAIN_15#0", "p": {"Security_and_defense": 0.8}, "none": 0.1, "why": "Headline: killings in expanded military raids"}
+{"pid": "EN_M_TRAIN_15#1", "p": {"Security_and_defense": 0.8, "Health_and_safety": 0.3, "Crime_and_punishment": 0.3}, "none": 0.1, "why": "Youths shot dead by troops in refugee camps"}
+{"pid": "EN_M_TRAIN_15#2", "p": {"Security_and_defense": 0.7, "Morality": 0.3}, "none": 0.1, "why": "Victims named, bodies withheld, onslaught after ceasefire"}
+{"pid": "EN_M_TRAIN_15#3", "p": {"Quality_of_life": 0.7, "Security_and_defense": 0.5}, "none": 0.1, "why": "Tens of thousands displaced from refugee camps"}
+{"pid": "EN_M_TRAIN_15#4", "p": {"Legality_Constitutionality_and_jurisprudence": 0.6, "Security_and_defense": 0.6, "External_regulation_and_reputation": 0.5}, "none": 0.1, "why": "UN says killings violate international law"}
+{"pid": "EN_M_TRAIN_15#5", "p": {"Security_and_defense": 0.6, "Crime_and_punishment": 0.5}, "none": 0.1, "why": "More killings; settler assaults and property damage"}
+{"pid": "EN_M_TRAIN_23#0", "p": {"Security_and_defense": 0.7}, "none": 0.1, "why": "Headline compares offensive to Gaza war"}
+{"pid": "EN_M_TRAIN_23#1", "p": {"Security_and_defense": 0.7, "Quality_of_life": 0.4}, "none": 0.1, "why": "Unprecedented demolition of apartment buildings"}
+{"pid": "EN_M_TRAIN_23#2", "p": {"Security_and_defense": 0.8}, "none": 0.1, "why": "Explosive demolitions likened to fire-belt bombing strategy"}
+{"pid": "EN_M_TRAIN_23#3", "p": {"Security_and_defense": 0.8}, "none": 0.1, "why": "Death toll of named military operation"}
+{"pid": "EN_M_TRAIN_23#4", "p": {"Security_and_defense": 0.8}, "none": 0.1, "why": "Competing claims on terrorists versus civilian deaths"}
+{"pid": "EN_M_TRAIN_23#5", "p": {"Security_and_defense": 0.6, "Health_and_safety": 0.3, "Morality": 0.3}, "none": 0.1, "why": "Child and elderly man killed by Israeli fire"}
+{"pid": "EN_M_TRAIN_23#6", "p": {"Security_and_defense": 0.8, "Quality_of_life": 0.4}, "none": 0.1, "why": "Offensive expands with demolitions, arrests, deadly airstrike"}
+{"pid": "EN_M_TRAIN_23#7", "p": {"Quality_of_life": 0.6, "Security_and_defense": 0.5}, "none": 0.1, "why": "Forced displacement of most camp residents"}
+{"pid": "EN_M_TRAIN_23#8", "p": {"External_regulation_and_reputation": 0.5, "Political": 0.5, "Security_and_defense": 0.5, "Capacity_and_resources": 0.4, "Quality_of_life": 0.4}, "none": 0.1, "why": "UN services halted; minister vows to stay; leaders meet"}
+{"pid": "EN_M_TRAIN_23#9", "p": {"Political": 0.7, "External_regulation_and_reputation": 0.6, "Morality": 0.4, "Policy_prescription_and_evaluation": 0.4}, "none": 0.1, "why": "Trump displacement call criticised; far-right leaders welcome it"}
+{"pid": "EN_M_TRAIN_23#10", "p": {"Political": 0.7, "Policy_prescription_and_evaluation": 0.5, "External_regulation_and_reputation": 0.5}, "none": 0.1, "why": "Minister urges Gaza emigration; Netanyahu seeks free hand"}
+{"pid": "EN_M_TRAIN_23#11", "p": {"Political": 0.8, "Security_and_defense": 0.5}, "none": 0.1, "why": "Army chief appointment welcomed; annexation and war rhetoric"}
+{"pid": "EN_M_TRAIN_23#12", "p": {"Legality_Constitutionality_and_jurisprudence": 0.5, "External_regulation_and_reputation": 0.5, "Capacity_and_resources": 0.4, "Quality_of_life": 0.4, "Policy_prescription_and_evaluation": 0.4}, "none": 0.1, "why": "Legal ban on UN agency threatens refugee lifelines"}

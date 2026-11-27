@@ -1,0 +1,9 @@
+0	64	Legality_Constitutionality_and_jurisprudence
+68	618	Legality_Constitutionality_and_jurisprudence	Quality_of_life
+622	1420	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+1424	1781	
+1785	2154	
+2158	2447	Security_and_defense
+2451	2891	Capacity_and_resources	Security_and_defense	Political	Crime_and_punishment
+2895	3547	Security_and_defense	Crime_and_punishment
+3551	3667	Security_and_defense

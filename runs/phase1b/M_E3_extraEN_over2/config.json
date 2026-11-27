@@ -1,0 +1,19 @@
+{
+ "name": "M_E3_extraEN_over2",
+ "phase": "phase1b",
+ "kind": "finetune",
+ "model": "mcpt",
+ "ctx": true,
+ "n_out": 15,
+ "lr": 5e-05,
+ "head_lr": 0.001,
+ "epochs": 12,
+ "bs": 16,
+ "freeze_emb": false,
+ "grad_ckpt": false,
+ "extra": "en",
+ "en_over": 2,
+ "stage2_en": 2,
+ "smoke": false,
+ "minutes": 33.6171817779541
+}

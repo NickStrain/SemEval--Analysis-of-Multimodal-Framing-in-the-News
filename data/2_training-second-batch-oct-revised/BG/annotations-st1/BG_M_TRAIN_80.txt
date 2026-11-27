@@ -1,0 +1,6 @@
+0	49	
+53	230	Policy_prescription_and_evaluation	Economic	Political
+234	1613	Policy_prescription_and_evaluation	Economic	Capacity_and_resources	Fairness_and_equality	Crime_and_punishment
+1617	2259	Morality	Public_opinion	Crime_and_punishment
+2263	3477	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Morality	Fairness_and_equality	Crime_and_punishment
+3481	3927	Political	Security_and_defense	Public_opinion

@@ -1,0 +1,9 @@
+0	86	Quality_of_life
+90	483	Policy_prescription_and_evaluation
+487	616	
+620	900	External_regulation_and_reputation
+904	1605	External_regulation_and_reputation
+1609	2025	Morality
+2029	2476	Economic
+2480	3593	External_regulation_and_reputation
+3597	4679	Security_and_defense

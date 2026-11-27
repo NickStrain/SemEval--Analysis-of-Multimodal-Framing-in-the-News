@@ -1,0 +1,52 @@
+EN_M_TRAIN_10#0|POL:0.6 EXT:0.5|0.2|Headline: two governments seek measures against Channel crossings
+EN_M_TRAIN_10#1|POL:0.7 POLIT:0.5 EXT:0.4|0.1|Leaders turn to stopping small-boat crossings, a recurring policy problem
+EN_M_TRAIN_10#2|EXT:0.7 POL:0.5 ECO:0.3 SEC:0.3|0.1|Bilateral summit deals on growth, defence and migration
+EN_M_TRAIN_10#3|SEC:0.8 EXT:0.6|0.1|Military base visit and international force for Ukraine ceasefire
+EN_M_TRAIN_10#4|POL:0.7 CRI:0.5 EXT:0.4|0.1|Shared deterrent to break people-smuggling business model
+EN_M_TRAIN_10#5|POL:0.3|0.6|Bare statement of aim, no clear framing
+EN_M_TRAIN_10#6|CAP:0.4 HEA:0.3 SEC:0.3|0.5|Arrival numbers and overcrowded boats, mostly descriptive
+EN_M_TRAIN_10#7|HEA:0.6 SEC:0.3|0.2|Rising crossings and deaths at sea
+EN_M_TRAIN_10#8|POL:0.5 HEA:0.4 EXT:0.4|0.2|Dangerous crossings; governments differ on remedy
+EN_M_TRAIN_10#9|POL:0.6 ECO:0.5 EXT:0.5 CRI:0.4|0.1|UK pays France for patrols against smugglers
+EN_M_TRAIN_10#10|POL:0.6 POLIT:0.5 EXT:0.5 LEG:0.3|0.1|PM touts intelligence unit and French law review
+EN_M_TRAIN_10#11|POL:0.5 ECO:0.4 QOL:0.3|0.2|Pull factors such as easy work access
+EN_M_TRAIN_10#12|POL:0.5 EXT:0.4|0.3|Long history of bilateral efforts against stowaways
+EN_M_TRAIN_10#13|SEC:0.5 CRI:0.5 POL:0.4|0.2|Camp clearances, security measures, smugglers shift routes
+EN_M_TRAIN_10#14|CRI:0.5 POL:0.4 SEC:0.4|0.2|Cat-and-mouse between authorities and smuggling gangs
+EN_M_TRAIN_10#15|EXT:0.7 POL:0.6 ECO:0.4|0.1|Brexit stalled cooperation; UK funds French patrols
+EN_M_TRAIN_10#16|POL:0.8 POLIT:0.6 MOR:0.4|0.1|Rwanda deportation plan criticised as unethical, then scrapped
+EN_M_TRAIN_10#17|EXT:0.6 POL:0.6 POLIT:0.4|0.1|PM stakes success on international cooperation
+EN_M_TRAIN_10#18|POL:0.5 SEC:0.5 EXT:0.4 CRI:0.3|0.1|Pressure for tougher French police interventions at sea
+EN_M_TRAIN_10#19|POL:0.8 EXT:0.5|0.1|Proposed one-in one-out returns deal
+EN_M_TRAIN_10#20|CAP:0.5 POL:0.4 POLIT:0.3|0.3|Migration described as a burden for both countries
+EN_M_TRAIN_10#21|POL:0.8|0.1|Expert assesses whether measures will work
+EN_M_TRAIN_10#22|POL:0.4|0.6|Short quote, little framing content
+EN_M_TRAIN_11#0|SEC:0.8|0.1|Headline about expanding military invasion
+EN_M_TRAIN_11#1|SEC:0.8 QOL:0.5|0.1|Military operation causing destruction and displacement
+EN_M_TRAIN_11#2|SEC:0.6 QOL:0.6|0.1|Raids destroy streets and trap residents
+EN_M_TRAIN_11#3|QOL:0.7 SEC:0.5|0.1|Young man forced to flee, family trapped by bulldozer
+EN_M_TRAIN_11#4|SEC:0.7 QOL:0.6 HEA:0.4|0.1|Deaths, displacement and detentions; residents cannot return
+EN_M_TRAIN_11#5|SEC:0.7 QOL:0.5 HEA:0.4|0.1|Airstrike, unexploded ordnance, repeated damage to livelihoods
+EN_M_TRAIN_11#6|SEC:0.6 CUL:0.4 HEA:0.3|0.1|Ambulance blocked; offices raided; national symbols defaced
+EN_M_TRAIN_11#7|SEC:0.8 QOL:0.4|0.1|Houses demolished; special forces fire on residents
+EN_M_TRAIN_11#8|QOL:0.8 HEA:0.4|0.1|Elderly patient loses home, lives in workshop
+EN_M_TRAIN_11#9|QOL:0.8|0.1|Woman left with nothing, surviving on charity
+EN_M_TRAIN_15#0|SEC:0.8|0.1|Headline: killings in expanded military raids
+EN_M_TRAIN_15#1|SEC:0.8 HEA:0.3 CRI:0.3|0.1|Youths shot dead by troops in refugee camps
+EN_M_TRAIN_15#2|SEC:0.7 MOR:0.3|0.1|Victims named, bodies withheld, onslaught after ceasefire
+EN_M_TRAIN_15#3|QOL:0.7 SEC:0.5|0.1|Tens of thousands displaced from refugee camps
+EN_M_TRAIN_15#4|LEG:0.6 SEC:0.6 EXT:0.5|0.1|UN says killings violate international law
+EN_M_TRAIN_15#5|SEC:0.6 CRI:0.5|0.1|More killings; settler assaults and property damage
+EN_M_TRAIN_23#0|SEC:0.7|0.1|Headline compares offensive to Gaza war
+EN_M_TRAIN_23#1|SEC:0.7 QOL:0.4|0.1|Unprecedented demolition of apartment buildings
+EN_M_TRAIN_23#2|SEC:0.8|0.1|Explosive demolitions likened to fire-belt bombing strategy
+EN_M_TRAIN_23#3|SEC:0.8|0.1|Death toll of named military operation
+EN_M_TRAIN_23#4|SEC:0.8|0.1|Competing claims on terrorists versus civilian deaths
+EN_M_TRAIN_23#5|SEC:0.6 HEA:0.3 MOR:0.3|0.1|Child and elderly man killed by Israeli fire
+EN_M_TRAIN_23#6|SEC:0.8 QOL:0.4|0.1|Offensive expands with demolitions, arrests, deadly airstrike
+EN_M_TRAIN_23#7|QOL:0.6 SEC:0.5|0.1|Forced displacement of most camp residents
+EN_M_TRAIN_23#8|EXT:0.5 POLIT:0.5 SEC:0.5 CAP:0.4 QOL:0.4|0.1|UN services halted; minister vows to stay; leaders meet
+EN_M_TRAIN_23#9|POLIT:0.7 EXT:0.6 MOR:0.4 POL:0.4|0.1|Trump displacement call criticised; far-right leaders welcome it
+EN_M_TRAIN_23#10|POLIT:0.7 POL:0.5 EXT:0.5|0.1|Minister urges Gaza emigration; Netanyahu seeks free hand
+EN_M_TRAIN_23#11|POLIT:0.8 SEC:0.5|0.1|Army chief appointment welcomed; annexation and war rhetoric
+EN_M_TRAIN_23#12|LEG:0.5 EXT:0.5 CAP:0.4 QOL:0.4 POL:0.4|0.1|Legal ban on UN agency threatens refugee lifelines

@@ -1,0 +1,12 @@
+DeepSeek lança novo modelo de IA e reforça competição com rivais dos EUA
+
+
+A DeepSeek lançou um novo modelo de inteligência artificial (IA) para o agente de conversação da empresa chinesa, após ter surpreendido o setor em 2025 com desempenhos comparáveis aos de rivais norte-americanos.
+
+A indústria tecnológica global aguardava há semanas o anúncio, visto como um indicador das ambições da China no setor da IA. No início de 2025, a startup sediada em Hangzhou, no leste da China, lançou um agente conversacional que, segundo a empresa, rivalizava com sistemas como ChatGPT, Gemini ou Claude, mas a um custo inferior.
+
+“Hoje, a pré-versão da nossa nova série de modelos, DeepSeek-V4, está oficialmente disponível e publicada numa fonte aberta“, indicou a empresa, numa nota divulgada na rede social chinesa WeChat. O novo modelo é apresentado em duas versões, DeepSeek-V4-Pro e DeepSeek-V4-Flash, sendo esta última descrita como menos potente, mas mais económica.
+
+“Em comparação com a geração anterior, as capacidades de agente do DeepSeek-V4-Pro foram significativamente reforçadas”, acrescentou a empresa. Em janeiro de 2025, o lançamento do agente R1 da DeepSeek, com capacidades avançadas de raciocínio, provocou fortes reações nos mercados, contribuindo para uma queda das ações tecnológicas nos Estados Unidos.
+
+Na quinta-feira, a empresa norte-americana OpenAI anunciou um novo modelo de IA, apresentado como o mais avançado do mercado. O GPT-5.5 é a mais recente geração do modelo que sustenta o ChatGPT, uma interface de IA generativa utilizada por cerca de mil milhões de pessoas em todo o mundo.

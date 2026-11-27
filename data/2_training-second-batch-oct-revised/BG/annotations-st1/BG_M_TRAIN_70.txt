@@ -1,0 +1,8 @@
+0	39	
+43	468	Legality_Constitutionality_and_jurisprudence	Political
+472	723	
+727	1016	Legality_Constitutionality_and_jurisprudence
+1020	2259	Political
+2263	2599	Policy_prescription_and_evaluation	Political	Public_opinion
+2603	3147	Political	Public_opinion
+3151	3363	Political

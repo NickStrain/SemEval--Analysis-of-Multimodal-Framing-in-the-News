@@ -1,0 +1,5 @@
+0	78	Security_and_defense
+84	390	Security_and_defense
+396	559	Economic	Quality_of_life
+565	740	Economic
+746	928	Economic

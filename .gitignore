@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- project: large artifacts (models, bundles, big data) ---
+ckpt/
+*.pt
+*.safetensors
+*.bin
+EN_best_model.zip
+data-fourth-batch-russian-2026_11_1.zip
+starter-kit-v2.zip
+data/silver/framing_subset.csv
+data/silver/silver_en.parquet

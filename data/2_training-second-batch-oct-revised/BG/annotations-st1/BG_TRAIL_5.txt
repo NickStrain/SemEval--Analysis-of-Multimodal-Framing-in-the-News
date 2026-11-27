@@ -1,0 +1,4 @@
+0	103	Health_and_safety	Security_and_defense
+109	400	Health_and_safety	Security_and_defense
+406	839	Health_and_safety	Crime_and_punishment
+845	2775	Health_and_safety	Capacity_and_resources	Quality_of_life	Crime_and_punishment

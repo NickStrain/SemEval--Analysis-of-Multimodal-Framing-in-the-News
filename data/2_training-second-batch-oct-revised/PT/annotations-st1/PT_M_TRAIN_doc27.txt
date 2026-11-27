@@ -1,0 +1,11 @@
+0	60	Policy_prescription_and_evaluation	Public_opinion
+63	315	Morality	Quality_of_life	Political	Crime_and_punishment
+317	639	Policy_prescription_and_evaluation	Public_opinion
+641	883	Legality_Constitutionality_and_jurisprudence	Morality	Crime_and_punishment
+885	1183	Policy_prescription_and_evaluation	Public_opinion	Fairness_and_equality
+1185	1422	Public_opinion	Crime_and_punishment
+1424	1634	Public_opinion	Crime_and_punishment
+1636	1850	Crime_and_punishment
+1852	2166	Security_and_defense	Crime_and_punishment
+2168	2416	Public_opinion	Crime_and_punishment
+2418	2759	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment

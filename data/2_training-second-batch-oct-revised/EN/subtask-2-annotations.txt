@@ -1,0 +1,96 @@
+EN_TRIAL_4.png	Political
+EN_M_TRAIN_53.jpg	Political
+EN_M_TRAIN_10.jpeg	Political
+EN_M_TRAIN_88.png	External_regulation_and_reputation	Security_and_defense
+EN_M_TRAIN_61.jpg	Quality_of_life
+EN_M_TRAIN_19.jpg	Security_and_defense
+EN_M_TRAIN_45.jpg	Political
+EN_M_TRAIN_6.webp	Political
+EN_M_TRAIN_35.jpg	Political
+EN_M_TRAIN_78.jpg	Morality
+EN_M_TRAIN_27.jpg
+EN_M_TRAIN_12.jpg	Security_and_defense
+EN_M_TRAIN_39.jpg	Security_and_defense	Quality_of_life
+EN_M_TRAIN_25.jpg	Political
+EN_TRAIL_2.png	Legality_Constitutionality_and_jurisprudence	Political	Policy_prescription_and_evaluation
+EN_M_TRAIN_86.jpg	Health_and_safety
+EN_M_TRAIN_43.jpg	Security_and_defense
+EN_M_TRAIN_71.jpg	Quality_of_life
+EN_M_TRAIN_41.jpg	Health_and_safety	Quality_of_life
+EN_M_TRAIN_8.jpg	Security_and_defense
+EN_M_TRAIN_30.jpg	Health_and_safety
+EN_M_TRAIN_73.jpg	Health_and_safety
+EN_M_TRAIN_37.jpg	Security_and_defense	Quality_of_life
+EN_M_TRAIN_68.jpg
+EN_M_TRAIN_55.jpg	Security_and_defense
+EN_M_TRAIN_91.jpg	Security_and_defense
+EN_M_TRAIN_74.jpg	Political
+EN_M_TRAIN_2.webp	Political
+EN_M_TRAIN_67.jpg	Political
+EN_M_TRAIN_82.jpg	External_regulation_and_reputation
+EN_M_TRAIN_84.jpg	Policy_prescription_and_evaluation	Political
+EN_M_TRAIN_48.png	Political
+EN_M_TRAIN_65.jpg	Political
+EN_M_TRAIN_22.jpg	Security_and_defense
+EN_M_TRAIN_14.jpg	Crime_and_punishment
+EN_M_TRAIN_31.jpg	Economic	Capacity_and_resources
+EN_M_TRAIN_57.jpg	Security_and_defense
+EN_M_TRAIN_50.jpg	Security_and_defense
+EN_M_TRAIN_63.jpg	Political
+EN_M_TRAIN_80.jpg	Public_opinion
+EN_M_TRAIN_59.jpg	Morality
+EN_M_TRAIN_29.jpg	Health_and_safety	Quality_of_life
+EN_M_TRAIN_89.jpg	Security_and_defense
+EN_M_TRAIN_76.jpg	Political
+EN_M_TRAIN_20.jpg	Morality
+EN_M_TRAIN_33.jpg	Political
+EN_M_TRAIN_46.jpg	Security_and_defense
+EN_M_TRAIN_16.jpg	Security_and_defense
+EN_M_TRAIN_28.jpg	Fairness_and_equality
+EN_M_TRAIN_79.jpg	Fairness_and_equality
+EN_M_TRAIN_36.jpg	External_regulation_and_reputation	Political
+EN_M_TRAIN_52.jpg	Economic
+EN_TRIAL_5.png	Public_opinion
+EN_TRAIL_3.png
+EN_M_TRAIN_62.webp	Quality_of_life
+EN_M_TRAIN_87.jpg
+EN_M_TRAIN_70.jpg	Health_and_safety
+EN_M_TRAIN_18.jpg	Security_and_defense
+EN_M_TRAIN_7.jpg	Morality	Public_opinion
+EN_M_TRAIN_44.jpg	Political
+EN_M_TRAIN_85.jpg	Morality	Public_opinion
+EN_M_TRAIN_72.jpg	Health_and_safety
+EN_M_TRAIN_26.jpg	Political
+EN_M_TRAIN_69.jpg	Political
+EN_M_TRAIN_13.jpg	Security_and_defense
+EN_M_TRAIN_56.jpg	Political
+EN_TRAIL_1.png	Political
+EN_M_TRAIN_11.jpg	Security_and_defense
+EN_M_TRAIN_54.jpg	Security_and_defense
+EN_M_TRAIN_60.jpg	Health_and_safety
+EN_M_TRAIN_90.png	Political
+EN_M_TRAIN_24.jpg	Security_and_defense
+EN_M_TRAIN_38.jpg	Health_and_safety	Quality_of_life
+EN_M_TRAIN_9.webp	Crime_and_punishment
+EN_M_TRAIN_42.jpg	Health_and_safety	Quality_of_life
+EN_M_TRAIN_66.jpg	Political	Public_opinion
+EN_M_TRAIN_1.webp	Cultural_identity
+EN_M_TRAIN_49.jpg	Crime_and_punishment
+EN_M_TRAIN_23.jpg
+EN_M_TRAIN_75.jpg	Political
+EN_M_TRAIN_32.jpg	External_regulation_and_reputation
+EN_M_TRAIN_58.jpg	Political
+EN_M_TRAIN_15.jpg	Security_and_defense
+EN_M_TRAIN_92.jpg
+EN_M_TRAIN_3.webp	Crime_and_punishment
+EN_M_TRAIN_83.jpg	Crime_and_punishment
+EN_M_TRAIN_40.jpg	Security_and_defense
+EN_M_TRAIN_47.jpg
+EN_M_TRAIN_34.webp
+EN_M_TRAIN_64.jpg
+EN_M_TRAIN_77.png	Security_and_defense
+EN_M_TRAIN_21.jpg	Security_and_defense
+EN_M_TRAIN_17.jpg	Security_and_defense
+EN_M_TRAIN_5.jpg	Morality	Political	Public_opinion	Fairness_and_equality
+EN_M_TRAIN_51.jpg
+EN_M_TRAIN_81.jpg	Crime_and_punishment	Health_and_safety

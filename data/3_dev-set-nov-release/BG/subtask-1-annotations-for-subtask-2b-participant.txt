@@ -1,0 +1,180 @@
+BG_M_TRAIN_156.txt	0	83	
+BG_M_TRAIN_156.txt	87	441	Crime_and_punishment
+BG_M_TRAIN_156.txt	445	741	Health_and_safety	Capacity_and_resources
+BG_M_TRAIN_156.txt	745	1086	Crime_and_punishment
+BG_M_TRAIN_156.txt	1090	1168	Health_and_safety
+BG_M_TRAIN_156.txt	1172	1621	Crime_and_punishment
+BG_M_TRAIN_156.txt	1625	2055	
+BG_M_TRAIN_156.txt	2059	2420	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+BG_M_TRAIN_139.txt	0	107	
+BG_M_TRAIN_139.txt	111	381	Security_and_defense	Crime_and_punishment
+BG_M_TRAIN_139.txt	385	894	Legality_Constitutionality_and_jurisprudence	Security_and_defense	Crime_and_punishment
+BG_M_TRAIN_139.txt	898	1735	Economic	Crime_and_punishment
+BG_M_TRAIN_139.txt	1739	2103	Crime_and_punishment
+BG_M_TRAIN_139.txt	2107	2698	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Crime_and_punishment
+BG_M_TRAIN_113.txt	0	51	
+BG_M_TRAIN_113.txt	55	313	Security_and_defense
+BG_M_TRAIN_113.txt	317	537	Security_and_defense
+BG_M_TRAIN_113.txt	541	854	Security_and_defense
+BG_M_TRAIN_113.txt	858	957	
+BG_M_TRAIN_113.txt	961	1070	Crime_and_punishment
+BG_M_TRAIN_113.txt	1074	1287	Fairness_and_equality
+BG_M_TRAIN_113.txt	1291	1589	Policy_prescription_and_evaluation	Political
+BG_M_TRAIN_113.txt	1593	1856	
+BG_M_TRAIN_113.txt	1860	2410	Security_and_defense
+BG_M_TRAIN_165.txt	0	60	
+BG_M_TRAIN_165.txt	64	417	Health_and_safety	Security_and_defense	Political
+BG_M_TRAIN_165.txt	421	992	Policy_prescription_and_evaluation	Capacity_and_resources
+BG_M_TRAIN_165.txt	996	1261	
+BG_M_TRAIN_165.txt	1265	1542	
+BG_M_TRAIN_165.txt	1546	2096	Political
+BG_M_TRAIN_165.txt	2100	2359	Political
+BG_M_TRAIN_165.txt	2363	2761	Policy_prescription_and_evaluation	Political
+BG_M_TRAIN_165.txt	2765	3380	Policy_prescription_and_evaluation	External_regulation_and_reputation	Security_and_defense	Political
+BG_M_TRAIN_159.txt	0	79	
+BG_M_TRAIN_159.txt	83	321	Policy_prescription_and_evaluation
+BG_M_TRAIN_159.txt	325	1020	Policy_prescription_and_evaluation	Political
+BG_M_TRAIN_159.txt	1024	1441	Economic	Capacity_and_resources	Political
+BG_M_TRAIN_159.txt	1445	2023	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Capacity_and_resources
+BG_M_TRAIN_159.txt	2027	2830	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Economic	Crime_and_punishment
+BG_M_TRAIN_159.txt	2834	3331	Economic	Capacity_and_resources	Political
+BG_M_TRAIN_159.txt	3335	3697	Policy_prescription_and_evaluation	Economic	Capacity_and_resources	Security_and_defense
+BG_M_TRAIN_159.txt	3701	4208	Policy_prescription_and_evaluation	Health_and_safety
+BG_M_TRAIN_159.txt	4212	4959	Policy_prescription_and_evaluation
+BG_M_TRAIN_159.txt	4963	5251	External_regulation_and_reputation	Capacity_and_resources	Political
+BG_M_TRAIN_129.txt	0	91	
+BG_M_TRAIN_129.txt	95	601	Legality_Constitutionality_and_jurisprudence	Security_and_defense	Political
+BG_M_TRAIN_129.txt	605	862	Legality_Constitutionality_and_jurisprudence	Morality	Political
+BG_M_TRAIN_129.txt	866	1063	Crime_and_punishment
+BG_M_TRAIN_129.txt	1067	1441	Crime_and_punishment
+BG_M_TRAIN_129.txt	1445	1761	
+BG_M_TRAIN_129.txt	1765	2082	Policy_prescription_and_evaluation	Political	Security_and_defense
+BG_M_TRAIN_129.txt	2086	2431	
+BG_M_TRAIN_129.txt	2435	2700	Policy_prescription_and_evaluation	Security_and_defense
+BG_M_TRAIN_129.txt	2704	2939	Security_and_defense	Political
+BG_M_TRAIN_129.txt	2943	3235	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+BG_M_TRAIN_116.txt	0	46	
+BG_M_TRAIN_116.txt	50	501	Security_and_defense
+BG_M_TRAIN_116.txt	505	1051	Capacity_and_resources	Security_and_defense	Public_opinion
+BG_M_TRAIN_116.txt	1055	1556	
+BG_M_TRAIN_116.txt	1560	2451	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	External_regulation_and_reputation	Capacity_and_resources	Security_and_defense
+BG_M_TRAIN_116.txt	2455	3175	Economic	Security_and_defense
+BG_M_TRAIN_116.txt	3179	3564	Policy_prescription_and_evaluation	Capacity_and_resources
+BG_M_TRAIN_116.txt	3568	4203	Security_and_defense	Public_opinion
+BG_M_TRAIN_116.txt	4207	5189	Economic	External_regulation_and_reputation	Capacity_and_resources	Security_and_defense
+BG_M_TRAIN_116.txt	5193	5558	Security_and_defense
+BG_M_TRAIN_116.txt	5562	5864	Cultural_identity	Political
+BG_M_TRAIN_133.txt	0	106	
+BG_M_TRAIN_133.txt	110	275	Morality	Security_and_defense
+BG_M_TRAIN_133.txt	279	785	Capacity_and_resources	Security_and_defense	Political
+BG_M_TRAIN_133.txt	789	1098	Policy_prescription_and_evaluation	Security_and_defense
+BG_M_TRAIN_133.txt	1102	1572	Policy_prescription_and_evaluation	Morality	Security_and_defense	Political
+BG_M_TRAIN_133.txt	1576	1860	Policy_prescription_and_evaluation
+BG_M_TRAIN_133.txt	1864	2287	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Political
+BG_M_TRAIN_146.txt	0	63	
+BG_M_TRAIN_146.txt	67	627	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	External_regulation_and_reputation	Security_and_defense
+BG_M_TRAIN_146.txt	631	852	
+BG_M_TRAIN_146.txt	856	1164	
+BG_M_TRAIN_146.txt	1168	1466	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	External_regulation_and_reputation	Fairness_and_equality
+BG_M_TRAIN_146.txt	1470	1752	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	External_regulation_and_reputation	Fairness_and_equality
+BG_M_TRAIN_146.txt	1756	1998	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+BG_M_TRAIN_146.txt	2002	2293	Policy_prescription_and_evaluation	Political
+BG_M_TRAIN_132.txt	0	92	
+BG_M_TRAIN_132.txt	96	663	Political	Crime_and_punishment
+BG_M_TRAIN_132.txt	667	1477	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Security_and_defense	Political
+BG_M_TRAIN_132.txt	1481	1801	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+BG_M_TRAIN_132.txt	1805	2059	
+BG_M_TRAIN_132.txt	2063	2257	Political	Security_and_defense	Crime_and_punishment
+BG_M_TRAIN_132.txt	2261	2610	Security_and_defense
+BG_M_TRAIN_132.txt	2614	2997	Security_and_defense
+BG_M_TRAIN_132.txt	3001	3271	Crime_and_punishment
+BG_M_TRAIN_162.txt	0	58	
+BG_M_TRAIN_162.txt	62	635	Policy_prescription_and_evaluation	Capacity_and_resources	Security_and_defense	Political
+BG_M_TRAIN_162.txt	639	879	Capacity_and_resources	Security_and_defense
+BG_M_TRAIN_162.txt	883	1217	Capacity_and_resources
+BG_M_TRAIN_162.txt	1221	1766	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+BG_M_TRAIN_162.txt	1770	2003	Health_and_safety
+BG_M_TRAIN_162.txt	2007	2530	Capacity_and_resources
+BG_M_TRAIN_162.txt	2534	3047	Policy_prescription_and_evaluation	Security_and_defense
+BG_M_TRAIN_162.txt	3051	3536	Security_and_defense
+BG_M_TRAIN_162.txt	3540	3991	External_regulation_and_reputation	Security_and_defense
+BG_M_TRAIN_162.txt	3995	4252	Security_and_defense
+BG_M_TRAIN_175.txt	0	57	
+BG_M_TRAIN_175.txt	61	222	
+BG_M_TRAIN_175.txt	226	686	Capacity_and_resources	Crime_and_punishment
+BG_M_TRAIN_175.txt	690	956	
+BG_M_TRAIN_175.txt	960	1354	Capacity_and_resources	Crime_and_punishment
+BG_M_TRAIN_175.txt	1358	1751	Crime_and_punishment
+BG_M_TRAIN_175.txt	1755	1960	Crime_and_punishment
+BG_M_TRAIN_175.txt	1964	2193	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+BG_M_TRAIN_175.txt	2197	2720	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+BG_M_TRAIN_175.txt	2724	3016	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+BG_M_TRAIN_128.txt	0	80	
+BG_M_TRAIN_128.txt	84	627	Quality_of_life	Security_and_defense
+BG_M_TRAIN_128.txt	631	891	Security_and_defense
+BG_M_TRAIN_128.txt	895	1307	Quality_of_life	Security_and_defense
+BG_M_TRAIN_128.txt	1311	1611	Quality_of_life	Security_and_defense
+BG_M_TRAIN_128.txt	1615	1946	Security_and_defense
+BG_M_TRAIN_128.txt	1950	2265	Security_and_defense
+BG_M_TRAIN_158.txt	0	38	
+BG_M_TRAIN_158.txt	42	197	Policy_prescription_and_evaluation	Security_and_defense
+BG_M_TRAIN_158.txt	201	440	
+BG_M_TRAIN_158.txt	444	683	
+BG_M_TRAIN_158.txt	687	1068	Capacity_and_resources	Security_and_defense
+BG_M_TRAIN_158.txt	1072	1349	Quality_of_life	Capacity_and_resources
+BG_M_TRAIN_158.txt	1353	1634	Legality_Constitutionality_and_jurisprudence	Security_and_defense
+BG_M_TRAIN_158.txt	1638	1830	
+BG_M_TRAIN_158.txt	1834	2039	Policy_prescription_and_evaluation	Political
+BG_M_TRAIN_158.txt	2043	2254	Policy_prescription_and_evaluation	Capacity_and_resources
+BG_M_TRAIN_158.txt	2258	2618	Policy_prescription_and_evaluation	External_regulation_and_reputation	Security_and_defense
+BG_M_TRAIN_145.txt	0	84	
+BG_M_TRAIN_145.txt	88	650	Policy_prescription_and_evaluation
+BG_M_TRAIN_145.txt	654	1107	Policy_prescription_and_evaluation	External_regulation_and_reputation	Political
+BG_M_TRAIN_145.txt	1111	1514	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+BG_M_TRAIN_145.txt	1518	1889	Policy_prescription_and_evaluation	Morality
+BG_M_TRAIN_145.txt	1893	2232	Policy_prescription_and_evaluation	External_regulation_and_reputation
+BG_M_TRAIN_145.txt	2236	2681	
+BG_M_TRAIN_145.txt	2685	3158	Fairness_and_equality
+BG_M_TRAIN_145.txt	3162	3837	Capacity_and_resources	Security_and_defense
+BG_M_TRAIN_120.txt	0	65	
+BG_M_TRAIN_120.txt	69	343	
+BG_M_TRAIN_120.txt	347	603	Policy_prescription_and_evaluation	Economic	Capacity_and_resources
+BG_M_TRAIN_120.txt	607	1032	Policy_prescription_and_evaluation	Security_and_defense	Political
+BG_M_TRAIN_120.txt	1036	1288	
+BG_M_TRAIN_120.txt	1292	1637	Policy_prescription_and_evaluation	Economic	Morality	External_regulation_and_reputation	Capacity_and_resources	Quality_of_life
+BG_M_TRAIN_120.txt	1641	1894	Policy_prescription_and_evaluation
+BG_M_TRAIN_120.txt	1898	2324	Quality_of_life	Security_and_defense
+BG_M_TRAIN_120.txt	2328	2602	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+BG_M_TRAIN_163.txt	0	41	
+BG_M_TRAIN_163.txt	45	616	Health_and_safety	Security_and_defense
+BG_M_TRAIN_163.txt	620	1259	Security_and_defense	Political
+BG_M_TRAIN_163.txt	1263	1497	Security_and_defense
+BG_M_TRAIN_163.txt	1501	1929	Legality_Constitutionality_and_jurisprudence
+BG_M_TRAIN_163.txt	1933	2508	Security_and_defense
+BG_M_TRAIN_163.txt	2512	3252	Security_and_defense
+BG_M_TRAIN_163.txt	3256	3465	Security_and_defense
+BG_M_TRAIN_163.txt	3469	3646	
+BG_M_TRAIN_163.txt	3650	3877	Health_and_safety
+BG_M_TRAIN_115.txt	0	53	
+BG_M_TRAIN_115.txt	57	827	External_regulation_and_reputation	Security_and_defense	Political	Public_opinion
+BG_M_TRAIN_115.txt	831	1193	Political	Public_opinion
+BG_M_TRAIN_115.txt	1197	1890	Legality_Constitutionality_and_jurisprudence	External_regulation_and_reputation	Political	Public_opinion
+BG_M_TRAIN_176.txt	0	84	
+BG_M_TRAIN_176.txt	88	523	External_regulation_and_reputation
+BG_M_TRAIN_176.txt	527	894	Political
+BG_M_TRAIN_176.txt	898	1223	External_regulation_and_reputation
+BG_M_TRAIN_176.txt	1227	1549	Economic	External_regulation_and_reputation	Capacity_and_resources	Security_and_defense
+BG_M_TRAIN_176.txt	1553	1828	External_regulation_and_reputation
+BG_M_TRAIN_176.txt	1832	2103	External_regulation_and_reputation
+BG_M_TRAIN_176.txt	2107	2411	External_regulation_and_reputation	Political
+BG_M_TRAIN_180.txt	0	80	
+BG_M_TRAIN_180.txt	84	735	Security_and_defense	Political	Public_opinion
+BG_M_TRAIN_180.txt	739	1509	Policy_prescription_and_evaluation	Political	Public_opinion
+BG_M_TRAIN_180.txt	1513	1908	External_regulation_and_reputation	Security_and_defense	Political
+BG_M_TRAIN_180.txt	1912	2495	Security_and_defense	Political
+BG_M_TRAIN_180.txt	2499	2791	External_regulation_and_reputation	Political
+BG_M_TRAIN_180.txt	2795	3466	Political	Security_and_defense
+BG_M_TRAIN_180.txt	3470	4068	External_regulation_and_reputation	Security_and_defense	Political	Public_opinion
+BG_M_TRAIN_180.txt	4072	4585	Policy_prescription_and_evaluation	External_regulation_and_reputation	Political	Fairness_and_equality
+BG_M_TRAIN_180.txt	4589	5132	External_regulation_and_reputation	Political
+BG_M_TRAIN_180.txt	5136	5546	Policy_prescription_and_evaluation	External_regulation_and_reputation	Political

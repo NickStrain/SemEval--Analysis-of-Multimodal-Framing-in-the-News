@@ -1,0 +1,8 @@
+0	144	Cultural_identity	Capacity_and_resources	Public_opinion
+147	429	External_regulation_and_reputation	Capacity_and_resources
+431	789	Capacity_and_resources
+791	860	Policy_prescription_and_evaluation	Capacity_and_resources
+862	1382	Policy_prescription_and_evaluation	Capacity_and_resources
+1384	1837	Capacity_and_resources
+1839	2266	Economic	Capacity_and_resources	Quality_of_life
+2268	2568	Capacity_and_resources

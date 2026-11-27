@@ -1,0 +1,65 @@
+{"pid": "EN_M_TRAIN_3#0", "p": {"Security_and_defense": 0.8}, "none": 0.1, "why": "Headline: killings continue despite ceasefire"}
+{"pid": "EN_M_TRAIN_3#1", "p": {"Security_and_defense": 0.7, "Morality": 0.3}, "none": 0.2, "why": "Emotive claim of continuing carnage despite ceasefire"}
+{"pid": "EN_M_TRAIN_3#2", "p": {"Security_and_defense": 0.7, "Health_and_safety": 0.4}, "none": 0.1, "why": "Civil defence death and injury toll"}
+{"pid": "EN_M_TRAIN_3#3", "p": {"Security_and_defense": 0.7}, "none": 0.2, "why": "Fatalities by area"}
+{"pid": "EN_M_TRAIN_3#4", "p": {"Security_and_defense": 0.8}, "none": 0.1, "why": "Bombardment continues before ceasefire takes effect"}
+{"pid": "EN_M_TRAIN_3#5", "p": {"Security_and_defense": 0.7, "Quality_of_life": 0.3}, "none": 0.1, "why": "Airstrike kills family in home"}
+{"pid": "EN_M_TRAIN_3#6", "p": {"Security_and_defense": 0.7}, "none": 0.1, "why": "Airstrikes on tent and drone strike deaths"}
+{"pid": "EN_M_TRAIN_3#7", "p": {"Security_and_defense": 0.7, "Quality_of_life": 0.3}, "none": 0.1, "why": "Airstrikes kill people in house and displaced tent"}
+{"pid": "EN_M_TRAIN_3#8", "p": {"Security_and_defense": 0.7, "Health_and_safety": 0.4}, "none": 0.1, "why": "Cumulative war death and injury toll"}
+{"pid": "EN_M_TRAIN_3#9", "p": {"Quality_of_life": 0.6, "Capacity_and_resources": 0.5}, "none": 0.2, "why": "Subheading: ruins, long recovery, displacement"}
+{"pid": "EN_M_TRAIN_3#10", "p": {"Economic": 0.5, "Capacity_and_resources": 0.5, "External_regulation_and_reputation": 0.3}, "none": 0.2, "why": "Donors assess destruction and reconstruction"}
+{"pid": "EN_M_TRAIN_3#11", "p": {"Security_and_defense": 0.5, "Capacity_and_resources": 0.4}, "none": 0.2, "why": "Scale of rubble compared with other wars"}
+{"pid": "EN_M_TRAIN_3#12", "p": {"Economic": 0.8, "Capacity_and_resources": 0.4}, "none": 0.1, "why": "Cost of debris clearance and reconstruction"}
+{"pid": "EN_M_TRAIN_3#13", "p": {"Security_and_defense": 0.4}, "none": 0.5, "why": "Short subheading"}
+{"pid": "EN_M_TRAIN_3#14", "p": {"Quality_of_life": 0.7, "Capacity_and_resources": 0.6, "Health_and_safety": 0.4}, "none": 0.1, "why": "Infrastructure, hospitals, homes destroyed; population displaced"}
+{"pid": "EN_M_TRAIN_3#15", "p": {"Capacity_and_resources": 0.6, "Health_and_safety": 0.4, "Quality_of_life": 0.4}, "none": 0.1, "why": "Water infrastructure destroyed"}
+{"pid": "EN_M_TRAIN_3#16", "p": {"Health_and_safety": 0.6, "Capacity_and_resources": 0.4}, "none": 0.1, "why": "Debris contains ordnance, hazardous substances, remains"}
+{"pid": "EN_M_TRAIN_3#17", "p": {}, "none": 0.8, "why": "Short subheading without framing"}
+{"pid": "EN_M_TRAIN_3#18", "p": {"Capacity_and_resources": 0.5, "Security_and_defense": 0.4}, "none": 0.2, "why": "Satellite analysis of building damage"}
+{"pid": "EN_M_TRAIN_3#19", "p": {"Health_and_safety": 0.6, "Capacity_and_resources": 0.5}, "none": 0.1, "why": "Clearing challenges: ordnance, asbestos, bodies"}
+{"pid": "EN_M_TRAIN_3#20", "p": {"Health_and_safety": 0.9}, "none": 0.1, "why": "WHO warns of hazardous dust and water contamination"}
+{"pid": "EN_M_TRAIN_3#21", "p": {"Security_and_defense": 0.4, "Capacity_and_resources": 0.3}, "none": 0.5, "why": "Where destruction is concentrated"}
+{"pid": "EN_M_TRAIN_3#22", "p": {"Capacity_and_resources": 0.5, "Security_and_defense": 0.4}, "none": 0.3, "why": "Share of buildings damaged by area"}
+{"pid": "EN_M_TRAIN_32#0", "p": {"Cultural_identity": 0.4, "External_regulation_and_reputation": 0.3}, "none": 0.5, "why": "Ceremonial sports meeting headline"}
+{"pid": "EN_M_TRAIN_32#1", "p": {"Cultural_identity": 0.4, "External_regulation_and_reputation": 0.4}, "none": 0.4, "why": "Royal receives federation president at championship"}
+{"pid": "EN_M_TRAIN_32#2", "p": {"Cultural_identity": 0.5, "Economic": 0.3, "External_regulation_and_reputation": 0.4, "Capacity_and_resources": 0.3}, "none": 0.2, "why": "Strategic vision to make emirate a global sports hub"}
+{"pid": "EN_M_TRAIN_32#3", "p": {"Cultural_identity": 0.5, "External_regulation_and_reputation": 0.4}, "none": 0.3, "why": "Praise for federation and hosting success"}
+{"pid": "EN_M_TRAIN_32#4", "p": {"Cultural_identity": 0.4, "Morality": 0.4, "External_regulation_and_reputation": 0.3}, "none": 0.3, "why": "Gratitude; humanitarian support and noble values of sport"}
+{"pid": "EN_M_TRAIN_46#0", "p": {}, "none": 0.9, "why": "Date line only"}
+{"pid": "EN_M_TRAIN_46#1", "p": {"External_regulation_and_reputation": 0.8, "Policy_prescription_and_evaluation": 0.6, "Security_and_defense": 0.4}, "none": 0.1, "why": "Parliament urges suspending EU-Rwanda minerals deal over conflict"}
+{"pid": "EN_M_TRAIN_46#2", "p": {"Security_and_defense": 0.7, "Legality_Constitutionality_and_jurisprudence": 0.5, "External_regulation_and_reputation": 0.5, "Political": 0.4}, "none": 0.1, "why": "Resolution condemns occupation, war crimes and killings"}
+{"pid": "EN_M_TRAIN_46#3", "p": {"External_regulation_and_reputation": 0.8, "Policy_prescription_and_evaluation": 0.6, "Economic": 0.4}, "none": 0.1, "why": "Calls to halt aid and suspend memorandum"}
+{"pid": "EN_M_TRAIN_46#4", "p": {"Economic": 0.7, "External_regulation_and_reputation": 0.6, "Capacity_and_resources": 0.5, "Policy_prescription_and_evaluation": 0.4}, "none": 0.1, "why": "Agreement secures critical raw materials for funding"}
+{"pid": "EN_M_TRAIN_46#5", "p": {"External_regulation_and_reputation": 0.6, "Crime_and_punishment": 0.4, "Economic": 0.4}, "none": 0.1, "why": "Controversy over illicit mineral trade and DRC objection"}
+{"pid": "EN_M_TRAIN_46#6", "p": {"External_regulation_and_reputation": 0.7, "Policy_prescription_and_evaluation": 0.5, "Health_and_safety": 0.3, "Legality_Constitutionality_and_jurisprudence": 0.3}, "none": 0.1, "why": "Commission keeps deal, demands humanitarian protections"}
+{"pid": "EN_M_TRAIN_46#7", "p": {"Policy_prescription_and_evaluation": 0.6, "Economic": 0.5, "External_regulation_and_reputation": 0.5, "Capacity_and_resources": 0.3}, "none": 0.1, "why": "Aid budget accelerated; suspension called self-defeating"}
+{"pid": "EN_M_TRAIN_5#0", "p": {"Policy_prescription_and_evaluation": 0.6, "Economic": 0.5, "Political": 0.5}, "none": 0.1, "why": "University accepts administration demands to restore funding"}
+{"pid": "EN_M_TRAIN_5#1", "p": {"Policy_prescription_and_evaluation": 0.6, "Economic": 0.5, "Political": 0.4}, "none": 0.1, "why": "Grants cancelled; demands on masks, discipline, admissions"}
+{"pid": "EN_M_TRAIN_5#2", "p": {"Economic": 0.6, "Policy_prescription_and_evaluation": 0.5, "Political": 0.5}, "none": 0.1, "why": "Concession to restore $400 million funding"}
+{"pid": "EN_M_TRAIN_5#3", "p": {"Economic": 0.5, "Fairness_and_equality": 0.4, "Capacity_and_resources": 0.4, "Political": 0.4}, "none": 0.1, "why": "Funding cut over harassment of Jewish students ends research"}
+{"pid": "EN_M_TRAIN_5#4", "p": {"Policy_prescription_and_evaluation": 0.6, "Economic": 0.4}, "none": 0.1, "why": "Nine demands to restore funds"}
+{"pid": "EN_M_TRAIN_5#5", "p": {"Political": 0.5, "Policy_prescription_and_evaluation": 0.4}, "none": 0.3, "why": "Administration largely got what it asked"}
+{"pid": "EN_M_TRAIN_5#6", "p": {"Policy_prescription_and_evaluation": 0.8, "Security_and_defense": 0.3}, "none": 0.1, "why": "Mask ban, arresting security officers, departmental oversight"}
+{"pid": "EN_M_TRAIN_5#7", "p": {"Policy_prescription_and_evaluation": 0.7, "Fairness_and_equality": 0.4}, "none": 0.1, "why": "Neutrality policy and admissions review"}
+{"pid": "EN_M_TRAIN_5#8", "p": {"Policy_prescription_and_evaluation": 0.4}, "none": 0.4, "why": "President justifies response for continuity"}
+{"pid": "EN_M_TRAIN_5#9", "p": {"Cultural_identity": 0.4}, "none": 0.5, "why": "Statement on debate and community values"}
+{"pid": "EN_M_TRAIN_5#10", "p": {"Political": 0.6, "Policy_prescription_and_evaluation": 0.5}, "none": 0.2, "why": "Unprecedented federal leverage over universities"}
+{"pid": "EN_M_TRAIN_5#11", "p": {"Public_opinion": 0.6, "Political": 0.4}, "none": 0.2, "why": "Student group condemns deal"}
+{"pid": "EN_M_TRAIN_5#12", "p": {"Public_opinion": 0.5, "Morality": 0.5, "Political": 0.5}, "none": 0.1, "why": "Group accuses university of complicity and selling out"}
+{"pid": "EN_M_TRAIN_5#13", "p": {"Political": 0.6, "Public_opinion": 0.4, "Legality_Constitutionality_and_jurisprudence": 0.3}, "none": 0.1, "why": "Faculty warn against authoritarian interference"}
+{"pid": "EN_M_TRAIN_5#14", "p": {"Cultural_identity": 0.5, "Quality_of_life": 0.3, "Legality_Constitutionality_and_jurisprudence": 0.3}, "none": 0.2, "why": "Academic freedom and scholarship at stake"}
+{"pid": "EN_M_TRAIN_5#15", "p": {"Political": 0.5, "Public_opinion": 0.5}, "none": 0.2, "why": "University as epicentre of protests"}
+{"pid": "EN_M_TRAIN_5#16", "p": {"Security_and_defense": 0.5, "Public_opinion": 0.5, "External_regulation_and_reputation": 0.3}, "none": 0.2, "why": "War background and divestment protests"}
+{"pid": "EN_M_TRAIN_5#17", "p": {"Public_opinion": 0.6, "Crime_and_punishment": 0.4, "Fairness_and_equality": 0.3}, "none": 0.1, "why": "Encampment, occupation, arrests, contested slogans"}
+{"pid": "EN_M_TRAIN_5#18", "p": {"Fairness_and_equality": 0.5, "Security_and_defense": 0.4, "Public_opinion": 0.4, "Crime_and_punishment": 0.3}, "none": 0.1, "why": "Jewish students divided; some report assaults"}
+{"pid": "EN_M_TRAIN_5#19", "p": {"Public_opinion": 0.6}, "none": 0.2, "why": "Arrested student says challenges unite students"}
+{"pid": "EN_M_TRAIN_5#20", "p": {"Public_opinion": 0.5, "Legality_Constitutionality_and_jurisprudence": 0.4, "Political": 0.3}, "none": 0.2, "why": "Free speech and democracy broaden student involvement"}
+{"pid": "EN_M_TRAIN_5#21", "p": {"Policy_prescription_and_evaluation": 0.5, "Fairness_and_equality": 0.4, "Legality_Constitutionality_and_jurisprudence": 0.4}, "none": 0.1, "why": "Justice Department task force on antisemitic harassment"}
+{"pid": "EN_M_TRAIN_5#22", "p": {"Crime_and_punishment": 0.5, "Legality_Constitutionality_and_jurisprudence": 0.5, "Policy_prescription_and_evaluation": 0.4}, "none": 0.1, "why": "Immigration arrests of protesters; visa revoked"}
+{"pid": "EN_M_TRAIN_5#23", "p": {"Political": 0.5, "Crime_and_punishment": 0.3}, "none": 0.2, "why": "Hope that deal stops immigration targeting"}
+{"pid": "EN_M_TRAIN_5#24", "p": {"Political": 0.5, "Fairness_and_equality": 0.3}, "none": 0.2, "why": "Worry students used as pressure tactic"}
+{"pid": "EN_M_TRAIN_5#25", "p": {"Legality_Constitutionality_and_jurisprudence": 0.6, "Public_opinion": 0.5}, "none": 0.1, "why": "Arrests prompt protests and free speech concerns"}
+{"pid": "EN_M_TRAIN_5#26", "p": {"Legality_Constitutionality_and_jurisprudence": 0.4, "Public_opinion": 0.3}, "none": 0.4, "why": "Journalism school describes chilling effect"}
+{"pid": "EN_M_TRAIN_5#27", "p": {"Legality_Constitutionality_and_jurisprudence": 0.6, "Political": 0.5, "Cultural_identity": 0.3}, "none": 0.1, "why": "Deportation and libel used to silence critics"}
+{"pid": "EN_M_TRAIN_5#28", "p": {}, "none": 0.8, "why": "Logistics about spring break"}

@@ -1,0 +1,14 @@
+0	51	
+55	630	Quality_of_life
+634	1073	Quality_of_life
+1077	1403	
+1407	1592	Cultural_identity	Quality_of_life
+1596	1975	Economic
+1979	2406	Quality_of_life
+2410	2615	Capacity_and_resources
+2619	2941	
+2945	3152	
+3156	3386	
+3390	3760	Quality_of_life
+3764	4298	Cultural_identity	Capacity_and_resources
+4302	4882	Quality_of_life

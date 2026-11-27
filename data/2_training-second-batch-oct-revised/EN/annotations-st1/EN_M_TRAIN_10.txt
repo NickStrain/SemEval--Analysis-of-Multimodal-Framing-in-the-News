@@ -1,0 +1,23 @@
+0	72	Security_and_defense
+76	344	Security_and_defense
+348	578	Economic	External_regulation_and_reputation	Security_and_defense
+582	803	External_regulation_and_reputation
+807	1076	Security_and_defense
+1080	1139	
+1143	1376	Security_and_defense
+1380	1625	
+1629	1753	Policy_prescription_and_evaluation	Security_and_defense
+1757	1995	
+1999	2328	External_regulation_and_reputation	Security_and_defense
+2332	2576	
+2580	2726	External_regulation_and_reputation
+2730	3015	Security_and_defense
+3019	3389	Security_and_defense
+3393	3652	Policy_prescription_and_evaluation	Security_and_defense
+3656	3906	Policy_prescription_and_evaluation
+3910	4054	
+4058	4273	
+4277	4495	Policy_prescription_and_evaluation
+4499	4608	External_regulation_and_reputation	Security_and_defense
+4612	4817	Policy_prescription_and_evaluation
+4821	4853	

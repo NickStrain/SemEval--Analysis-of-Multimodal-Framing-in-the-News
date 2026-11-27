@@ -1,0 +1,20 @@
+0	99	Legality_Constitutionality_and_jurisprudence	Political
+103	683	Legality_Constitutionality_and_jurisprudence	Political	Security_and_defense
+687	881	Legality_Constitutionality_and_jurisprudence
+885	1151	
+1155	1700	Health_and_safety	Security_and_defense
+1704	2108	Health_and_safety	Security_and_defense
+2112	2761	Security_and_defense
+2765	3070	Legality_Constitutionality_and_jurisprudence	Political
+3074	3382	
+3386	3974	Security_and_defense
+3978	4340	
+4344	4636	Security_and_defense	Political
+4640	4981	
+4985	5388	Health_and_safety
+5392	5675	Security_and_defense	Crime_and_punishment
+5679	5935	
+5939	6147	
+6151	6715	Legality_Constitutionality_and_jurisprudence
+6719	6965	Security_and_defense
+6969	7444	Security_and_defense	Political

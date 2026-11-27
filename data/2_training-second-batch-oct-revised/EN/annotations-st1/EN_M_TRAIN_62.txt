@@ -1,0 +1,7 @@
+0	62	
+66	553	Health_and_safety
+557	1053	Health_and_safety	Quality_of_life
+1057	1445	
+1449	2109	Quality_of_life
+2113	2507	Health_and_safety	Quality_of_life
+2511	3136	Quality_of_life

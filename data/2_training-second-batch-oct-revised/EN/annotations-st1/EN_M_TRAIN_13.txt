@@ -1,0 +1,9 @@
+0	67	Security_and_defense
+71	426	Public_opinion
+430	912	
+916	1133	Health_and_safety
+1137	2113	
+2117	2388	Morality
+2392	2869	
+2873	3092	
+3096	3789	Morality	Health_and_safety

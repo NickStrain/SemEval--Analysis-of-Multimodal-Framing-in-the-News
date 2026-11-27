@@ -1,0 +1,20 @@
+0	63	Crime_and_punishment
+66	262	Crime_and_punishment
+264	499	
+501	595	Security_and_defense
+597	890	Security_and_defense	Crime_and_punishment
+892	1053	
+1055	1190	
+1192	1446	
+1448	1545	
+1547	1576	
+1578	1729	
+1731	2011	
+2013	2082	
+2084	2245	
+2247	2337	Crime_and_punishment
+2339	2579	Crime_and_punishment
+2581	2790	Health_and_safety
+2792	2942	Crime_and_punishment
+2944	3053	Morality
+3055	3177	

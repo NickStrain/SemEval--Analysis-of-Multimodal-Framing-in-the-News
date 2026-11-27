@@ -1,0 +1,4 @@
+0	86	Crime_and_punishment
+90	819	Health_and_safety
+823	1105	Security_and_defense
+1109	1509	Security_and_defense

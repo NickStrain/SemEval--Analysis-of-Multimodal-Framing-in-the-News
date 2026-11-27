@@ -1,0 +1,67 @@
+{"event": "data", "train": 5033, "val": 224, "new_rows": 3874, "time": "20:07:12"}
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 20493.17it/s]
+/run/media/nickstrain/NickStrain/SemEval--Analysis-of-Multimodal-Framing-in-the-News/.venv/lib/python3.12/site-packages/transformers/modeling_utils.py:3204: FutureWarning: `gradient_checkpointing_enable` is deprecated and will be removed in v6. Use `activation_checkpointing_enable` instead.
+  warnings.warn(
+{"event": "eval", "epoch": 0, "val_micro": 46.76, "thr": 0.3, "val_micro_at_0_3": 46.76, "note": "untouched user model (reference)", "time": "20:07:15"}
+[transformers] `use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+{"event": "progress", "epoch": 1, "batch": 100, "of": 630, "loss": 0.2038, "min": 0.2, "time": "20:07:27"}
+{"event": "progress", "epoch": 1, "batch": 200, "of": 630, "loss": 0.1959, "min": 0.4, "time": "20:07:40"}
+{"event": "progress", "epoch": 1, "batch": 300, "of": 630, "loss": 0.1914, "min": 0.6, "time": "20:07:52"}
+{"event": "progress", "epoch": 1, "batch": 400, "of": 630, "loss": 0.1886, "min": 0.8, "time": "20:08:05"}
+{"event": "progress", "epoch": 1, "batch": 500, "of": 630, "loss": 0.1888, "min": 1.0, "time": "20:08:17"}
+{"event": "progress", "epoch": 1, "batch": 600, "of": 630, "loss": 0.188, "min": 1.2, "time": "20:08:30"}
+{"event": "eval", "epoch": 1, "val_micro": 46.2, "thr": 0.45, "val_micro_at_0_3": 42.19, "train_loss": 0.1871, "min": 1.3, "improved": false, "time": "20:08:35"}
+{"event": "progress", "epoch": 2, "batch": 100, "of": 630, "loss": 0.1604, "min": 0.2, "time": "20:08:48"}
+{"event": "progress", "epoch": 2, "batch": 200, "of": 630, "loss": 0.1584, "min": 0.4, "time": "20:09:00"}
+{"event": "progress", "epoch": 2, "batch": 300, "of": 630, "loss": 0.1601, "min": 0.6, "time": "20:09:13"}
+{"event": "progress", "epoch": 2, "batch": 400, "of": 630, "loss": 0.1599, "min": 0.8, "time": "20:09:26"}
+{"event": "progress", "epoch": 2, "batch": 500, "of": 630, "loss": 0.1624, "min": 1.1, "time": "20:09:39"}
+{"event": "progress", "epoch": 2, "batch": 600, "of": 630, "loss": 0.1608, "min": 1.3, "time": "20:09:52"}
+{"event": "eval", "epoch": 2, "val_micro": 47.34, "thr": 0.46, "val_micro_at_0_3": 44.48, "train_loss": 0.1615, "min": 1.4, "improved": true, "time": "20:09:56"}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.09s/it]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.09s/it]
+{"event": "saved_best", "folder": "ckpt/EN_best_model_ft/ft1/best_e2", "zip": "runs/submissions/ft_ft1_e2_EN_dev.zip", "format_ok": true, "time": "20:09:59"}
+{"event": "progress", "epoch": 3, "batch": 100, "of": 630, "loss": 0.1273, "min": 0.2, "time": "20:10:12"}
+{"event": "progress", "epoch": 3, "batch": 200, "of": 630, "loss": 0.1292, "min": 0.4, "time": "20:10:25"}
+{"event": "progress", "epoch": 3, "batch": 300, "of": 630, "loss": 0.1308, "min": 0.6, "time": "20:10:38"}
+{"event": "progress", "epoch": 3, "batch": 400, "of": 630, "loss": 0.1316, "min": 0.9, "time": "20:10:51"}
+{"event": "progress", "epoch": 3, "batch": 500, "of": 630, "loss": 0.1325, "min": 1.1, "time": "20:11:04"}
+{"event": "progress", "epoch": 3, "batch": 600, "of": 630, "loss": 0.1336, "min": 1.3, "time": "20:11:17"}
+{"event": "eval", "epoch": 3, "val_micro": 48.04, "thr": 0.42, "val_micro_at_0_3": 45.83, "train_loss": 0.134, "min": 1.4, "improved": true, "time": "20:11:22"}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.28s/it]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.28s/it]
+{"event": "saved_best", "folder": "ckpt/EN_best_model_ft/ft1/best_e3", "zip": "runs/submissions/ft_ft1_e3_EN_dev.zip", "format_ok": true, "time": "20:11:25"}
+{"event": "progress", "epoch": 4, "batch": 100, "of": 630, "loss": 0.114, "min": 0.2, "time": "20:11:38"}
+{"event": "progress", "epoch": 4, "batch": 200, "of": 630, "loss": 0.1122, "min": 0.4, "time": "20:11:51"}
+{"event": "progress", "epoch": 4, "batch": 300, "of": 630, "loss": 0.1097, "min": 0.6, "time": "20:12:04"}
+{"event": "progress", "epoch": 4, "batch": 400, "of": 630, "loss": 0.1109, "min": 0.9, "time": "20:12:17"}
+{"event": "progress", "epoch": 4, "batch": 500, "of": 630, "loss": 0.1112, "min": 1.1, "time": "20:12:30"}
+{"event": "progress", "epoch": 4, "batch": 600, "of": 630, "loss": 0.1122, "min": 1.3, "time": "20:12:42"}
+{"event": "eval", "epoch": 4, "val_micro": 45.9, "thr": 0.49, "val_micro_at_0_3": 44.44, "train_loss": 0.1125, "min": 1.4, "improved": false, "time": "20:12:47"}
+{"event": "progress", "epoch": 5, "batch": 100, "of": 630, "loss": 0.0933, "min": 0.2, "time": "20:13:00"}
+{"event": "progress", "epoch": 5, "batch": 200, "of": 630, "loss": 0.0942, "min": 0.4, "time": "20:13:13"}
+{"event": "progress", "epoch": 5, "batch": 300, "of": 630, "loss": 0.0933, "min": 0.7, "time": "20:13:26"}
+{"event": "progress", "epoch": 5, "batch": 400, "of": 630, "loss": 0.0922, "min": 0.9, "time": "20:13:39"}
+{"event": "progress", "epoch": 5, "batch": 500, "of": 630, "loss": 0.093, "min": 1.1, "time": "20:13:52"}
+{"event": "progress", "epoch": 5, "batch": 600, "of": 630, "loss": 0.0938, "min": 1.3, "time": "20:14:04"}
+{"event": "eval", "epoch": 5, "val_micro": 46.7, "thr": 0.41, "val_micro_at_0_3": 44.7, "train_loss": 0.0928, "min": 1.4, "improved": false, "time": "20:14:09"}
+{"event": "progress", "epoch": 6, "batch": 100, "of": 630, "loss": 0.0796, "min": 0.2, "time": "20:14:22"}
+{"event": "progress", "epoch": 6, "batch": 200, "of": 630, "loss": 0.0787, "min": 0.4, "time": "20:14:35"}
+{"event": "progress", "epoch": 6, "batch": 300, "of": 630, "loss": 0.0781, "min": 0.6, "time": "20:14:48"}
+{"event": "progress", "epoch": 6, "batch": 400, "of": 630, "loss": 0.0793, "min": 0.9, "time": "20:15:01"}
+{"event": "progress", "epoch": 6, "batch": 500, "of": 630, "loss": 0.0795, "min": 1.1, "time": "20:15:14"}
+{"event": "progress", "epoch": 6, "batch": 600, "of": 630, "loss": 0.0795, "min": 1.3, "time": "20:15:27"}
+{"event": "eval", "epoch": 6, "val_micro": 45.22, "thr": 0.34, "val_micro_at_0_3": 44.87, "train_loss": 0.0798, "min": 1.4, "improved": false, "time": "20:15:31"}
+{"event": "progress", "epoch": 7, "batch": 100, "of": 630, "loss": 0.072, "min": 0.2, "time": "20:15:44"}
+{"event": "progress", "epoch": 7, "batch": 200, "of": 630, "loss": 0.0689, "min": 0.4, "time": "20:15:57"}
+{"event": "progress", "epoch": 7, "batch": 300, "of": 630, "loss": 0.07, "min": 0.7, "time": "20:16:10"}
+{"event": "progress", "epoch": 7, "batch": 400, "of": 630, "loss": 0.0701, "min": 0.9, "time": "20:16:24"}
+{"event": "progress", "epoch": 7, "batch": 500, "of": 630, "loss": 0.0698, "min": 1.1, "time": "20:16:37"}
+{"event": "progress", "epoch": 7, "batch": 600, "of": 630, "loss": 0.07, "min": 1.3, "time": "20:16:50"}
+{"event": "eval", "epoch": 7, "val_micro": 44.9, "thr": 0.29, "val_micro_at_0_3": 44.64, "train_loss": 0.0701, "min": 1.4, "improved": false, "time": "20:16:54"}
+{"event": "progress", "epoch": 8, "batch": 100, "of": 630, "loss": 0.0671, "min": 0.2, "time": "20:17:06"}
+{"event": "progress", "epoch": 8, "batch": 200, "of": 630, "loss": 0.0652, "min": 0.4, "time": "20:17:19"}
+{"event": "progress", "epoch": 8, "batch": 300, "of": 630, "loss": 0.0637, "min": 0.6, "time": "20:17:32"}
+{"event": "progress", "epoch": 8, "batch": 400, "of": 630, "loss": 0.0645, "min": 0.9, "time": "20:17:46"}
+{"event": "progress", "epoch": 8, "batch": 500, "of": 630, "loss": 0.0635, "min": 1.1, "time": "20:17:59"}
+{"event": "progress", "epoch": 8, "batch": 600, "of": 630, "loss": 0.0633, "min": 1.3, "time": "20:18:12"}
+{"event": "eval", "epoch": 8, "val_micro": 43.91, "thr": 0.24, "val_micro_at_0_3": 43.01, "train_loss": 0.0632, "min": 1.4, "improved": false, "time": "20:18:16"}
+{"event": "done", "best_val_micro": 48.04, "reference_val_micro": 46.76, "time": "20:18:16"}

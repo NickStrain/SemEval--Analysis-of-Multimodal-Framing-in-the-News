@@ -1,0 +1,4 @@
+0	36	
+40	605	Legality_Constitutionality_and_jurisprudence
+609	1301	Security_and_defense
+1305	1892	Policy_prescription_and_evaluation	Health_and_safety	Quality_of_life

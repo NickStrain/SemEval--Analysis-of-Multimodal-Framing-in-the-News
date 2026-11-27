@@ -1,0 +1,805 @@
+{
+ "table": [
+  {
+   "system": "mcpt + xlmrl + deb_silver_bce [tune en, thr global]",
+   "micro": 41.61530636214409,
+   "std": 1.0442011654666512,
+   "macro": 37.68367077011173,
+   "per_fold": [
+    42.4,
+    39.6,
+    42.4,
+    42.0,
+    41.6
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrl + deb_silver_bce [tune en, thr global]",
+   "micro": 40.055455994949696,
+   "std": 1.6406381305282607,
+   "macro": 36.136796507583504,
+   "per_fold": [
+    41.7,
+    39.7,
+    40.5,
+    41.3,
+    37.1
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrb + xlmrl + deb_silver_bce [tune en, thr global]",
+   "micro": 39.9843381378262,
+   "std": 0.9806704668554153,
+   "macro": 35.880509637696925,
+   "per_fold": [
+    41.5,
+    39.0,
+    39.9,
+    40.6,
+    38.9
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrl + deb_bce [tune en, thr global]",
+   "micro": 39.81258112221205,
+   "std": 0.746155196211516,
+   "macro": 35.34998190276569,
+   "per_fold": [
+    41.0,
+    39.9,
+    38.8,
+    40.1,
+    39.3
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrl + deb_bce + deb_silver_bce [tune en, thr global]",
+   "micro": 39.371104032540885,
+   "std": 0.7331686575917479,
+   "macro": 35.12958304775229,
+   "per_fold": [
+    40.0,
+    38.2,
+    39.7,
+    40.1,
+    38.9
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt + xlmrb + xlmrl [tune en, thr global]",
+   "micro": 39.15443279277348,
+   "std": 1.253585596172237,
+   "macro": 35.57299986515908,
+   "per_fold": [
+    39.8,
+    37.9,
+    41.3,
+    38.7,
+    38.1
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrl + deb_silver_bce [tune en, thr label]",
+   "micro": 39.036363036339154,
+   "std": 2.6936239572814427,
+   "macro": 33.49088113577302,
+   "per_fold": [
+    40.2,
+    33.8,
+    40.9,
+    41.0,
+    39.3
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "mcpt + xlmrl + deb_bce [tune en, thr global]",
+   "micro": 38.99377805411605,
+   "std": 0.744456515226653,
+   "macro": 34.838621343665935,
+   "per_fold": [
+    39.8,
+    37.6,
+    38.8,
+    39.3,
+    39.4
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrl [tune en, thr global]",
+   "micro": 38.96669899862603,
+   "std": 0.8859828297368222,
+   "macro": 35.53230136124044,
+   "per_fold": [
+    40.4,
+    38.0,
+    39.4,
+    38.9,
+    38.2
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt + xlmrl [tune en, thr global]",
+   "micro": 38.926865166906076,
+   "std": 0.8574758733629456,
+   "macro": 35.00373442365435,
+   "per_fold": [
+    39.8,
+    37.4,
+    38.8,
+    39.7,
+    39.0
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt + xlmrl [tune all, thr global]",
+   "micro": 38.84586062809755,
+   "std": 2.9846551555678076,
+   "macro": 33.927850135368914,
+   "per_fold": [
+    39.8,
+    33.0,
+    41.3,
+    39.8,
+    40.4
+   ],
+   "tune": "all",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt + xlmrb + deb_silver_bce [tune en, thr global]",
+   "micro": 38.63535281891781,
+   "std": 2.212787688243222,
+   "macro": 34.43226566184278,
+   "per_fold": [
+    38.4,
+    35.3,
+    42.3,
+    38.3,
+    38.9
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrl [tune en, thr label]",
+   "micro": 38.464025346039236,
+   "std": 2.8801098399083824,
+   "macro": 33.17312622837534,
+   "per_fold": [
+    38.2,
+    33.6,
+    42.3,
+    40.3,
+    37.9
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "xlmrl + deb_bce [tune en, thr label]",
+   "micro": 38.464025346039236,
+   "std": 2.8801098399083824,
+   "macro": 33.17312622837534,
+   "per_fold": [
+    38.2,
+    33.6,
+    42.3,
+    40.3,
+    37.9
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "mcpt + deb_bce + deb_silver_bce [tune en, thr global]",
+   "micro": 38.43810030899474,
+   "std": 2.036527741313613,
+   "macro": 34.017981521948094,
+   "per_fold": [
+    39.7,
+    35.2,
+    40.2,
+    40.2,
+    36.8
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrb + deb_bce [tune en, thr global]",
+   "micro": 38.2533385202229,
+   "std": 2.021353528799772,
+   "macro": 35.2342549621199,
+   "per_fold": [
+    40.5,
+    36.5,
+    40.9,
+    36.7,
+    36.6
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrb + xlmrl [tune en, thr global]",
+   "micro": 38.14629272254993,
+   "std": 3.705871824936921,
+   "macro": 34.41690544654512,
+   "per_fold": [
+    40.7,
+    30.9,
+    41.0,
+    39.4,
+    38.7
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt + xlmrl [tune en, thr label]",
+   "micro": 38.14528211978695,
+   "std": 3.261426135129717,
+   "macro": 33.27101653849589,
+   "per_fold": [
+    39.5,
+    31.8,
+    40.7,
+    40.3,
+    38.5
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "mcpt + deb_silver_bce [tune en, thr global]",
+   "micro": 38.1262468528175,
+   "std": 2.4566353486246975,
+   "macro": 33.47385900505516,
+   "per_fold": [
+    39.0,
+    34.0,
+    40.5,
+    40.3,
+    36.8
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt + xlmrl [tune all, thr label]",
+   "micro": 38.11715157403791,
+   "std": 2.0671517310985577,
+   "macro": 32.70687351149405,
+   "per_fold": [
+    38.7,
+    34.1,
+    38.6,
+    39.9,
+    39.3
+   ],
+   "tune": "all",
+   "dec": "label"
+  },
+  {
+   "system": "xlmrb + deb_bce + deb_silver_bce [tune en, thr global]",
+   "micro": 38.097143441560796,
+   "std": 3.827195709157378,
+   "macro": 33.634842756972915,
+   "per_fold": [
+    39.4,
+    31.3,
+    42.9,
+    39.6,
+    37.3
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt + xlmrb [tune en, thr global]",
+   "micro": 37.93399783554374,
+   "std": 2.2750379985271074,
+   "macro": 34.178952759028014,
+   "per_fold": [
+    39.2,
+    34.3,
+    41.0,
+    38.3,
+    36.8
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrl [tune all, thr global]",
+   "micro": 37.913790644062985,
+   "std": 2.125958305331282,
+   "macro": 33.81838905741337,
+   "per_fold": [
+    41.1,
+    34.5,
+    37.3,
+    38.5,
+    38.3
+   ],
+   "tune": "all",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt + xlmrb + deb_bce [tune en, thr global]",
+   "micro": 37.69254432319676,
+   "std": 2.5160524045779655,
+   "macro": 33.74557249427575,
+   "per_fold": [
+    39.2,
+    34.3,
+    41.4,
+    37.9,
+    35.7
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt + xlmrb + xlmrl [tune all, thr global]",
+   "micro": 37.610266176918586,
+   "std": 3.2159498117424405,
+   "macro": 31.960213412989724,
+   "per_fold": [
+    38.2,
+    31.3,
+    40.3,
+    39.4,
+    38.9
+   ],
+   "tune": "all",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrb + xlmrl [tune en, thr label]",
+   "micro": 37.598624130403515,
+   "std": 3.503696261137862,
+   "macro": 32.947399710233206,
+   "per_fold": [
+    39.4,
+    30.9,
+    40.9,
+    39.1,
+    37.7
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "xlmrb + xlmrl [tune all, thr global]",
+   "micro": 37.59072329056134,
+   "std": 4.015543888114065,
+   "macro": 32.78037996740876,
+   "per_fold": [
+    41.4,
+    29.9,
+    39.6,
+    38.8,
+    38.3
+   ],
+   "tune": "all",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrl [tune all, thr label]",
+   "micro": 37.576627726816554,
+   "std": 2.6687769871153533,
+   "macro": 32.15624137229411,
+   "per_fold": [
+    39.7,
+    32.6,
+    38.6,
+    37.2,
+    39.8
+   ],
+   "tune": "all",
+   "dec": "label"
+  },
+  {
+   "system": "xlmrb + deb_silver_bce [tune en, thr global]",
+   "micro": 37.57372748666627,
+   "std": 2.5114774868868537,
+   "macro": 33.83761106282891,
+   "per_fold": [
+    38.4,
+    33.3,
+    40.6,
+    39.1,
+    36.4
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrb + xlmrl + deb_bce [tune en, thr global]",
+   "micro": 37.553995535581215,
+   "std": 3.2757742840261708,
+   "macro": 33.14503706058714,
+   "per_fold": [
+    40.3,
+    31.1,
+    38.8,
+    38.5,
+    39.1
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt + xlmrb [tune en, thr label]",
+   "micro": 37.51665236296225,
+   "std": 4.13295776114858,
+   "macro": 31.130836471849634,
+   "per_fold": [
+    38.5,
+    31.6,
+    44.3,
+    35.9,
+    37.3
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "mcpt + xlmrb [tune all, thr label]",
+   "micro": 37.48121085502704,
+   "std": 3.082130655375517,
+   "macro": 29.89809018876733,
+   "per_fold": [
+    40.1,
+    31.5,
+    39.1,
+    37.9,
+    38.8
+   ],
+   "tune": "all",
+   "dec": "label"
+  },
+  {
+   "system": "mcpt + deb_silver_bce [tune en, thr label]",
+   "micro": 37.40681311192758,
+   "std": 2.537060057068602,
+   "macro": 32.539578498139285,
+   "per_fold": [
+    36.8,
+    33.0,
+    38.7,
+    40.7,
+    37.7
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "xlmrb + xlmrl [tune all, thr label]",
+   "micro": 37.13013045917138,
+   "std": 3.4431831749661974,
+   "macro": 32.138948466493304,
+   "per_fold": [
+    39.3,
+    30.6,
+    40.5,
+    37.0,
+    38.2
+   ],
+   "tune": "all",
+   "dec": "label"
+  },
+  {
+   "system": "mcpt + xlmrb [tune all, thr global]",
+   "micro": 37.00726205494405,
+   "std": 3.0012768740506575,
+   "macro": 30.57685098552918,
+   "per_fold": [
+    37.8,
+    31.4,
+    40.3,
+    37.1,
+    38.5
+   ],
+   "tune": "all",
+   "dec": "global"
+  },
+  {
+   "system": "deb_silver_bce [tune en, thr global]",
+   "micro": 37.00549739305326,
+   "std": 2.9884876631709103,
+   "macro": 33.867792349618306,
+   "per_fold": [
+    36.6,
+    32.9,
+    40.0,
+    40.7,
+    34.8
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "deb_bce + deb_silver_bce [tune en, thr global]",
+   "micro": 36.971808057593755,
+   "std": 3.2733660076892157,
+   "macro": 33.635242564091364,
+   "per_fold": [
+    36.4,
+    32.3,
+    40.2,
+    41.0,
+    34.9
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt [tune all, thr global]",
+   "micro": 36.63820228680223,
+   "std": 2.096252791593496,
+   "macro": 30.62429932052983,
+   "per_fold": [
+    36.2,
+    33.5,
+    39.4,
+    38.5,
+    35.5
+   ],
+   "tune": "all",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt [tune all, thr label]",
+   "micro": 36.41014759552203,
+   "std": 2.3625106970878194,
+   "macro": 28.754403672975855,
+   "per_fold": [
+    37.7,
+    31.7,
+    38.1,
+    37.0,
+    37.6
+   ],
+   "tune": "all",
+   "dec": "label"
+  },
+  {
+   "system": "xlmrb [tune all, thr global]",
+   "micro": 36.360538715481624,
+   "std": 4.289122656108275,
+   "macro": 30.655223679835053,
+   "per_fold": [
+    38.1,
+    27.9,
+    39.8,
+    37.5,
+    38.4
+   ],
+   "tune": "all",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt + deb_bce [tune en, thr global]",
+   "micro": 36.25477196502554,
+   "std": 2.249755879433209,
+   "macro": 30.905358135041777,
+   "per_fold": [
+    38.0,
+    32.6,
+    39.1,
+    36.3,
+    35.3
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "mcpt [tune en, thr global]",
+   "micro": 35.6644090211681,
+   "std": 1.3162864980971798,
+   "macro": 30.915339912085603,
+   "per_fold": [
+    36.5,
+    33.4,
+    37.3,
+    35.9,
+    35.2
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "xlmrb [tune all, thr label]",
+   "micro": 35.59504650517031,
+   "std": 4.133133334888332,
+   "macro": 28.50177828197859,
+   "per_fold": [
+    37.6,
+    28.2,
+    40.5,
+    34.7,
+    37.0
+   ],
+   "tune": "all",
+   "dec": "label"
+  },
+  {
+   "system": "mcpt [tune en, thr label]",
+   "micro": 35.44419083922426,
+   "std": 1.8980394480545795,
+   "macro": 28.11081027776042,
+   "per_fold": [
+    37.3,
+    32.5,
+    37.5,
+    34.1,
+    35.8
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "deb_bce + deb_silver_bce [tune en, thr label]",
+   "micro": 35.421071157623906,
+   "std": 2.754850903999106,
+   "macro": 30.35257108305306,
+   "per_fold": [
+    34.3,
+    31.0,
+    38.4,
+    38.4,
+    35.0
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "xlmrb + deb_bce [tune en, thr label]",
+   "micro": 35.392560975783304,
+   "std": 4.282089244525574,
+   "macro": 28.77048732452779,
+   "per_fold": [
+    37.3,
+    27.7,
+    40.5,
+    36.7,
+    34.7
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "xlmrb [tune en, thr label]",
+   "micro": 35.34756353550636,
+   "std": 3.937486093256309,
+   "macro": 28.318506310341906,
+   "per_fold": [
+    37.4,
+    28.5,
+    40.1,
+    36.6,
+    34.2
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "mcpt + deb_bce [tune en, thr label]",
+   "micro": 35.28973491862665,
+   "std": 1.769185739898986,
+   "macro": 27.90278437550314,
+   "per_fold": [
+    36.5,
+    32.5,
+    37.5,
+    34.1,
+    35.8
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "xlmrb + deb_silver_bce [tune en, thr label]",
+   "micro": 35.17738419597355,
+   "std": 3.3861261578740733,
+   "macro": 30.84468519875515,
+   "per_fold": [
+    33.4,
+    30.3,
+    40.2,
+    37.3,
+    34.7
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "xlmrb [tune en, thr global]",
+   "micro": 35.025865454156396,
+   "std": 3.4336230647174575,
+   "macro": 31.0060729120882,
+   "per_fold": [
+    38.0,
+    29.3,
+    38.5,
+    36.2,
+    33.1
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "deb_silver_bce [tune en, thr label]",
+   "micro": 34.46700314163295,
+   "std": 3.0126137616053423,
+   "macro": 28.133117297640027,
+   "per_fold": [
+    33.2,
+    30.7,
+    36.8,
+    39.0,
+    32.7
+   ],
+   "tune": "en",
+   "dec": "label"
+  },
+  {
+   "system": "deb_bce [tune en, thr global]",
+   "micro": 26.98404422654862,
+   "std": 2.6515546758617456,
+   "macro": 15.53135675955308,
+   "per_fold": [
+    29.3,
+    24.8,
+    28.7,
+    22.9,
+    29.2
+   ],
+   "tune": "en",
+   "dec": "global"
+  },
+  {
+   "system": "deb_bce [tune en, thr label]",
+   "micro": 23.43779018390569,
+   "std": 3.1377827579085187,
+   "macro": 12.211598331289979,
+   "per_fold": [
+    26.5,
+    23.0,
+    21.6,
+    18.8,
+    27.3
+   ],
+   "tune": "en",
+   "dec": "label"
+  }
+ ],
+ "stacker": {
+  "over": "mcpt + xlmrl + deb_silver_bce [tune en, thr global]",
+  "micro": 37.55995147076332,
+  "std": 3.173826867093046,
+  "macro": 31.520847022134298
+ }
+}

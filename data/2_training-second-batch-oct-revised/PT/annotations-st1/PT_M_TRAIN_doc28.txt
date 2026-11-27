@@ -1,0 +1,18 @@
+0	68	Capacity_and_resources	Political
+71	296	Capacity_and_resources	Political
+298	488	
+490	727	Capacity_and_resources
+729	889	Capacity_and_resources
+891	1034	
+1036	1189	Political
+1191	1379	Legality_Constitutionality_and_jurisprudence	Capacity_and_resources	Public_opinion	Fairness_and_equality
+1381	1548	Capacity_and_resources	Fairness_and_equality
+1550	1692	Political	Public_opinion
+1694	1854	Political	Fairness_and_equality
+1856	1980	Policy_prescription_and_evaluation	Capacity_and_resources	Fairness_and_equality
+1982	2227	Capacity_and_resources	Political
+2229	2416	Capacity_and_resources
+2418	2495	
+2497	2669	
+2671	2778	Political
+2780	3171	Political

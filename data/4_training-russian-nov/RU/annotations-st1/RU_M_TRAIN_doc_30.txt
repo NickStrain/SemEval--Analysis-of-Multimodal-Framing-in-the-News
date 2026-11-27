@@ -1,0 +1,4 @@
+0	64	Security_and_defense	Crime_and_punishment
+67	191	Security_and_defense	Crime_and_punishment
+193	546	Security_and_defense	Crime_and_punishment
+548	760	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment

@@ -1,0 +1,240 @@
+PT_M_DEV_doc27.txt	0	74	Economic	Capacity_and_resources
+PT_M_DEV_doc27.txt	80	303	Economic	Public_opinion
+PT_M_DEV_doc27.txt	307	627	Public_opinion
+PT_M_DEV_doc27.txt	631	1002	
+PT_M_DEV_doc27.txt	1006	1218	
+PT_M_DEV_doc27.txt	1222	1404	Economic	Public_opinion
+PT_M_DEV_doc52.txt	0	75	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc52.txt	78	196	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc52.txt	198	455	Capacity_and_resources	Political
+PT_M_DEV_doc52.txt	457	704	Capacity_and_resources	Political
+PT_M_DEV_doc52.txt	706	911	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc52.txt	913	1200	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc52.txt	1202	1429	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc52.txt	1431	1550	Policy_prescription_and_evaluation
+PT_M_DEV_doc52.txt	1552	1756	Capacity_and_resources
+PT_M_DEV_doc52.txt	1758	1871	
+PT_M_DEV_doc52.txt	1873	2125	Policy_prescription_and_evaluation	Political
+PT_M_DEV_doc52.txt	2127	2269	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc52.txt	2271	2626	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc40.txt	0	51	Capacity_and_resources
+PT_M_DEV_doc40.txt	57	287	Capacity_and_resources
+PT_M_DEV_doc40.txt	291	490	Capacity_and_resources
+PT_M_DEV_doc40.txt	494	759	Economic	Capacity_and_resources
+PT_M_DEV_doc40.txt	763	949	Capacity_and_resources
+PT_M_DEV_doc40.txt	953	1503	
+PT_M_DEV_doc18.txt	0	52	Policy_prescription_and_evaluation
+PT_M_DEV_doc18.txt	58	293	Capacity_and_resources
+PT_M_DEV_doc18.txt	297	805	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc18.txt	809	1072	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+PT_M_DEV_doc18.txt	1076	1406	Policy_prescription_and_evaluation
+PT_M_DEV_doc18.txt	1410	1668	Policy_prescription_and_evaluation
+PT_M_DEV_doc18.txt	1672	1955	External_regulation_and_reputation
+PT_M_DEV_doc18.txt	1959	2306	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc18.txt	2310	2659	Capacity_and_resources
+PT_M_DEV_doc18.txt	2663	3062	Capacity_and_resources
+PT_M_DEV_doc18.txt	3066	3253	Policy_prescription_and_evaluation
+PT_M_DEV_doc18.txt	3257	3461	Policy_prescription_and_evaluation	Morality
+PT_M_DEV_doc18.txt	3465	3687	Policy_prescription_and_evaluation	Economic
+PT_M_DEV_doc18.txt	3691	3894	Economic	Capacity_and_resources
+PT_M_DEV_doc18.txt	3898	4054	Policy_prescription_and_evaluation	Health_and_safety
+PT_M_DEV_doc18.txt	4058	4390	Policy_prescription_and_evaluation	Economic
+PT_M_DEV_doc44.txt	0	88	Security_and_defense
+PT_M_DEV_doc44.txt	91	443	Morality	Health_and_safety
+PT_M_DEV_doc44.txt	445	818	Capacity_and_resources	Security_and_defense
+PT_M_DEV_doc44.txt	820	1059	
+PT_M_DEV_doc44.txt	1061	1597	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc44.txt	1599	2244	Morality	Health_and_safety	Capacity_and_resources	Public_opinion
+PT_M_DEV_doc44.txt	2246	2561	Policy_prescription_and_evaluation	Morality	Capacity_and_resources
+PT_M_DEV_doc44.txt	2563	2781	Capacity_and_resources
+PT_M_DEV_doc3.txt	0	73	Policy_prescription_and_evaluation	Security_and_defense
+PT_M_DEV_doc3.txt	76	148	
+PT_M_DEV_doc3.txt	150	383	Public_opinion	Crime_and_punishment
+PT_M_DEV_doc3.txt	385	601	Policy_prescription_and_evaluation	Crime_and_punishment
+PT_M_DEV_doc3.txt	603	726	Crime_and_punishment
+PT_M_DEV_doc3.txt	728	799	
+PT_M_DEV_doc3.txt	801	944	Crime_and_punishment
+PT_M_DEV_doc3.txt	946	1128	Public_opinion	Crime_and_punishment
+PT_M_DEV_doc28.txt	0	72	Public_opinion
+PT_M_DEV_doc28.txt	78	304	Public_opinion
+PT_M_DEV_doc28.txt	308	479	Public_opinion
+PT_M_DEV_doc28.txt	483	627	Public_opinion
+PT_M_DEV_doc28.txt	631	879	
+PT_M_DEV_doc28.txt	883	1186	
+PT_M_DEV_doc28.txt	1190	1296	Public_opinion
+PT_M_DEV_doc28.txt	1300	1384	
+PT_M_DEV_doc32.txt	0	72	Economic	Capacity_and_resources
+PT_M_DEV_doc32.txt	78	289	Economic	Capacity_and_resources
+PT_M_DEV_doc32.txt	293	623	Economic	Capacity_and_resources
+PT_M_DEV_doc32.txt	627	971	Economic	Capacity_and_resources
+PT_M_DEV_doc32.txt	975	1327	Economic	Capacity_and_resources
+PT_M_DEV_doc32.txt	1331	1618	Economic	Capacity_and_resources
+PT_M_DEV_doc15.txt	0	79	Economic	Capacity_and_resources
+PT_M_DEV_doc15.txt	85	306	Economic	Capacity_and_resources
+PT_M_DEV_doc15.txt	310	732	Economic	Capacity_and_resources
+PT_M_DEV_doc15.txt	736	998	Capacity_and_resources
+PT_M_DEV_doc15.txt	1002	1116	Policy_prescription_and_evaluation
+PT_M_DEV_doc15.txt	1120	1366	Economic	Capacity_and_resources
+PT_M_DEV_doc15.txt	1370	1653	Policy_prescription_and_evaluation	Economic
+PT_M_DEV_doc15.txt	1657	1942	Capacity_and_resources	Quality_of_life
+PT_M_DEV_doc15.txt	1946	2095	
+PT_M_DEV_doc15.txt	2099	2374	Capacity_and_resources	Political
+PT_M_DEV_doc15.txt	2378	2493	
+PT_M_DEV_doc15.txt	2497	2672	Economic	Capacity_and_resources
+PT_M_DEV_doc15.txt	2676	2776	Capacity_and_resources
+PT_M_DEV_doc15.txt	2780	2949	Political
+PT_M_DEV_doc45.txt	0	72	Policy_prescription_and_evaluation
+PT_M_DEV_doc45.txt	75	209	
+PT_M_DEV_doc45.txt	211	484	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+PT_M_DEV_doc45.txt	486	777	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc45.txt	779	943	Capacity_and_resources
+PT_M_DEV_doc45.txt	945	1192	
+PT_M_DEV_doc45.txt	1194	1568	Policy_prescription_and_evaluation	Security_and_defense	Political
+PT_M_DEV_doc45.txt	1570	1764	Security_and_defense	Political
+PT_M_DEV_doc45.txt	1766	2033	Capacity_and_resources	Security_and_defense
+PT_M_DEV_doc58.txt	0	91	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+PT_M_DEV_doc58.txt	94	269	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+PT_M_DEV_doc58.txt	271	549	Legality_Constitutionality_and_jurisprudence	Political
+PT_M_DEV_doc58.txt	551	771	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+PT_M_DEV_doc58.txt	773	1265	Policy_prescription_and_evaluation	Health_and_safety
+PT_M_DEV_doc58.txt	1267	1612	Policy_prescription_and_evaluation	Health_and_safety
+PT_M_DEV_doc58.txt	1614	1873	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+PT_M_DEV_doc58.txt	1875	2119	Policy_prescription_and_evaluation	Health_and_safety
+PT_M_DEV_doc58.txt	2121	2414	Policy_prescription_and_evaluation	Health_and_safety
+PT_M_DEV_doc58.txt	2416	2711	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+PT_M_DEV_doc59.txt	0	87	Health_and_safety	Capacity_and_resources
+PT_M_DEV_doc59.txt	90	579	Policy_prescription_and_evaluation	Health_and_safety
+PT_M_DEV_doc59.txt	581	957	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Health_and_safety	Capacity_and_resources
+PT_M_DEV_doc59.txt	959	1272	Capacity_and_resources	Political
+PT_M_DEV_doc59.txt	1274	1646	Policy_prescription_and_evaluation	Capacity_and_resources	Health_and_safety	Political
+PT_M_DEV_doc59.txt	1649	1719	
+PT_M_DEV_doc59.txt	1722	1902	Health_and_safety	Capacity_and_resources
+PT_M_DEV_doc59.txt	1904	2284	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+PT_M_DEV_doc59.txt	2286	2514	Health_and_safety	Capacity_and_resources
+PT_M_DEV_doc59.txt	2516	2673	Health_and_safety
+PT_M_DEV_doc59.txt	2676	2714	
+PT_M_DEV_doc59.txt	2717	2857	Legality_Constitutionality_and_jurisprudence	Capacity_and_resources
+PT_M_DEV_doc59.txt	2859	3142	Legality_Constitutionality_and_jurisprudence	Capacity_and_resources
+PT_M_DEV_doc59.txt	3144	3283	Legality_Constitutionality_and_jurisprudence	Capacity_and_resources
+PT_M_DEV_doc59.txt	3285	3580	Legality_Constitutionality_and_jurisprudence	Economic	Capacity_and_resources	Quality_of_life
+PT_M_DEV_doc59.txt	3582	3972	Legality_Constitutionality_and_jurisprudence	Economic	Capacity_and_resources
+PT_M_DEV_doc59.txt	3974	4147	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+PT_M_DEV_doc59.txt	4149	4454	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc16.txt	0	74	Capacity_and_resources
+PT_M_DEV_doc16.txt	80	226	Capacity_and_resources
+PT_M_DEV_doc16.txt	230	578	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc16.txt	582	710	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc16.txt	714	1007	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc16.txt	1011	1245	Policy_prescription_and_evaluation	Capacity_and_resources
+PT_M_DEV_doc16.txt	1249	1601	Policy_prescription_and_evaluation
+PT_M_DEV_doc16.txt	1605	1794	Policy_prescription_and_evaluation
+PT_M_DEV_doc16.txt	1798	1932	Capacity_and_resources
+PT_M_DEV_doc16.txt	1936	2362	Capacity_and_resources
+PT_M_DEV_doc16.txt	2366	2472	
+PT_M_DEV_doc16.txt	2476	2732	Policy_prescription_and_evaluation
+PT_M_DEV_doc16.txt	2736	2932	Policy_prescription_and_evaluation
+PT_M_DEV_doc16.txt	2936	3105	Policy_prescription_and_evaluation
+PT_M_DEV_doc16.txt	3109	3390	
+PT_M_DEV_doc29.txt	0	103	Economic
+PT_M_DEV_doc29.txt	109	523	Economic
+PT_M_DEV_doc29.txt	527	717	Economic
+PT_M_DEV_doc29.txt	721	1109	Economic
+PT_M_DEV_doc29.txt	1113	1386	Economic
+PT_M_DEV_doc29.txt	1390	1693	Economic
+PT_M_DEV_doc29.txt	1697	2193	Morality
+PT_M_DEV_doc29.txt	2197	2450	Morality
+PT_M_DEV_doc63.txt	0	71	Health_and_safety	Quality_of_life
+PT_M_DEV_doc63.txt	74	650	Legality_Constitutionality_and_jurisprudence	Economic
+PT_M_DEV_doc63.txt	652	1070	Economic	Health_and_safety	Public_opinion
+PT_M_DEV_doc63.txt	1072	1547	Health_and_safety	Capacity_and_resources
+PT_M_DEV_doc63.txt	1549	1970	Economic	Health_and_safety	Quality_of_life
+PT_M_DEV_doc63.txt	1972	2524	Economic	Capacity_and_resources	Public_opinion
+PT_M_DEV_doc63.txt	2526	3214	Economic	Capacity_and_resources	Fairness_and_equality
+PT_M_DEV_doc63.txt	3216	3841	Legality_Constitutionality_and_jurisprudence
+PT_M_DEV_doc63.txt	3843	4253	Legality_Constitutionality_and_jurisprudence
+PT_M_DEV_doc63.txt	4256	4294	
+PT_M_DEV_doc63.txt	4297	4908	Legality_Constitutionality_and_jurisprudence	Economic
+PT_M_DEV_doc63.txt	4910	4995	Legality_Constitutionality_and_jurisprudence	Economic
+PT_M_DEV_doc63.txt	4997	5264	Legality_Constitutionality_and_jurisprudence	Quality_of_life
+PT_M_DEV_doc63.txt	5266	5450	Legality_Constitutionality_and_jurisprudence
+PT_M_DEV_doc63.txt	5452	6079	Health_and_safety	Capacity_and_resources
+PT_M_DEV_doc63.txt	6081	6302	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+PT_M_DEV_doc63.txt	6304	6777	Policy_prescription_and_evaluation	Health_and_safety
+PT_M_DEV_doc63.txt	6779	7109	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+PT_M_DEV_doc63.txt	7111	7439	Legality_Constitutionality_and_jurisprudence
+PT_M_DEV_doc63.txt	7441	7772	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+PT_M_DEV_doc63.txt	7774	8135	Health_and_safety	Capacity_and_resources
+PT_M_DEV_doc63.txt	8137	8556	Economic	Capacity_and_resources
+PT_M_DEV_doc63.txt	8558	8619	
+PT_M_DEV_doc63.txt	8621	8915	Economic	Public_opinion
+PT_M_DEV_doc63.txt	8917	9124	Economic	Quality_of_life
+PT_M_DEV_doc63.txt	9126	9544	Economic	Health_and_safety	Fairness_and_equality
+PT_M_DEV_doc63.txt	9546	10043	Legality_Constitutionality_and_jurisprudence	Health_and_safety
+PT_M_DEV_doc63.txt	10045	10837	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Economic	Morality	Health_and_safety
+PT_M_DEV_doc63.txt	10839	10890	
+PT_M_DEV_doc51.txt	0	74	
+PT_M_DEV_doc51.txt	77	266	Morality
+PT_M_DEV_doc51.txt	268	447	
+PT_M_DEV_doc51.txt	449	630	Morality
+PT_M_DEV_doc51.txt	632	844	
+PT_M_DEV_doc51.txt	846	972	Public_opinion
+PT_M_DEV_doc51.txt	974	1177	
+PT_M_DEV_doc51.txt	1179	1319	Quality_of_life
+PT_M_DEV_doc51.txt	1321	1483	
+PT_M_DEV_doc51.txt	1485	1674	
+PT_M_DEV_doc51.txt	1677	1751	Morality	Public_opinion
+PT_M_DEV_doc51.txt	1754	2000	Quality_of_life
+PT_M_DEV_doc51.txt	2002	2154	Public_opinion
+PT_M_DEV_doc51.txt	2156	2480	Public_opinion
+PT_M_DEV_doc51.txt	2482	3002	Public_opinion
+PT_M_DEV_doc51.txt	3004	3258	Public_opinion
+PT_M_DEV_doc51.txt	3261	3278	
+PT_M_DEV_doc51.txt	3281	3462	Policy_prescription_and_evaluation
+PT_M_DEV_doc51.txt	3464	3907	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
+PT_M_DEV_doc51.txt	3910	3954	
+PT_M_DEV_doc51.txt	3957	4126	Health_and_safety
+PT_M_DEV_doc51.txt	4128	4299	Health_and_safety	Public_opinion
+PT_M_DEV_doc51.txt	4301	4724	Health_and_safety	Public_opinion
+PT_M_DEV_doc51.txt	4726	4886	Policy_prescription_and_evaluation
+PT_M_DEV_doc51.txt	4888	5105	
+PT_M_DEV_doc33.txt	0	69	Legality_Constitutionality_and_jurisprudence	Economic
+PT_M_DEV_doc33.txt	75	737	Legality_Constitutionality_and_jurisprudence	Capacity_and_resources
+PT_M_DEV_doc33.txt	741	1448	Legality_Constitutionality_and_jurisprudence	Economic	Morality
+PT_M_DEV_doc33.txt	1452	1756	Legality_Constitutionality_and_jurisprudence
+PT_M_DEV_doc33.txt	1760	2182	Legality_Constitutionality_and_jurisprudence	Economic
+PT_M_DEV_doc33.txt	2186	2401	Economic	Crime_and_punishment
+PT_M_DEV_doc33.txt	2405	2659	Legality_Constitutionality_and_jurisprudence
+PT_M_DEV_doc2.txt	0	77	Political	Public_opinion
+PT_M_DEV_doc2.txt	80	296	Political	Public_opinion
+PT_M_DEV_doc2.txt	298	629	Public_opinion
+PT_M_DEV_doc2.txt	631	918	Political
+PT_M_DEV_doc2.txt	920	1132	Political	Public_opinion
+PT_M_DEV_doc2.txt	1134	1463	Public_opinion
+PT_M_DEV_doc2.txt	1465	1706	External_regulation_and_reputation	Public_opinion
+PT_M_DEV_doc2.txt	1708	1894	Political	Public_opinion
+PT_M_DEV_doc2.txt	1896	2140	Political	Public_opinion
+PT_M_DEV_doc2.txt	2142	2466	Political	Public_opinion
+PT_M_DEV_doc2.txt	2468	2728	Political
+PT_M_DEV_doc2.txt	2730	2918	Political	Public_opinion
+PT_M_DEV_doc20.txt	0	89	Health_and_safety	Capacity_and_resources
+PT_M_DEV_doc20.txt	95	412	Health_and_safety	Capacity_and_resources
+PT_M_DEV_doc20.txt	416	691	Health_and_safety	Capacity_and_resources
+PT_M_DEV_doc20.txt	695	995	Health_and_safety	Capacity_and_resources
+PT_M_DEV_doc20.txt	999	1243	Health_and_safety
+PT_M_DEV_doc20.txt	1247	1480	Health_and_safety
+PT_M_DEV_doc20.txt	1484	1649	Health_and_safety
+PT_M_DEV_doc20.txt	1653	1914	Health_and_safety
+PT_M_DEV_doc20.txt	1918	2188	Economic	Capacity_and_resources
+PT_M_DEV_doc20.txt	2192	2581	Health_and_safety
+PT_M_DEV_doc20.txt	2585	3020	Health_and_safety
+PT_M_DEV_doc46.txt	0	100	Capacity_and_resources
+PT_M_DEV_doc46.txt	103	365	Capacity_and_resources
+PT_M_DEV_doc46.txt	367	544	Capacity_and_resources
+PT_M_DEV_doc46.txt	546	763	Morality
+PT_M_DEV_doc46.txt	765	952	Capacity_and_resources
+PT_M_DEV_doc46.txt	955	1012	
+PT_M_DEV_doc46.txt	1015	1110	
+PT_M_DEV_doc46.txt	1112	1302	
+PT_M_DEV_doc46.txt	1304	1410	
+PT_M_DEV_doc46.txt	1412	1587	Capacity_and_resources
+PT_M_DEV_doc46.txt	1589	1771	

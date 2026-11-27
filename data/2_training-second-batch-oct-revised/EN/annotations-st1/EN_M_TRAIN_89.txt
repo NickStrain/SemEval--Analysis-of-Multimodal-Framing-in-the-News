@@ -1,0 +1,9 @@
+0	46	Security_and_defense
+50	526	Quality_of_life	Security_and_defense
+530	719	Security_and_defense
+723	1007	
+1011	1312	Cultural_identity	Security_and_defense
+1316	1590	Security_and_defense
+1594	2023	Security_and_defense
+2027	2365	Quality_of_life
+2369	2732	Morality	Cultural_identity	Security_and_defense

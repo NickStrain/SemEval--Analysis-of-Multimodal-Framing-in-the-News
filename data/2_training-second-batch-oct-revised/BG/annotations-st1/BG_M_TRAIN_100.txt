@@ -1,0 +1,6 @@
+0	71	
+75	303	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
+307	579	Health_and_safety
+583	992	Crime_and_punishment
+996	1613	Health_and_safety	Crime_and_punishment
+1617	1805	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment

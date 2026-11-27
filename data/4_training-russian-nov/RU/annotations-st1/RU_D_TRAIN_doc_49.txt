@@ -1,0 +1,5 @@
+0	79	Policy_prescription_and_evaluation	Crime_and_punishment
+82	303	Policy_prescription_and_evaluation	Crime_and_punishment
+305	588	Policy_prescription_and_evaluation	Crime_and_punishment
+590	1057	Security_and_defense
+1059	1389	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Economic	Quality_of_life	Political
