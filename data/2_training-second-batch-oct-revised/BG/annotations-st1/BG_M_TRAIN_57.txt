@@ -1,6 +1,0 @@
-0	64	
-68	631	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
-635	994	Legality_Constitutionality_and_jurisprudence	Political	Crime_and_punishment
-998	1748	Legality_Constitutionality_and_jurisprudence
-1752	2086	Security_and_defense
-2090	2526	Legality_Constitutionality_and_jurisprudence

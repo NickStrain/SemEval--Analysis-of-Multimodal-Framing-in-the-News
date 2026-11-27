@@ -30,3 +30,5 @@ time,step,model,config,cv_micro,cv_micro_std,cv_macro,dev_micro
 2026-11-26 20:20,dev,ft3_blend3_matched,"45.07 recipe with ft1 best_e3 instead of user model (Codabench dev)",,,,44.37
 2026-11-26 20:20,dev,ft3_blend60_40,"0.6 ft1 best_e3 + 0.4 silver DeBERTa (Codabench dev)",,,,43.07
 2026-11-26 20:22,10,title rule on mCPT+XLM-R L+silver DeBERTa,"titles need 3x threshold, multiplier nested EN",42.63,1.39,,
+2026-11-26 20:24,dev,best45_titlerule3x,"45.07 blend + title rule (titles need 3x threshold) (Codabench dev)",,,,46.90
+2026-11-26 20:23,dev,best45_titles_none,"45.07 blend + every title None (Codabench dev)",,,,46.59

@@ -1,5 +1,0 @@
-0	65	
-69	442	Morality	External_regulation_and_reputation	Political
-446	800	Morality	Quality_of_life	Security_and_defense
-804	1247	Capacity_and_resources	Quality_of_life
-1251	1740	Morality	Security_and_defense

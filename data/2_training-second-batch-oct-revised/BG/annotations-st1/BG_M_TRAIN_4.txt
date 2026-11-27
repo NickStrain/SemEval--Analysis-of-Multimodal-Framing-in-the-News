@@ -1,6 +1,0 @@
-0	108	Economic
-112	925	Economic
-929	1226	Capacity_and_resources
-1230	1855	Capacity_and_resources
-1859	2684	
-2688	3118	Economic

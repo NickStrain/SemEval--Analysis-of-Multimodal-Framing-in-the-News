@@ -1,6 +1,0 @@
-0	71	Political
-75	434	Political
-438	732	
-736	1102	External_regulation_and_reputation	Political
-1106	1346	Political
-1350	1665	Economic	Political

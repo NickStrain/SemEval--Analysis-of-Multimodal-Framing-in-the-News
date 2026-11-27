@@ -1,6 +1,0 @@
-0	67	
-71	1052	External_regulation_and_reputation
-1056	1790	Security_and_defense
-1794	2508	Security_and_defense
-2512	3234	
-3238	3503	Crime_and_punishment

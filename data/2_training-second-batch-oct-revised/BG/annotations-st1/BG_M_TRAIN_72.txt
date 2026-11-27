@@ -1,9 +1,0 @@
-0	60	
-64	478	Morality	Crime_and_punishment
-482	1130	Crime_and_punishment
-1134	1636	Crime_and_punishment
-1640	2277	Legality_Constitutionality_and_jurisprudence
-2281	2611	Policy_prescription_and_evaluation
-2615	3016	Crime_and_punishment
-3020	3200	
-3204	3353	

@@ -1,8 +1,0 @@
-0	46	
-50	928	Capacity_and_resources	Security_and_defense
-932	1149	
-1153	1515	Economic	Capacity_and_resources
-1519	1853	
-1857	2183	Capacity_and_resources
-2187	2501	Capacity_and_resources	Security_and_defense
-2505	2885	Quality_of_life	Security_and_defense

@@ -1,8 +1,0 @@
-0	71	
-75	722	Legality_Constitutionality_and_jurisprudence	Morality	Political
-726	983	Legality_Constitutionality_and_jurisprudence	Morality
-987	1367	Legality_Constitutionality_and_jurisprudence	Political
-1371	1949	
-1953	2576	Legality_Constitutionality_and_jurisprudence	Political
-2580	3088	Legality_Constitutionality_and_jurisprudence	Political
-3092	3384	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation

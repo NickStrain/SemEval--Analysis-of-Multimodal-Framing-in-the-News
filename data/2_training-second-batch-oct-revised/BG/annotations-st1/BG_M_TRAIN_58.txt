@@ -1,9 +1,0 @@
-0	99	
-103	266	Policy_prescription_and_evaluation	Political
-270	642	Crime_and_punishment
-646	900	Security_and_defense
-904	1158	Policy_prescription_and_evaluation
-1162	1518	
-1522	1857	Policy_prescription_and_evaluation	Security_and_defense
-1861	2127	Security_and_defense	Political	Crime_and_punishment
-2131	2533	Policy_prescription_and_evaluation	Security_and_defense	Political

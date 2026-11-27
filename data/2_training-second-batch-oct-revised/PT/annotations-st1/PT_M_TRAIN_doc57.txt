@@ -1,8 +1,0 @@
-0	83	Security_and_defense	Political
-86	404	Security_and_defense	Crime_and_punishment
-406	833	Political	Fairness_and_equality	Crime_and_punishment
-835	1298	Morality	Cultural_identity	Political	Fairness_and_equality	Crime_and_punishment
-1300	1691	Quality_of_life	Security_and_defense	Crime_and_punishment
-1693	2140	Security_and_defense	Political	Crime_and_punishment
-2142	2520	Security_and_defense	Political	Fairness_and_equality
-2522	2849	Quality_of_life	Security_and_defense	Crime_and_punishment

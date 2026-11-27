@@ -1,6 +1,0 @@
-0	74	
-78	599	Policy_prescription_and_evaluation	Capacity_and_resources	Security_and_defense	Political
-603	850	Capacity_and_resources	Security_and_defense
-854	1505	Policy_prescription_and_evaluation	Economic	Capacity_and_resources	Political	Security_and_defense	Crime_and_punishment
-1509	1729	Policy_prescription_and_evaluation	Security_and_defense
-1733	2939	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation	Economic	Political

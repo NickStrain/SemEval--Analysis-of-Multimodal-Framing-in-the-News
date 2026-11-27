@@ -1,6 +1,0 @@
-0	65	
-69	687	Policy_prescription_and_evaluation
-691	1406	Policy_prescription_and_evaluation	Security_and_defense
-1410	2074	Policy_prescription_and_evaluation	Security_and_defense
-2078	2675	
-2679	3253	Economic

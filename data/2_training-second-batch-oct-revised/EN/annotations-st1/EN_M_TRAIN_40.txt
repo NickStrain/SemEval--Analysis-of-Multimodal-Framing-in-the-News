@@ -1,8 +1,0 @@
-0	51	Security_and_defense
-55	419	Policy_prescription_and_evaluation	Security_and_defense	Crime_and_punishment
-423	713	Policy_prescription_and_evaluation	Security_and_defense	Crime_and_punishment
-717	1104	Security_and_defense
-1108	1485	Economic
-1489	1752	Economic
-1756	2046	Health_and_safety	Security_and_defense
-2050	2437	Economic	Security_and_defense

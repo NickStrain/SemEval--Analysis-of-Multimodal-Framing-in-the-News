@@ -1,9 +1,0 @@
-0	54	
-58	489	Quality_of_life
-493	787	Health_and_safety	Quality_of_life
-791	1043	
-1047	1138	
-1142	1378	Quality_of_life
-1382	1682	Quality_of_life	Security_and_defense
-1686	2084	Health_and_safety
-2088	2629	Health_and_safety	Quality_of_life

@@ -1,6 +1,0 @@
-0	41	
-45	516	Health_and_safety	Security_and_defense
-520	759	Security_and_defense
-763	1156	Health_and_safety
-1160	1511	
-1515	2072	Morality	Security_and_defense

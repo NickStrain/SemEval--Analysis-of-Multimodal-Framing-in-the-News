@@ -1,4 +1,0 @@
-0	67	
-71	268	Policy_prescription_and_evaluation	Quality_of_life	Political
-272	721	Policy_prescription_and_evaluation	Quality_of_life	Political
-725	1285	Capacity_and_resources	Quality_of_life

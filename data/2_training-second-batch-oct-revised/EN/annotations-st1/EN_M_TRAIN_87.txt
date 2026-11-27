@@ -1,5 +1,0 @@
-0	73	
-77	687	Capacity_and_resources	Quality_of_life
-691	1056	Capacity_and_resources	Health_and_safety
-1060	1440	Health_and_safety	Quality_of_life	Fairness_and_equality
-1444	1903	Quality_of_life

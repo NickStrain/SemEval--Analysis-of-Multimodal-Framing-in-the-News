@@ -1,6 +1,0 @@
-0	51	
-55	441	Cultural_identity	Quality_of_life	Crime_and_punishment
-445	968	Quality_of_life	Security_and_defense
-972	1257	
-1261	1702	Security_and_defense
-1706	2405	External_regulation_and_reputation	Quality_of_life

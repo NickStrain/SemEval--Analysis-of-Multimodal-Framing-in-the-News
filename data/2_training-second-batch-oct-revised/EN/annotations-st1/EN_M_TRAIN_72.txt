@@ -1,8 +1,0 @@
-0	52	
-56	864	Capacity_and_resources	Political	Public_opinion
-868	1084	Public_opinion
-1088	1450	Economic	Capacity_and_resources
-1454	1788	Capacity_and_resources
-1792	2118	Capacity_and_resources
-2122	2436	
-2440	2820	Economic	Capacity_and_resources	Quality_of_life	Security_and_defense

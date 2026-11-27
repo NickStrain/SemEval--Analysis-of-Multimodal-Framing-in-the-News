@@ -1,9 +1,0 @@
-0	58	Political	Crime_and_punishment
-62	665	Crime_and_punishment
-669	1024	Quality_of_life
-1028	1315	Fairness_and_equality
-1319	1632	Fairness_and_equality
-1636	2085	Cultural_identity	Security_and_defense
-2089	2345	
-2349	2611	Legality_Constitutionality_and_jurisprudence	Political	Fairness_and_equality	Crime_and_punishment
-2615	2873	Fairness_and_equality

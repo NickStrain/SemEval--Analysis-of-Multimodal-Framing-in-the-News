@@ -1,8 +1,0 @@
-0	69	
-73	632	
-636	915	
-919	1310	Health_and_safety
-1314	2086	Quality_of_life
-2090	2869	
-2873	3090	Quality_of_life
-3094	3489	

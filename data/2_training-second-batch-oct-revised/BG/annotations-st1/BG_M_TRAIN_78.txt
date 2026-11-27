@@ -1,7 +1,0 @@
-0	68	Cultural_identity
-72	420	Cultural_identity
-424	845	Economic	Morality	Cultural_identity
-849	1236	Public_opinion
-1240	1830	Economic	Morality	Cultural_identity	Public_opinion
-1834	2080	
-2084	2497	Cultural_identity	Political	Public_opinion

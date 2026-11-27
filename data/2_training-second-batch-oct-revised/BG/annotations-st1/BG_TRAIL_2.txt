@@ -1,5 +1,0 @@
-0	60	Political
-66	157	Political	Crime_and_punishment
-163	346	Political
-352	571	
-577	906	Political	Crime_and_punishment

@@ -1,7 +1,0 @@
-0	53	
-57	928	Legality_Constitutionality_and_jurisprudence	Political
-932	1265	
-1269	1585	Legality_Constitutionality_and_jurisprudence	Political
-1589	1799	Political
-1803	2304	Capacity_and_resources	Political
-2308	2842	Capacity_and_resources	Political

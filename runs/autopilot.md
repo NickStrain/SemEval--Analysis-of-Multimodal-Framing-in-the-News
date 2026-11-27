@@ -40,3 +40,4 @@ Status log (append below):
 - 20:19 ft1 (copy of EN_best_model, +translations +2b BG/PT, replay EN): held-out 2b-EN 46.76 -> 48.04 at epoch 3 (saved ckpt/EN_best_model_ft/ft1/best_e3); overfits after. Made ft3 blends.
 - 20:21 Codabench dev: ft3_blend3_matched 44.37 (< 45.07), ft3_blend60_40 43.07 (< 44.54): fine-tuned copy's +1.28 on 2b-EN did NOT transfer. Dropped.
 - 20:22 Title rule (titles need 3x threshold): CV EN 41.62 -> 42.63 (nested, 4/5 folds up), user model on 2b-EN 46.76 -> 48.38. Applied to the 45.07 blend -> best45_titlerule3x / best45_titles_none.
+- 21:04 Codabench dev: title rule on the 45.07 blend -> 46.90 (best); all titles None -> 46.59.

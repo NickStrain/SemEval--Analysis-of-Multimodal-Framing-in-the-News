@@ -1,6 +1,0 @@
-0	52	
-56	462	Policy_prescription_and_evaluation	Security_and_defense
-466	924	
-928	1221	Policy_prescription_and_evaluation	Security_and_defense
-1225	1621	Legality_Constitutionality_and_jurisprudence	Political
-1625	2093	Legality_Constitutionality_and_jurisprudence

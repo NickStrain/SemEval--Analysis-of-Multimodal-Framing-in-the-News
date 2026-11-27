@@ -1,7 +1,0 @@
-0	53	Crime_and_punishment
-59	243	Crime_and_punishment
-249	536	
-542	591	
-597	916	Morality	Crime_and_punishment
-922	986	
-992	1766	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment

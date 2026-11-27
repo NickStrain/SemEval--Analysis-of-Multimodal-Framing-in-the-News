@@ -1,7 +1,0 @@
-0	54	
-58	161	Health_and_safety
-165	425	Policy_prescription_and_evaluation	Health_and_safety
-429	849	
-853	1432	Economic
-1436	1826	Health_and_safety	Fairness_and_equality
-1830	2158	Economic

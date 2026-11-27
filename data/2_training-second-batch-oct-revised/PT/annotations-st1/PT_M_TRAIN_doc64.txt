@@ -1,8 +1,0 @@
-0	73	Policy_prescription_and_evaluation	Economic
-76	217	Economic
-219	324	Economic
-326	632	Policy_prescription_and_evaluation	Economic
-634	965	Policy_prescription_and_evaluation	Economic
-967	1439	Policy_prescription_and_evaluation	Economic
-1441	1549	Policy_prescription_and_evaluation	Economic
-1551	1845	Policy_prescription_and_evaluation	Economic	Capacity_and_resources

@@ -1,8 +1,0 @@
-0	71	
-75	639	Economic	Quality_of_life
-643	960	Economic	Capacity_and_resources
-964	1248	Economic	Health_and_safety	Capacity_and_resources	Quality_of_life
-1252	1634	
-1638	2218	Quality_of_life	Capacity_and_resources
-2222	2544	Economic	Capacity_and_resources
-2548	3139	

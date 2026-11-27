@@ -1,4 +1,0 @@
-0	76	Security_and_defense
-80	515	
-519	942	Policy_prescription_and_evaluation	Security_and_defense
-946	1441	Policy_prescription_and_evaluation	Economic	External_regulation_and_reputation

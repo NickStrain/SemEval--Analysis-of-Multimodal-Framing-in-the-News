@@ -1,9 +1,0 @@
-0	84	Health_and_safety
-87	456	Health_and_safety	Quality_of_life
-458	820	Policy_prescription_and_evaluation	Health_and_safety
-822	1026	Capacity_and_resources	Quality_of_life
-1028	1259	Health_and_safety	Capacity_and_resources
-1261	1491	Health_and_safety	Capacity_and_resources
-1493	1883	Health_and_safety	Capacity_and_resources
-1885	2020	Capacity_and_resources
-2022	2144	Capacity_and_resources	Quality_of_life

@@ -1,8 +1,0 @@
-0	62	Political
-66	719	Political
-723	1030	Political
-1034	1409	Cultural_identity
-1413	2125	
-2129	2664	Morality	Political
-2668	3153	Crime_and_punishment
-3157	3277	

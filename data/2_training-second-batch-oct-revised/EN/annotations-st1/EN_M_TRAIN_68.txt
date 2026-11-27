@@ -1,7 +1,0 @@
-0	101	
-105	555	Security_and_defense
-559	1022	External_regulation_and_reputation	Security_and_defense	Fairness_and_equality
-1026	1275	
-1279	1573	Health_and_safety	Quality_of_life
-1577	2053	Policy_prescription_and_evaluation	Quality_of_life
-2057	2590	Morality	Quality_of_life

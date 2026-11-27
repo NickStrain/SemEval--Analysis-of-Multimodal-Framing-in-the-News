@@ -1,8 +1,0 @@
-0	50	
-54	829	Crime_and_punishment
-833	1328	Crime_and_punishment
-1332	2042	Policy_prescription_and_evaluation	External_regulation_and_reputation
-2046	2314	
-2318	2610	
-2614	2902	
-2906	3301	Policy_prescription_and_evaluation

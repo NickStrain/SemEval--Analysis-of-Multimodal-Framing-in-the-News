@@ -100,8 +100,8 @@ combinations on the same folds → optimistic by roughly 0.5–1.
 |---|---|---|
 | Step 7 LLM teacher pilot (Claude, frame definitions, 260 EN paragraphs) | teacher micro 32.2 / macro 31.2; mCPT on same paragraphs 29.3; best ensemble 38.0 | src/teacher.py |
 | Self-rewriting (gradient-free rank-1 / bias edits of mCPT), 8 sessions | 1 edit accepted on RESERVED (+0.21), then −2.31 on HELDOUT (CI [−4.83, −0.68]) → reverted | sr/report.md |
-| Step 8 article-frame prefix | not completed (job lost when the session ended) | runs/queue3.sh |
-| Second seeds (XLM-R large, silver DeBERTa e8) | not run | runs/queue4.sh |
+| Step 8 article-frame prefix | not completed (job lost when the session ended) | archive/runs/queue3.sh |
+| Second seeds (XLM-R large, silver DeBERTa e8) | not run | archive/runs/queue4.sh |
 
 ---
 
@@ -136,8 +136,8 @@ combinations on the same folds → optimistic by roughly 0.5–1.
 | **444** | **blend3_45_35_20xl_matched** | user 0.45, DeBERTa 0.35, XLM-R L 0.2, thr 1.11 (label rate matched to 60/40) | **45.07** |
 | 450 | ft3_blend3_matched | as 444 with fine-tuned copy (ft1 best_e3) | 44.37 |
 | 449 | ft3_blend60_40 | ft1 best_e3 0.6, DeBERTa 0.4 | 43.07 |
-| pending | best45_titlerule3x | 444 + title rule (3×) | – |
-| pending | best45_titles_none | 444 + every title None | – |
+| **451/453** | **best45_titlerule3x** | 444 + title rule (titles need 3× threshold) | **46.90** |
+| 452 | best45_titles_none | 444 + every title None | 46.59 |
 
 Blend recipe: each model's probabilities are divided by its own global threshold (user model 0.3 from its
 meta.json; DeBERTa 0.19 and XLM-R large 0.17 from our EN CV), weighted average, threshold ≈1.
@@ -191,3 +191,27 @@ Caveat: 12+ dev uploads were compared, so the best dev score is optimistic for t
 
 Hardware: one RTX 4060 8 GB. Typical times: mCPT CV 26–39 min; XLM-R large CV 89 min; DeBERTa CV ~30 min (silver
 init ~45); silver pretraining DeBERTa 99 min, mCPT 5 min; NLLB translation 3.7 min; fine-tune copy 1.5 min/epoch.
+
+---
+
+## 8. mCPT re-implementation notebook (`notebooks/mcpt_semeval2027_task9.ipynb`)
+
+Colab notebook that re-implements mCPT and ran the EN hyperparameter search that produced EN_best_model. Full
+hyperparameters, data table, unit tests and per-language results are in README Section 4. Key numbers
+(cross-fitted micro-F1 on gold 2b dev paragraphs):
+
+| run | BG | EN | PT | RU | pooled |
+|---|---|---|---|---|---|
+| phase 1 (pooled multilingual, contrastive epoch 5) | .515 | .364 | .470 | .535 | .452 |
+| phase 1 final (best epoch) | – | .401 | – | – | .476 |
+| E0 replication (EN few-shot) | | .399 | | | |
+| E1 + all 2027 languages in phase 2 | | .380 | | | |
+| E2 mpnet-base-v2, no phase 1 | | .453 | | | |
+| EN_best_model (best E2 epoch, chosen on the same dev) | | .461 (micro .468) | | | |
+
+Codabench dev for EN_best_model alone: ~41 (selection on the 224 dev paragraphs made .461 optimistic).
+
+## 9. Latest dev results (2026-11-26 20:24)
+
+- best45_titlerule3x (45.07 blend + titles need 3× threshold): **46.90** (IDs 451, 453).
+- best45_titles_none (every title None): 46.59 (ID 452).

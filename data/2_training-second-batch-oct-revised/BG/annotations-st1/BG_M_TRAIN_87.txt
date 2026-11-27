@@ -1,6 +1,0 @@
-0	70	Security_and_defense	Crime_and_punishment
-74	410	Security_and_defense	Crime_and_punishment
-414	678	Security_and_defense	Crime_and_punishment
-682	997	Crime_and_punishment
-1001	1573	Legality_Constitutionality_and_jurisprudence
-1577	2225	Policy_prescription_and_evaluation	Capacity_and_resources	Security_and_defense

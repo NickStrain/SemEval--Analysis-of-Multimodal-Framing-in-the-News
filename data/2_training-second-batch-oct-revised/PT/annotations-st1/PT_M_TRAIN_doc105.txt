@@ -1,7 +1,0 @@
-0	60	Policy_prescription_and_evaluation	Political
-66	329	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
-333	493	Policy_prescription_and_evaluation	Political
-497	752	Legality_Constitutionality_and_jurisprudence	Policy_prescription_and_evaluation
-756	1096	Policy_prescription_and_evaluation	Economic	Political
-1100	1324	Policy_prescription_and_evaluation	Political
-1328	1604	Policy_prescription_and_evaluation	Political

@@ -1,8 +1,0 @@
-0	81	Crime_and_punishment
-84	358	Crime_and_punishment
-360	499	
-501	619	Health_and_safety	Crime_and_punishment
-621	764	Health_and_safety
-766	939	Policy_prescription_and_evaluation	Political
-941	1070	Political	Crime_and_punishment
-1072	1382	Crime_and_punishment

@@ -1,9 +1,0 @@
-0	41	
-45	531	
-535	743	Health_and_safety
-747	1009	Policy_prescription_and_evaluation	Health_and_safety
-1013	1384	Policy_prescription_and_evaluation	Health_and_safety
-1388	2057	Health_and_safety	Security_and_defense
-2061	2367	
-2371	2658	Health_and_safety
-2662	3024	Health_and_safety

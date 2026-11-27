@@ -1,9 +1,0 @@
-0	52	Health_and_safety	Public_opinion
-58	510	Policy_prescription_and_evaluation	Health_and_safety	Public_opinion
-516	819	Health_and_safety	Public_opinion
-825	994	Health_and_safety
-1000	1205	Health_and_safety
-1211	1446	Political
-1452	1559	Policy_prescription_and_evaluation
-1565	1814	Crime_and_punishment
-1820	1968	Public_opinion

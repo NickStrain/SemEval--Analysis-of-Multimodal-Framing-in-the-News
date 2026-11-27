@@ -1,8 +1,0 @@
-0	62	
-66	867	
-871	1107	
-1111	1481	
-1485	1897	Morality	Crime_and_punishment
-1901	2594	
-2598	2915	Morality
-2919	3455	

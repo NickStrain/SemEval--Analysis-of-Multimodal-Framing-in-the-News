@@ -1,6 +1,0 @@
-0	98	Quality_of_life
-102	1163	Quality_of_life	Health_and_safety
-1167	1891	Quality_of_life
-1895	2465	Quality_of_life
-2469	3192	Economic	Quality_of_life	Capacity_and_resources	Security_and_defense
-3196	4097	Capacity_and_resources	Quality_of_life

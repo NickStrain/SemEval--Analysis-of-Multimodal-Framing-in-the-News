@@ -1,7 +1,0 @@
-0	43	
-47	512	Health_and_safety
-516	918	Policy_prescription_and_evaluation
-922	1256	Political
-1260	1601	Policy_prescription_and_evaluation	Political
-1605	2026	Security_and_defense	Political
-2030	2371	

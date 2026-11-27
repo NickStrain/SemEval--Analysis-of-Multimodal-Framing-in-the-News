@@ -1,8 +1,0 @@
-0	64	Capacity_and_resources
-68	534	Capacity_and_resources
-538	722	
-726	1088	Quality_of_life	Capacity_and_resources
-1092	1412	
-1416	1752	Capacity_and_resources
-1756	2275	Capacity_and_resources
-2279	2627	Capacity_and_resources	Quality_of_life

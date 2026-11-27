@@ -1,8 +1,0 @@
-0	45	
-49	757	Economic	Political
-761	1125	Political
-1129	1663	Economic
-1667	2295	Policy_prescription_and_evaluation	Economic	Fairness_and_equality
-2299	2792	Economic
-2796	3211	Political
-3215	3963	Policy_prescription_and_evaluation	External_regulation_and_reputation

@@ -1,7 +1,0 @@
-0	95	Security_and_defense
-99	806	Security_and_defense
-810	1239	Security_and_defense
-1243	1867	Economic	Capacity_and_resources
-1871	2200	Security_and_defense
-2204	2479	Capacity_and_resources
-2483	3127	Security_and_defense

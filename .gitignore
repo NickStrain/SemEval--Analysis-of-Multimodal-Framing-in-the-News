@@ -229,3 +229,12 @@ data-fourth-batch-russian-2026_11_1.zip
 starter-kit-v2.zip
 data/silver/framing_subset.csv
 data/silver/silver_en.parquet
+
+# clean-up archive (not part of the project)
+archive/
+
+# shared-task data is not redistributed; keep only the split definitions
+data/*
+!data/splits.json
+!data/folds.json
+starter-kit/

@@ -1,6 +1,0 @@
-0	79	Legality_Constitutionality_and_jurisprudence	Capacity_and_resources
-82	184	Legality_Constitutionality_and_jurisprudence
-187	609	Policy_prescription_and_evaluation	Economic	Quality_of_life	Fairness_and_equality
-611	956	Quality_of_life	Health_and_safety
-958	1434	Economic	Morality	Quality_of_life	Fairness_and_equality
-1436	2044	Economic	External_regulation_and_reputation	Capacity_and_resources	Political	Security_and_defense

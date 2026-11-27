@@ -1,6 +1,0 @@
-0	72	Public_opinion	Fairness_and_equality
-76	330	Fairness_and_equality
-334	641	
-645	1443	Fairness_and_equality
-1447	2141	Political
-2145	2636	

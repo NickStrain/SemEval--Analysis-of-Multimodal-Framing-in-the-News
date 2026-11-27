@@ -1,8 +1,0 @@
-0	48	Crime_and_punishment
-51	437	Crime_and_punishment
-439	770	Health_and_safety	Crime_and_punishment
-772	931	Political	Crime_and_punishment
-933	1169	Policy_prescription_and_evaluation	Capacity_and_resources	Political
-1171	1526	Policy_prescription_and_evaluation	Political	Crime_and_punishment
-1528	1721	Crime_and_punishment
-1723	1971	Health_and_safety	Public_opinion	Crime_and_punishment

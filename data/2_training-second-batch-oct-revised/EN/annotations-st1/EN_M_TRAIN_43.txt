@@ -1,7 +1,0 @@
-0	76	Security_and_defense
-80	705	Health_and_safety	Quality_of_life	Security_and_defense
-709	802	
-806	1239	
-1243	1955	External_regulation_and_reputation	Health_and_safety	Quality_of_life	Crime_and_punishment
-1959	2362	Quality_of_life
-2366	2572	

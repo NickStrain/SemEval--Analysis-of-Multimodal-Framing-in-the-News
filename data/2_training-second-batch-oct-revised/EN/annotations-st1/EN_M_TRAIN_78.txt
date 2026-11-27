@@ -1,7 +1,0 @@
-0	86	
-90	785	Cultural_identity	Security_and_defense
-789	1160	
-1164	1383	Political	Public_opinion
-1387	2611	Security_and_defense	Crime_and_punishment
-2615	3009	Security_and_defense	Political	Fairness_and_equality	Crime_and_punishment
-3013	3509	Security_and_defense	Crime_and_punishment

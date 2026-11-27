@@ -1,6 +1,0 @@
-0	94	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
-98	887	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
-891	1299	Health_and_safety
-1303	1832	Crime_and_punishment
-1836	2129	Health_and_safety	Crime_and_punishment
-2133	2281	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment

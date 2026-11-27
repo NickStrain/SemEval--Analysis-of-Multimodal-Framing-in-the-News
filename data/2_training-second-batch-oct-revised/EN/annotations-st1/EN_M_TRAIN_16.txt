@@ -1,5 +1,0 @@
-0	69	Morality	Crime_and_punishment
-73	346	Health_and_safety
-350	611	Crime_and_punishment
-615	987	
-991	1386	Morality	Crime_and_punishment

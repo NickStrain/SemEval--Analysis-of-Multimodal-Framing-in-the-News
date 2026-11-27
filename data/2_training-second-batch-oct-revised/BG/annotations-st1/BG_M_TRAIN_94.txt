@@ -1,7 +1,0 @@
-0	55	
-59	412	Security_and_defense
-416	779	Policy_prescription_and_evaluation	Security_and_defense
-783	1044	
-1048	1395	Policy_prescription_and_evaluation	Economic	External_regulation_and_reputation
-1399	1867	Legality_Constitutionality_and_jurisprudence	Crime_and_punishment
-1871	2086	
