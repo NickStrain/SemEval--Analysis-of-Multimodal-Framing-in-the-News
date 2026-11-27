@@ -215,3 +215,9 @@ Codabench dev for EN_best_model alone: ~41 (selection on the 224 dev paragraphs 
 
 - best45_titlerule3x (45.07 blend + titles need 3× threshold): **46.90** (IDs 451, 453).
 - best45_titles_none (every title None): 46.59 (ID 452).
+
+## 10. Final analyses (src/analysis_final.py -> runs/analysis_final.md)
+
+CV ablation, paired article-bootstrap CIs (every ensemble step and the title rule exclude 0; title rule +1.07 [+0.22, +1.97]),
+per-frame F1 with/without the title rule (None F1 0.31 -> 0.41; frames within +-0.01), EN_best_model on held-out 2b
+(46.76 -> 48.38). Copied into README Section 5.

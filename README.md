@@ -8,7 +8,7 @@ External_regulation_and_reputation), or with none of them ("None"). Training dat
 Portuguese and Russian; **this work targets English**.
 
 - Official metric: micro-F1 over 15 classes (14 frames + None), `zero_division=1`.
-- **Best English dev result (Codabench): 46.90 micro-F1** — a fixed-weight blend of three models plus a title rule (Section 5).
+- **Best English dev result (Codabench): 46.90 micro-F1** — a fixed-weight blend of three models plus a title rule (Section 6).
 - Every experiment, number and command is recorded in [`runs/EXPERIMENT_LOG.md`](runs/EXPERIMENT_LOG.md).
 
 ---
@@ -212,7 +212,124 @@ check), run all. Do **not** put an access token in the notebook (public models n
 
 ---
 
-## 5. Reproducing the main results
+## 5. Analysis of results
+
+All CV numbers: English rows, 5 folds by article, nested selection. Full output: [`runs/analysis_final.md`](runs/analysis_final.md)
+(`python -m src.analysis_final`), error analysis: [`runs/diagnosis.md`](runs/diagnosis.md) (`python -m src.diagnose`).
+
+### 5.1 Ablation (CV)
+
+| system | EN micro | per fold | EN macro |
+|---|---|---|---|
+| mCPT alone | 35.69 | [36.5, 33.4, 37.3, 35.9, 35.2] | 33.4 |
+| XLM-R large alone | 39.01 | [40.4, 38.0, 39.4, 38.9, 38.2] | 37.7 |
+| silver DeBERTa alone | 37.06 | [36.6, 32.9, 40.0, 40.7, 34.8] | 35.4 |
+| silver DeBERTa, per-label thresholds | 34.57 | [33.2, 30.7, 36.8, 39.0, 32.7] | 31.4 |
+| mCPT + XLM-R large | 38.82 | [39.8, 37.4, 37.9, 39.7, 39.0] | 37.1 |
+| mCPT + XLM-R large + silver DeBERTa | 41.67 | [42.4, 39.6, 42.4, 42.0, 41.6] | 40.1 |
+| mCPT + XLM-R large + silver DeBERTa + title rule | 42.74 | [44.6, 40.4, 43.0, 42.0, 43.2] | 40.7 |
+
+**Ablation on the dev set (Codabench)** — each row adds one component:
+
+| system | dev micro-F1 | change |
+|---|---|---|
+| EN_best_model alone | ~41 | – |
+| + silver DeBERTa (0.6 / 0.4) | 44.54 | +3.5 |
+| + XLM-R large (0.45 / 0.35 / 0.20, matched threshold) | 45.07 | +0.5 |
+| + title rule | 46.90 | +1.8 |
+
+### 5.2 Are the gains real? Paired bootstrap over articles (CV, 2000 resamples)
+
+| A | B | gain (micro) | 95% CI | share of resamples with gain |
+|---|---|---|---|---|
+| silver DeBERTa, per-label thresholds | same, one global threshold | +2.49 | [+0.73, +4.39] | 1.00 |
+| mCPT alone | mCPT + XLM-R large | +3.13 | [+0.96, +5.31] | 1.00 |
+| mCPT + XLM-R large | ensemble | +2.85 | [+1.78, +3.90] | 1.00 |
+| mCPT alone | ensemble | +5.98 | [+3.94, +8.05] | 1.00 |
+| mCPT + XLM-R large + silver DeBERTa | ensemble + title rule | +1.07 | [+0.22, +1.97] | 0.99 |
+
+Every step's interval excludes zero. "ensemble" = mCPT + XLM-R large + silver DeBERTa.
+
+### 5.3 Error analysis (diagnosis of the CV ensemble)
+
+- **Ranking is good, decisions are not.** Per-frame AUC 0.85–0.92 (lowest: Morality 0.74, Security 0.77, Political 0.80),
+  but precision is 0.39 and recall 0.45.
+- **Upper bounds (oracles, deliberately cheating):** threshold tuned on the test fold 42.3; per-label thresholds on the test
+  fold 45.1; perfect None decision **57.0**; known number of labels per paragraph **59.5**; article's gold frame set known 47.7.
+  → the main loss is deciding *whether* and *how many* frames, not *which* frame.
+- **Biggest error sources** (micro-F1 gained if fixed): None +10.2 (176 None paragraphs given a frame), Security_and_defense +6.4
+  (177 false positives: the model labels the topic, e.g. war, rather than the framing), Political +6.0.
+- **Most common confusions:** Security instead of Political (23), Policy instead of Political (17), External_regulation instead
+  of Political (15), Security instead of Health (12).
+- **Rare abstract frames:** Morality F1 0.09, Cultural_identity 0.33, Fairness 0.35.
+- **By paragraph type:** titles micro 36.2 (gold 56% None, predicted 40%), body 42.1, paragraphs ≥ 80 words 46.3.
+- **Label count is not predictable from the scores:** a classifier for 0/1/2/3+ labels reaches 39% accuracy, below always
+  guessing "1" (41%); decision rules built on it (top-k, None gate, rank-dependent thresholds) all scored below the baseline.
+- **Labels are subjective:** an LLM (Claude) given the frame definitions and the full article scores 32.2 on 260 paragraphs
+  (our ensemble: 38.0 on the same paragraphs); adjacent paragraphs share only 19% of their labels (mean Jaccard).
+
+### 5.4 Follow-up experiment: the title rule
+
+From 5.3 (titles are mostly None but the model labels them), titles were given a stricter threshold. The factor was chosen
+on CV (all five folds chose 3×) and confirmed on the held-out 2b paragraphs before any dev upload.
+
+| frame | gold n | F1 | F1 + title rule |
+|---|---|---|---|
+| Economic | 57 | 0.46 | 0.47 |
+| Capacity_and_resources | 69 | 0.40 | 0.40 |
+| Morality | 57 | 0.09 | 0.09 |
+| Fairness_and_equality | 58 | 0.35 | 0.35 |
+| Legality_Constitutionality_and_jurisprudence | 66 | 0.51 | 0.50 |
+| Policy_prescription_and_evaluation | 74 | 0.43 | 0.43 |
+| Crime_and_punishment | 75 | 0.45 | 0.45 |
+| Security_and_defense | 164 | 0.46 | 0.47 |
+| Health_and_safety | 76 | 0.42 | 0.43 |
+| Quality_of_life | 90 | 0.46 | 0.46 |
+| Cultural_identity | 32 | 0.33 | 0.33 |
+| Public_opinion | 44 | 0.44 | 0.43 |
+| Political | 159 | 0.46 | 0.45 |
+| External_regulation_and_reputation | 69 | 0.44 | 0.43 |
+| None | 229 | 0.31 | 0.41 |
+
+- without title rule: precision 0.388, recall 0.450, titles predicted None 40% (gold 56%), title micro 36.2, body micro 42.1
+- with title rule: precision 0.400, recall 0.459, titles predicted None 93% (gold 56%), title micro 52.2, body micro 42.1
+
+Effect on the held-out 2b EN paragraphs with EN_best_model alone: micro 46.76 -> 48.38 with the title rule (3x threshold); titles 20, gold None among titles 80%
+
+| frame | gold n | F1 | F1 + title rule |
+|---|---|---|---|
+| Economic | 8 | 0.57 | 0.57 |
+| Capacity_and_resources | 20 | 0.14 | 0.14 |
+| Morality | 5 | 0.22 | 0.22 |
+| Fairness_and_equality | 20 | 0.00 | 0.00 |
+| Legality_Constitutionality_and_jurisprudence | 19 | 0.55 | 0.55 |
+| Policy_prescription_and_evaluation | 14 | 0.42 | 0.43 |
+| Crime_and_punishment | 26 | 0.46 | 0.47 |
+| Security_and_defense | 42 | 0.47 | 0.46 |
+| Health_and_safety | 17 | 0.65 | 0.67 |
+| Quality_of_life | 20 | 0.33 | 0.33 |
+| Cultural_identity | 3 | 0.00 | 0.00 |
+| Public_opinion | 9 | 0.56 | 0.56 |
+| Political | 34 | 0.54 | 0.57 |
+| External_regulation_and_reputation | 23 | 0.47 | 0.47 |
+| None | 66 | 0.57 | 0.64 |
+
+The rule changes almost only None: None F1 0.31 → 0.41 (CV) and 0.57 → 0.64 (2b); frame F1s stay within ±0.01.
+
+### 5.5 What did not help (all measured, see `runs/EXPERIMENT_LOG.md`)
+
+| experiment | effect |
+|---|---|
+| per-label thresholds instead of one global threshold | −2.5 (CI [−4.4, −0.7]) |
+| None rule (None if max prob < m) + label cap k | −0.4 to −1.8 |
+| LightGBM co-occurrence stacker | −3 to −4 |
+| DeBERTa-v3-large on gold data only | 23–25 (vs 37 with silver pre-training) |
+| silver pre-training for mCPT | −1.2 |
+| mCPT with translations / contrastive loss / two-stage contrastive | −1.4 to +0.7 alone |
+| fine-tuning a copy of EN_best_model on new data | +1.3 on held-out 2b, but −0.7 on dev |
+| gradient-free self-editing of mCPT weights | −2.3 on the locked held-out split |
+
+## 6. Reproducing the main results
 
 **Cross-validation runs** (each writes `runs/<phase>/<name>/oof.npz`):
 
@@ -265,7 +382,29 @@ DeBERTa silver pre-training 99 min, translation 4 min.
 
 ---
 
-## 6. Evaluation protocol (validity)
+## 7. Experiment validity
+
+| check | status |
+|---|---|
+| article-level folds (no article in two folds), stratified by language | ✅ `data/splits.json`, `data/folds.json` |
+| nested selection: epoch, weights, thresholds, title factor for each test fold chosen on the other four | ✅ |
+| locked final split (35 articles) never used for model selection; used once, for the self-editing study | ✅ |
+| translations: a translated paragraph inherits its source article's fold and never trains that fold | ✅ `train_cv.py` (`src_fold`) |
+| notebook leakage audit: duplicate-aware article split; dev paragraphs that (near-)duplicate any training text dropped (cosine ≥ 0.95) | ✅ |
+| scorer identical to the official starter-kit scorer | ✅ `src/verify_eval.py` |
+| dev labels never available; dev scores only from Codabench | ✅ |
+| oracle / upper-bound numbers clearly labelled as such | ✅ |
+| **dev leaderboard used for choices:** 20 Codabench uploads; blend weights (80/20 … 40/30/30) and 46.90 vs 46.59 were picked on dev | ⚠️ the best dev score (46.90) is optimistic for the test set; the title rule itself was chosen on CV + 2b, not dev |
+| **EN_best_model selected on the 224 2b paragraphs** (max over many evaluations) | ⚠️ its 2b score (.461–.468) is optimistic; independent dev score ~41 |
+| **seeds:** most runs use one seed; variation is reported across folds, not seeds | ⚠️ limitation |
+
+**External resources used** (to declare under the shared-task rules): pretrained models from Hugging Face (mCPT,
+XLM-R base/large, DeBERTa-v3-large, paraphrase-multilingual MiniLM/mpnet, NLLB-200-600M); SemEval-2023 Task 3 data
+(batch-1 release, phase 1 of the notebook and extra English rows); the mm-framing corpus (copenlu/mm-framing, MIT) as
+silver data; NLLB machine translations of the task's own BG/PT/RU training paragraphs. An LLM (Claude) was used only in
+a 260-paragraph labelling pilot (`src/teacher.py`), not in any submitted system.
+
+## 8. Evaluation protocol (details)
 
 - **Folds:** 5 folds split by article (no article in two folds), stratified by language; scores are on English rows.
 - **No test-fold tuning:** for each test fold, the epoch, ensemble weights and thresholds are chosen on the other
@@ -278,7 +417,7 @@ DeBERTa silver pre-training 99 min, translation 4 min.
 
 ---
 
-## 7. Licence and data
+## 9. Licence and data
 
 Code: see `LICENSE`. Shared-task data, the mm-framing corpus and pretrained models keep their own licences and are
 not redistributed here.
